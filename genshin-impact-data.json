@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Fontinalia",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Battle_Pass_Fontinalia.png/revision/latest/scale-to-width-down/250?cb=20231218042909",
-                "duration": [
-                    "December 20, 2023",
-                    "January 29, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fontinalia"
-            },
-            {
                 "event": "Gazing Up at Eternity, Looking Down at the World",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Gazing_Up_at_Eternity%2C_Looking_Down_at_the_World.png/revision/latest/scale-to-width-down/250?cb=20231218042913",
                 "duration": [
@@ -57,32 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-01-09"
             },
             {
-                "event": "Arataki Blazing Armor Beetle Battle Boot Camp",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Arataki_Blazing_Armor_Beetle_Battle_Boot_Camp.png/revision/latest/scale-to-width-down/250?cb=20240114213635",
-                "duration": [
-                    "January 17, 2024",
-                    "January 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Arataki_Blazing_Armor_Beetle_Battle_Boot_Camp"
-            },
-            {
-                "event": "Marvelous Merchandise 2024-01-22",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
-                "duration": [
-                    "January 22, 2024",
-                    "January 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2024-01-22"
-            },
-            {
                 "event": "Adeptus Mechanical Marvel",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Adeptus_Mechanical_Marvel.png/revision/latest/scale-to-width-down/250?cb=20240126041007",
                 "duration": [
@@ -98,6 +58,20 @@
             }
         ],
         "Upcoming": [
+            {
+                "event": "Vivid Flight",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Battle_Pass_Vivid_Flight.png/revision/latest/scale-to-width-down/250?cb=20240129130939",
+                "duration": [
+                    "January 31, 2024",
+                    "March 11, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Vivid_Flight"
+            },
             {
                 "event": "Frostflower Dew Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Frostflower_Dew_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041212",
@@ -176,7 +150,8 @@
                     "February 26, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Trial"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Triumphant_Frenzy"
@@ -196,22 +171,11 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-02-17"
             },
             {
-                "event": "Overflowing Mastery 4.4",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.4"
-            },
-            {
                 "event": "Of Kites and New Sights",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240119130232",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240130043713",
                 "duration": [
-                    " TBA "
+                    "February 20, 2024",
+                    "March 13, 2024"
                 ],
                 "type": [
                     "In-Game",
@@ -222,10 +186,24 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Of_Kites_and_New_Sights"
             },
             {
-                "event": "Journey Through Hilinigmatic Terrain",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Journey_Through_Hilinigmatic_Terrain.png/revision/latest/scale-to-width-down/250?cb=20240119130110",
+                "event": "Receiver of Friends From Afar",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Receiver_of_Friends_From_Afar.png/revision/latest/scale-to-width-down/250?cb=20240130043623",
                 "duration": [
-                    " TBA "
+                    "February 21, 2024",
+                    "March 04, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Receiver_of_Friends_From_Afar"
+            },
+            {
+                "event": "Journey Through Hilinigmatic Terrain",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Journey_Through_Hilinigmatic_Terrain.png/revision/latest/scale-to-width-down/250?cb=20240130043735",
+                "duration": [
+                    "February 29, 2024",
+                    "March 11, 2024"
                 ],
                 "type": [
                     "In-Game"
@@ -234,16 +212,17 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Journey_Through_Hilinigmatic_Terrain"
             },
             {
-                "event": "Receiver of Friends From Afar",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Receiver_of_Friends_From_Afar.png/revision/latest/scale-to-width-down/250?cb=20240119130108",
+                "event": "Overflowing Mastery 2024-03-04",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
                 "duration": [
-                    " TBA "
+                    "March 04, 2024",
+                    "March 11, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Receiver_of_Friends_From_Afar"
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-03-04"
             }
         ],
         "Permanent": [
