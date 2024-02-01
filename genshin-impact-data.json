@@ -2,47 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Gazing Up at Eternity, Looking Down at the World",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Gazing_Up_at_Eternity%2C_Looking_Down_at_the_World.png/revision/latest/scale-to-width-down/250?cb=20231218042913",
-                "duration": [
-                    "December 20, 2023",
-                    "January 31, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Gazing_Up_at_Eternity,_Looking_Down_at_the_World"
-            },
-            {
-                "event": "The Forge Realm's Temper: Game of Wits",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/The_Forge_Realm%27s_Temper_Game_of_Wits_2023-12-20.png/revision/latest/scale-to-width-down/250?cb=20231218042911",
-                "duration": [
-                    "December 20, 2023",
-                    "January 31, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2023-12-20"
-            },
-            {
-                "event": "Test Run - Raiden Shogun, Yoimiya, Chevreuse, Kujou Sara, Bennett",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Test_Run_-_Character_Trial_Event_Raiden_Yoimiya_Chevreuse_Sara_Bennett.png/revision/latest/scale-to-width-down/250?cb=20240110011835",
-                "duration": [
-                    "January 09, 2024",
-                    "January 30, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-01-09"
-            },
-            {
                 "event": "Adeptus Mechanical Marvel",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Adeptus_Mechanical_Marvel.png/revision/latest/scale-to-width-down/250?cb=20240126041007",
                 "duration": [
@@ -55,22 +14,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Adeptus_Mechanical_Marvel"
-            }
-        ],
-        "Upcoming": [
+            },
             {
-                "event": "Vivid Flight",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Battle_Pass_Vivid_Flight.png/revision/latest/scale-to-width-down/250?cb=20240129130939",
+                "event": "Gifts of Encounter 2024-01-31",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Gifts_of_Encounter_2024-01-31.png/revision/latest/scale-to-width-down/250?cb=20240131133406",
                 "duration": [
                     "January 31, 2024",
-                    "March 11, 2024"
+                    "February 09, 2024"
                 ],
                 "type": [
-                    "In-Game",
-                    "Battle Pass"
+                    "Web",
+                    "Login"
                 ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Vivid_Flight"
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2024-01-31"
             },
             {
                 "event": "Frostflower Dew Discount",
@@ -83,8 +40,22 @@
                     "In-Game",
                     "Discount"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Frostflower_Dew_Discount"
+            },
+            {
+                "event": "Vivid Flight",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Battle_Pass_Vivid_Flight.png/revision/latest/scale-to-width-down/250?cb=20240129130939",
+                "duration": [
+                    "January 31, 2024",
+                    "March 11, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Vivid_Flight"
             },
             {
                 "event": "Twilight Blossom Discount",
@@ -97,7 +68,7 @@
                     "In-Game",
                     "Discount"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Twilight_Blossom_Discount"
             },
             {
@@ -111,9 +82,11 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-01-31"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "May Fortune Find You 2024-02-03",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/May_Fortune_Find_You_2024-02-03.png/revision/latest/scale-to-width-down/250?cb=20240129041242",
@@ -350,6 +323,42 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "TGEFFQY7J6V2",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: January 31, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "CT2BDW7JD38M",
                 "server": "All",
