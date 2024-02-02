@@ -261,6 +261,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "DIVEINTODREAMS",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Bottled Soda",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Item_Bottled_Soda.png/revision/latest/scale-to-width-down/30?cb=20230502183842"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 1, 2024",
+                    "Valid until: Unknown</td"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "2AQA294J5R37",
                 "server": "All",
                 "rewards": [
