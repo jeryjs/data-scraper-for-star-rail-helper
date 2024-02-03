@@ -30,20 +30,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Frostflower_Dew_Discount"
             },
             {
-                "event": "Vivid Flight",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Battle_Pass_Vivid_Flight.png/revision/latest/scale-to-width-down/250?cb=20240129130939",
-                "duration": [
-                    "January 31, 2024",
-                    "March 11, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Vivid_Flight"
-            },
-            {
                 "event": "Twilight Blossom Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Twilight_Blossom_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041214",
                 "duration": [
@@ -58,6 +44,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Twilight_Blossom_Discount"
             },
             {
+                "event": "Vivid Flight",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Battle_Pass_Vivid_Flight.png/revision/latest/scale-to-width-down/250?cb=20240129130939",
+                "duration": [
+                    "January 31, 2024",
+                    "March 11, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Vivid_Flight"
+            },
+            {
                 "event": "The Forge Realm's Temper: Clever Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/The_Forge_Realm%27s_Temper_Clever_Stratagems_2024-01-31.png/revision/latest/scale-to-width-down/250?cb=20240129041221",
                 "duration": [
@@ -70,9 +70,21 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-01-31"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "When the Xiao Lanterns Rise As One",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/When_the_Xiao_Lanterns_Rise_As_One.png/revision/latest/scale-to-width-down/250?cb=20240202173051",
+                "duration": [
+                    "February 02, 2024",
+                    "February 21, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/When_the_Xiao_Lanterns_Rise_As_One"
+            },
             {
                 "event": "May Fortune Find You 2024-02-03",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/May_Fortune_Find_You_2024-02-03.png/revision/latest/scale-to-width-down/250?cb=20240129041242",
@@ -84,9 +96,11 @@
                     "In-Game",
                     "Login"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2024-02-03"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Vibrant Harriers Aloft in Spring Breeze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Vibrant_Harriers_Aloft_in_Spring_Breeze.png/revision/latest/scale-to-width-down/250?cb=20240129041227",
@@ -329,9 +343,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
                     },
                     {
-                        "name": "Stir-Fried Fish Noodles",
+                        "name": "Sweet Madame",
                         "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sweet_Madame.png/revision/latest/scale-to-width-down/20?cb=20210415134415"
                     },
                     {
                         "name": "Jueyun Chili Chicken",
@@ -365,9 +379,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
                     },
                     {
-                        "name": "Stir-Fried Fish Noodles",
+                        "name": "Sweet Madame",
                         "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sweet_Madame.png/revision/latest/scale-to-width-down/20?cb=20210415134415"
                     },
                     {
                         "name": "Jueyun Chili Chicken",
