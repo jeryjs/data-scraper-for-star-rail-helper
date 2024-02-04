@@ -248,6 +248,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "0206GRANDOPEN",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Energy Drink",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Item_Energy_Drink.png/revision/latest/scale-to-width-down/30?cb=20230502182126"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 3, 2024",
+                    "Valid until: Unknown</td"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "0206PENACONY",
                 "server": "All",
                 "rewards": [

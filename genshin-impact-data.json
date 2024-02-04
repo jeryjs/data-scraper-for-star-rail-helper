@@ -16,6 +16,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2024-01-31"
             },
             {
+                "event": "Test Run - Xianyun, Nahida, Gaming, Faruzan",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Test_Run_-_Character_Trial_Event_Xianyun_Nahida_Gaming_Faruzan.png/revision/latest/scale-to-width-down/250?cb=20240203151015",
+                "duration": [
+                    "January 31, 2024",
+                    "February 20, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-01-31"
+            },
+            {
                 "event": "Frostflower Dew Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Frostflower_Dew_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041212",
                 "duration": [
@@ -324,7 +338,7 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "FBYQA7X71H92MEIR79527PDC",
+                "code": "FBYQA7X71H92MEIR79527PDCWAZGIKZ9K6NM",
                 "server": "All",
                 "rewards": [
                     {
