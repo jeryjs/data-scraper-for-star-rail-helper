@@ -248,7 +248,91 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "0206GRANDOPEN",
+                "code": "DREAMTOGETHER",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Flaming Potent Tea",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Item_Flaming_Potent_Tea.png/revision/latest/scale-to-width-down/30?cb=20230901012010"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 4, 2024",
+                    "<b"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "POMPOMQuick Redeem",
+                "server": "China",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Refined Aether",
+                        "amount": "4",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030941"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 4, 2024",
+                    "<b"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "HAPPYSPRINGFESQuick Redeem",
+                "server": "China",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 4, 2024",
+                    "<b"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "XINCHUNKUAILEQuick Redeem",
+                "server": "China",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "50000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 4, 2024",
+                    "<b"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "0206GRANDOPENQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -264,12 +348,12 @@
                 ],
                 "duration": [
                     "Discovered: February 3, 2024",
-                    "Valid until: Unknown</td"
+                    "<b"
                 ],
                 "isExpired": false
             },
             {
-                "code": "0206PENACONY",
+                "code": "0206PENACONYQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -285,12 +369,12 @@
                 ],
                 "duration": [
                     "Discovered: February 2, 2024",
-                    "Valid until: Unknown</td"
+                    "<b"
                 ],
                 "isExpired": false
             },
             {
-                "code": "DIVEINTODREAMS",
+                "code": "DIVEINTODREAMSQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -306,12 +390,12 @@
                 ],
                 "duration": [
                     "Discovered: February 1, 2024",
-                    "Valid until: Unknown</td"
+                    "<b"
                 ],
                 "isExpired": false
             },
             {
-                "code": "2AQA294J5R37",
+                "code": "2AQA294J5R37Quick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -327,12 +411,12 @@
                 ],
                 "duration": [
                     "Discovered: January 1, 2024",
-                    "Valid until: Unknown</td"
+                    "<b"
                 ],
                 "isExpired": false
             },
             {
-                "code": "HSRGALAXY23",
+                "code": "HSRGALAXY23Quick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -358,12 +442,12 @@
                 ],
                 "duration": [
                     "Discovered: December 27, 2023",
-                    "Valid until: Unknown</td"
+                    "<b"
                 ],
                 "isExpired": false
             },
             {
-                "code": "NB9TKRMK5R23",
+                "code": "NB9TKRMK5R23Quick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -379,12 +463,12 @@
                 ],
                 "duration": [
                     "Discovered: December 27, 2023",
-                    "Valid until: Unknown</td"
+                    "<b"
                 ],
                 "isExpired": false
             },
             {
-                "code": "STARRAILGIFT",
+                "code": "STARRAILGIFTQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -423,7 +507,7 @@
                 ],
                 "duration": [
                     "Discovered: January 26, 2024",
-                    "Expired: January 27, 2024</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -444,7 +528,7 @@
                 ],
                 "duration": [
                     "Discovered: January 26, 2024",
-                    "Expired: January 27, 2024</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -465,12 +549,12 @@
                 ],
                 "duration": [
                     "Discovered: January 26, 2024",
-                    "Expired: January 27, 2024</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "9TRB7C2LDQBP",
+                "code": "9TRB7C2LDQBPQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -486,12 +570,12 @@
                 ],
                 "duration": [
                     "Discovered: December 6, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "5S9BND25CRBK",
+                "code": "5S9BND25CRBKQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -507,12 +591,12 @@
                 ],
                 "duration": [
                     "Discovered: November 15, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "US9SND24U8FB",
+                "code": "US9SND24U8FBQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -523,12 +607,12 @@
                 ],
                 "duration": [
                     "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "ST9T6DKLVRGX",
+                "code": "ST9T6DKLVRGXQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -539,12 +623,12 @@
                 ],
                 "duration": [
                     "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "4BQSPDKLVQFF",
+                "code": "4BQSPDKLVQFFQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -555,12 +639,12 @@
                 ],
                 "duration": [
                     "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "YTRB6VKMVRZB",
+                "code": "YTRB6VKMVRZBQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -571,12 +655,12 @@
                 ],
                 "duration": [
                     "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "KB9A7VJ5VQW7",
+                "code": "KB9A7VJ5VQW7Quick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -587,12 +671,12 @@
                 ],
                 "duration": [
                     "Discovered: November 15, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "KBQBEP3L8823",
+                "code": "KBQBEP3L8823Quick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -608,12 +692,12 @@
                 ],
                 "duration": [
                     "Discovered: October 27, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "PT8TF72MQ93X",
+                "code": "PT8TF72MQ93XQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -629,7 +713,7 @@
                 ],
                 "duration": [
                     "Discovered: October 11, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -645,7 +729,7 @@
                 ],
                 "duration": [
                     "Discovered: July 10, 2023",
-                    "Expired: December 31, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -666,7 +750,7 @@
                 ],
                 "duration": [
                     "Discovered: December 15, 2023",
-                    "Expired: December 16, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -687,7 +771,7 @@
                 ],
                 "duration": [
                     "Discovered: December 15, 2023",
-                    "Expired: December 16, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -708,12 +792,12 @@
                 ],
                 "duration": [
                     "Discovered: December 15, 2023",
-                    "Expired: December 16, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "ELFNBN5W2J",
+                "code": "ELFNBN5W2JQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -739,12 +823,12 @@
                 ],
                 "duration": [
                     "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "SOULKGQM2X",
+                "code": "SOULKGQM2XQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -770,12 +854,12 @@
                 ],
                 "duration": [
                     "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "JT8BPUJMURUP",
+                "code": "JT8BPUJMURUPQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -786,7 +870,7 @@
                 ],
                 "duration": [
                     "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -817,7 +901,7 @@
                 ],
                 "duration": [
                     "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -838,7 +922,7 @@
                 ],
                 "duration": [
                     "Discovered: November 3, 2023",
-                    "Expired: November 4, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -859,7 +943,7 @@
                 ],
                 "duration": [
                     "Discovered: November 3, 2023",
-                    "Expired: November 4, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -880,7 +964,7 @@
                 ],
                 "duration": [
                     "Discovered: November 3, 2023",
-                    "Expired: November 4, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -901,7 +985,7 @@
                 ],
                 "duration": [
                     "Discovered: September 29, 2023",
-                    "Expired: September 30, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -922,7 +1006,7 @@
                 ],
                 "duration": [
                     "Discovered: September 29, 2023",
-                    "Expired: September 30, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -943,12 +1027,12 @@
                 ],
                 "duration": [
                     "Discovered: September 29, 2023",
-                    "Expired: September 30, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
             {
-                "code": "STPN3TUUTQ8K",
+                "code": "STPN3TUUTQ8KQuick Redeem",
                 "server": "All",
                 "rewards": [
                     {
@@ -964,7 +1048,7 @@
                 ],
                 "duration": [
                     "Discovered: September 20, 2023",
-                    "Expired: October 10, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -985,7 +1069,7 @@
                 ],
                 "duration": [
                     "Discovered: August 30, 2023",
-                    "Expired: September 26, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1006,7 +1090,7 @@
                 ],
                 "duration": [
                     "Discovered: August 9, 2023",
-                    "Expired: August 29, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1027,7 +1111,7 @@
                 ],
                 "duration": [
                     "Discovered: July 19, 2023",
-                    "Expired: August 29, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1048,7 +1132,7 @@
                 ],
                 "duration": [
                     "Discovered: August 18, 2023",
-                    "Expired: August 19, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1069,7 +1153,7 @@
                 ],
                 "duration": [
                     "Discovered: August 18, 2023",
-                    "Expired: August 19, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1090,7 +1174,7 @@
                 ],
                 "duration": [
                     "Discovered: August 18, 2023",
-                    "Expired: August 19, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1116,7 +1200,7 @@
                 ],
                 "duration": [
                     "Discovered: August 4, 2023",
-                    "Expired: August 11, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1137,7 +1221,7 @@
                 ],
                 "duration": [
                     "Discovered: June 28, 2023",
-                    "Expired: July 19, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1158,7 +1242,7 @@
                 ],
                 "duration": [
                     "Discovered: June 7, 2023",
-                    "Expired: July 19, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1184,7 +1268,7 @@
                 ],
                 "duration": [
                     "Discovered: June 15, 2023",
-                    "Expired: June 20, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1215,7 +1299,7 @@
                 ],
                 "duration": [
                     "Discovered: June 7, 2023",
-                    "Expired: June 7, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1236,7 +1320,7 @@
                 ],
                 "duration": [
                     "Discovered: July 8, 2023",
-                    "Expired: July 9, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1257,7 +1341,7 @@
                 ],
                 "duration": [
                     "Discovered: July 8, 2023",
-                    "Expired: July 9, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1278,7 +1362,7 @@
                 ],
                 "duration": [
                     "Discovered: July 8, 2023",
-                    "Expired: July 9, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1299,7 +1383,7 @@
                 ],
                 "duration": [
                     "Discovered: May 17, 2023",
-                    "Expired: June 4, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1330,7 +1414,7 @@
                 ],
                 "duration": [
                     "Discovered: April 30, 2023",
-                    "Expired: May 7, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1346,7 +1430,7 @@
                 ],
                 "duration": [
                     "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1367,7 +1451,7 @@
                 ],
                 "duration": [
                     "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1388,7 +1472,7 @@
                 ],
                 "duration": [
                     "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1409,7 +1493,7 @@
                 ],
                 "duration": [
                     "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1440,7 +1524,7 @@
                 ],
                 "duration": [
                     "Discovered: April 26, 2023",
-                    "Expired: May 9, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1461,7 +1545,7 @@
                 ],
                 "duration": [
                     "Discovered: April 26, 2023",
-                    "Expired: April 30, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1482,7 +1566,7 @@
                 ],
                 "duration": [
                     "Discovered: April 26, 2023",
-                    "Expired: April 30, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             },
@@ -1503,7 +1587,7 @@
                 ],
                 "duration": [
                     "Discovered: April 26, 2023",
-                    "Expired: April 30, 2023</td"
+                    "<b"
                 ],
                 "isExpired": true
             }
