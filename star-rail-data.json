@@ -15,6 +15,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Proposal_from_Dr._Ratio"
             },
             {
+                "event": "Check-In Event 2024-02-05",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Check-In_Event.png/revision/latest/scale-to-width-down/250?cb=20231111024435",
+                "duration": [
+                    "February 05, 2024",
+                    "February 19, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Check-In_Event/2024-02-05"
+            },
+            {
                 "event": "Festival Invitation",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Event_Festival_Invitation.png/revision/latest/scale-to-width-down/250?cb=20240206101711",
                 "duration": [
@@ -26,6 +39,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festival_Invitation"
+            },
+            {
+                "event": "Twitch Drops 2024-02-06",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Event_Twitch_Drops_2024-02-06.png/revision/latest/scale-to-width-down/250?cb=20240206233018",
+                "duration": [
+                    "February 06, 2024",
+                    "March 05, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Twitch_Drops/2024-02-06"
             },
             {
                 "event": "Dreamchaser Bulletin",
@@ -549,37 +575,6 @@
                 "isExpired": false
             },
             {
-                "code": "HSRGALAXY23Quick Redeem",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Traveler's Guide",
-                        "amount": "4",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
-                    },
-                    {
-                        "name": "Refined Aether",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030941"
-                    },
-                    {
-                        "name": "Hypnotic Hammer",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Item_Hypnotic_Hammer.png/revision/latest/scale-to-width-down/30?cb=20231203025030"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "20000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: December 27, 2023",
-                    "<b"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "STARRAILGIFTQuick Redeem",
                 "server": "All",
                 "rewards": [
@@ -619,6 +614,37 @@
                 ],
                 "duration": [
                     "Discovered: January 1, 2024",
+                    "<b"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "HSRGALAXY23Quick Redeem",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "4",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "Refined Aether",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030941"
+                    },
+                    {
+                        "name": "Hypnotic Hammer",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Item_Hypnotic_Hammer.png/revision/latest/scale-to-width-down/30?cb=20231203025030"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 27, 2023",
                     "<b"
                 ],
                 "isExpired": true
