@@ -92,9 +92,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Stellarium"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Hanu's Prison Break",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Event_Hanu%27s_Prison_Break.png/revision/latest/scale-to-width-down/250?cb=20240126134657",
@@ -105,9 +103,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Hanu%27s_Prison_Break"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 2024-02-22",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
