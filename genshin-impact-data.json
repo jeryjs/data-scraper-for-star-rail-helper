@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Gifts of Encounter 2024-01-31",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Gifts_of_Encounter_2024-01-31.png/revision/latest/scale-to-width-down/250?cb=20240131133406",
-                "duration": [
-                    "January 31, 2024",
-                    "February 09, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2024-01-31"
-            },
-            {
                 "event": "Test Run - Xianyun, Nahida, Gaming, Faruzan",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Test_Run_-_Character_Trial_Event_Xianyun_Nahida_Gaming_Faruzan.png/revision/latest/scale-to-width-down/250?cb=20240203151015",
                 "duration": [
@@ -28,20 +14,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-01-31"
-            },
-            {
-                "event": "Frostflower Dew Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Frostflower_Dew_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041212",
-                "duration": [
-                    "January 31, 2024",
-                    "March 11, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Frostflower_Dew_Discount"
             },
             {
                 "event": "Vivid Flight",
@@ -70,6 +42,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Twilight_Blossom_Discount"
+            },
+            {
+                "event": "Frostflower Dew Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Frostflower_Dew_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041212",
+                "duration": [
+                    "January 31, 2024",
+                    "March 11, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Frostflower_Dew_Discount"
             },
             {
                 "event": "The Forge Realm's Temper: Clever Stratagems",
@@ -126,6 +112,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Vibrant_Harriers_Aloft_in_Spring_Breeze"
+            },
+            {
+                "event": "Dancing Beasts and Soaring Kites",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Dancing_Beasts_and_Soaring_Kites.png/revision/latest/scale-to-width-down/250?cb=20240208045845",
+                "duration": [
+                    "February 08, 2024",
+                    "February 17, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Dancing_Beasts_and_Soaring_Kites"
             }
         ],
         "Upcoming": [
@@ -337,6 +337,37 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "8SJSDSX68UF9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "8,888",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Clearwater Jade",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Clearwater_Jade.png/revision/latest/scale-to-width-down/20?cb=20240131042352"
+                    },
+                    {
+                        "name": "Encompassing Gladness",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Encompassing_Gladness.png/revision/latest/scale-to-width-down/20?cb=20240131020241"
+                    },
+                    {
+                        "name": "Bountiful Year",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Bountiful_Year.png/revision/latest/scale-to-width-down/20?cb=20220107162532"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 9, 2024",
+                    "Valid until: February 24, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "QOTR3M8X535N",
                 "server": "All",
