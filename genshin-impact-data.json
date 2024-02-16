@@ -126,9 +126,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Dancing_Beasts_and_Soaring_Kites"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Triumphant Frenzy",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Triumphant_Frenzy.png/revision/latest/scale-to-width-down/250?cb=20240129041244",
@@ -140,9 +138,11 @@
                     "In-Game",
                     "Trial"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Triumphant_Frenzy"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Heated_Battle_Mode_Tactical_Formation_2024-02-17.png/revision/latest/scale-to-width-down/250?cb=20240129041219",
