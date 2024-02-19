@@ -86,20 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/When_the_Xiao_Lanterns_Rise_As_One"
             },
             {
-                "event": "May Fortune Find You 2024-02-03",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/May_Fortune_Find_You_2024-02-03.png/revision/latest/scale-to-width-down/250?cb=20240129041242",
-                "duration": [
-                    "February 03, 2024",
-                    "February 18, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2024-02-03"
-            },
-            {
                 "event": "Vibrant Harriers Aloft in Spring Breeze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Vibrant_Harriers_Aloft_in_Spring_Breeze.png/revision/latest/scale-to-width-down/250?cb=20240129041227",
                 "duration": [
@@ -114,20 +100,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Vibrant_Harriers_Aloft_in_Spring_Breeze"
             },
             {
-                "event": "Dancing Beasts and Soaring Kites",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Dancing_Beasts_and_Soaring_Kites.png/revision/latest/scale-to-width-down/250?cb=20240208045845",
-                "duration": [
-                    "February 08, 2024",
-                    "February 17, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Dancing_Beasts_and_Soaring_Kites"
-            },
-            {
                 "event": "Triumphant Frenzy",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Triumphant_Frenzy.png/revision/latest/scale-to-width-down/250?cb=20240129041244",
                 "duration": [
@@ -140,9 +112,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Triumphant_Frenzy"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Heated_Battle_Mode_Tactical_Formation_2024-02-17.png/revision/latest/scale-to-width-down/250?cb=20240129041219",
@@ -154,9 +124,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-02-17"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Of Kites and New Sights",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240130043713",
