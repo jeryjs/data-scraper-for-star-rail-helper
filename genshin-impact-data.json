@@ -126,9 +126,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-02-17"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Of Kites and New Sights",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240130043713",
@@ -141,9 +139,11 @@
                     "Login",
                     "Mail"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Of_Kites_and_New_Sights"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Receiver of Friends From Afar",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Receiver_of_Friends_From_Afar.png/revision/latest/scale-to-width-down/250?cb=20240130043623",
