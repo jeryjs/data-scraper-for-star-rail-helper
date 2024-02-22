@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Test Run - Xianyun, Nahida, Gaming, Faruzan",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Test_Run_-_Character_Trial_Event_Xianyun_Nahida_Gaming_Faruzan.png/revision/latest/scale-to-width-down/250?cb=20240203151015",
-                "duration": [
-                    "January 31, 2024",
-                    "February 20, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-01-31"
-            },
-            {
                 "event": "Vivid Flight",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Battle_Pass_Vivid_Flight.png/revision/latest/scale-to-width-down/250?cb=20240129130939",
                 "duration": [
@@ -28,20 +14,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Vivid_Flight"
-            },
-            {
-                "event": "Twilight Blossom Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Twilight_Blossom_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041214",
-                "duration": [
-                    "January 31, 2024",
-                    "March 11, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Twilight_Blossom_Discount"
             },
             {
                 "event": "Frostflower Dew Discount",
@@ -58,6 +30,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Frostflower_Dew_Discount"
             },
             {
+                "event": "Twilight Blossom Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Twilight_Blossom_Discount.png/revision/latest/scale-to-width-down/250?cb=20240129041214",
+                "duration": [
+                    "January 31, 2024",
+                    "March 11, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Twilight_Blossom_Discount"
+            },
+            {
                 "event": "The Forge Realm's Temper: Clever Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/The_Forge_Realm%27s_Temper_Clever_Stratagems_2024-01-31.png/revision/latest/scale-to-width-down/250?cb=20240129041221",
                 "duration": [
@@ -70,20 +56,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-01-31"
-            },
-            {
-                "event": "When the Xiao Lanterns Rise As One",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/When_the_Xiao_Lanterns_Rise_As_One.png/revision/latest/scale-to-width-down/250?cb=20240202173051",
-                "duration": [
-                    "February 02, 2024",
-                    "February 21, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/When_the_Xiao_Lanterns_Rise_As_One"
             },
             {
                 "event": "Vibrant Harriers Aloft in Spring Breeze",
@@ -128,23 +100,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-02-17"
             },
             {
-                "event": "Of Kites and New Sights",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240130043713",
-                "duration": [
-                    "February 20, 2024",
-                    "March 13, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login",
-                    "Mail"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Of_Kites_and_New_Sights"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Receiver of Friends From Afar",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Receiver_of_Friends_From_Afar.png/revision/latest/scale-to-width-down/250?cb=20240130043623",
                 "duration": [
@@ -154,8 +109,25 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Receiver_of_Friends_From_Afar"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Of Kites and New Sights",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240130043713",
+                "duration": [
+                    "February 24, 2024",
+                    "March 13, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Of_Kites_and_New_Sights"
             },
             {
                 "event": "Journey Through Hilinigmatic Terrain",
