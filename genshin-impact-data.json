@@ -111,9 +111,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Receiver_of_Friends_From_Afar"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Of Kites and New Sights",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Of_Kites_and_New_Sights.png/revision/latest/scale-to-width-down/250?cb=20240130043713",
@@ -126,9 +124,11 @@
                     "Login",
                     "Mail"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Of_Kites_and_New_Sights"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Journey Through Hilinigmatic Terrain",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Journey_Through_Hilinigmatic_Terrain.png/revision/latest/scale-to-width-down/250?cb=20240130043735",
