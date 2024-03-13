@@ -161,11 +161,8 @@ def run_with_error_handling(func):
         discord_notify(f"Whoops~ Looks like HoYo Scraper ran into the following errors:\n{discord_message}", True)
 
 if __name__ == "__main__":
-    # events = run_with_error_handling(fetch_events)
-    # codes = run_with_error_handling(fetch_codes)
-    # save_to_json(events, codes)
+    events = run_with_error_handling(fetch_events)
+    codes = run_with_error_handling(fetch_codes)
+    save_to_json(events, codes)
     
-    # discord_notify(f"`genshin-impact-data.json` was updated.\n{discord_message}")
-
-    codes = fetch_codes()
-    print(codes)
+    discord_notify(f"`genshin-impact-data.json` was updated.\n{discord_message}")
