@@ -58,7 +58,7 @@ def fetch_codes():
     for index, code_row in enumerate(table):
         try:
             print(f'[{index}] getting code:', end=' ')
-            code = code_row.contents[0].text.split('[')[0].strip()
+            code = code_row.contents[0].text.split('[')[0].split("Quick Redeem")[0].strip()
             print(code)
             server = code_row.contents[1].text.strip()
             rewards = parse_rewards(code_row.contents[2])
