@@ -29,32 +29,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festival_Invitation"
             },
             {
-                "event": "Twitch Drops 2024-02-06",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Event_Twitch_Drops_2024-02-06.png/revision/latest/scale-to-width-down/250?cb=20240206233018",
-                "duration": [
-                    "February 06, 2024",
-                    "March 05, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Twitch_Drops/2024-02-06"
-            },
-            {
-                "event": "Aptitude Showcase - Black Swan, Dan Heng \u2022 Imbibitor Lunae, Misha, Guinaifen, Tingyun",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/Aptitude_Showcase_-_Black_Swan%2C_Dan_Heng_%E2%80%A2_Imbibitor_Lunae%2C_Misha%2C_Guinaifen%2C_Tingyun.png/revision/latest/scale-to-width-down/250?cb=20240213040317",
-                "duration": [
-                    "February 06, 2024",
-                    "February 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-02-06"
-            },
-            {
                 "event": "Dreamchaser Bulletin",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Event_Dreamchaser_Bulletin.png/revision/latest/scale-to-width-down/250?cb=20240126134654",
                 "duration": [
@@ -121,21 +95,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Hanu%27s_Prison_Break"
             },
             {
-                "event": "Planar Fissure 2024-02-22",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
-                "duration": [
-                    "February 22, 2024",
-                    "February 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-02-22"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Dreamjolt TV",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Dreamjolt_TV.png/revision/latest/scale-to-width-down/250?cb=20240126134655",
                 "duration": [
@@ -145,8 +104,21 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Dreamjolt_TV"
+            },
+            {
+                "event": "Aptitude Showcase - Sparkle, Jing Yuan, Sampo, Qingque, Hanya",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Aptitude_Showcase_-_Sparkle%2C_Jing_Yuan%2C_Sampo%2C_Qingque%2C_Hanya.png/revision/latest/scale-to-width-down/250?cb=20240229040353",
+                "duration": [
+                    "February 29, 2024",
+                    "March 26, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-02-29"
             },
             {
                 "event": "Penacony Food Fest",
@@ -158,9 +130,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Penacony_Food_Fest"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Garden of Plenty 2024-03-16",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
@@ -190,6 +164,18 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Daily_Check-in"
             },
             {
+                "event": "Starkissed Synchrony",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Event_Starkissed_Synchrony.png/revision/latest/scale-to-width-down/250?cb=20230720143547",
+                "duration": [
+                    "April 26, 2023"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Starkissed_Synchrony"
+            },
+            {
                 "event": "Trailblazing Will",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Event_Trailblazing_Will.png/revision/latest/scale-to-width-down/250?cb=20230528143248",
                 "duration": [
@@ -212,18 +198,6 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Turquoise%27s_Reverie"
-            },
-            {
-                "event": "Starkissed Synchrony",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Event_Starkissed_Synchrony.png/revision/latest/scale-to-width-down/250?cb=20230720143547",
-                "duration": [
-                    "April 26, 2023"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Permanent",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Starkissed_Synchrony"
             },
             {
                 "event": "Starlit Homecoming",
@@ -288,18 +262,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Simulated_Universe:_Gold_and_Gears"
             },
             {
-                "event": "Pure Fiction",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Event_Pure_Fiction.png/revision/latest/scale-to-width-down/250?cb=20240117051326",
-                "duration": [
-                    "January 08, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Permanent",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Pure_Fiction"
-            },
-            {
                 "event": "Camping in the Snow",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Event_Camping_in_the_Snow.png/revision/latest/scale-to-width-down/250?cb=20240121134915",
                 "duration": [
@@ -316,7 +278,7 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "6B976L2STURF",
+                "code": "SB87P52BTVQ3",
                 "server": "All",
                 "rewards": [
                     {
@@ -331,7 +293,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 6, 2024",
+                    "Discovered: February 29, 2024",
                     "<b"
                 ],
                 "isExpired": false
@@ -400,7 +362,7 @@
                 "isExpired": false
             },
             {
-                "code": "0206GRANDOPENQuick Redeem",
+                "code": "0206GRANDOPEN",
                 "server": "All",
                 "rewards": [
                     {
@@ -421,7 +383,7 @@
                 "isExpired": false
             },
             {
-                "code": "0206PENACONYQuick Redeem",
+                "code": "0206PENACONY",
                 "server": "All",
                 "rewards": [
                     {
@@ -442,7 +404,7 @@
                 "isExpired": false
             },
             {
-                "code": "DIVEINTODREAMSQuick Redeem",
+                "code": "DIVEINTODREAMS",
                 "server": "All",
                 "rewards": [
                     {
@@ -463,7 +425,7 @@
                 "isExpired": false
             },
             {
-                "code": "STARRAILGIFTQuick Redeem",
+                "code": "STARRAILGIFT",
                 "server": "All",
                 "rewards": [
                     {
@@ -485,6 +447,27 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "6B976L2STURF",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 6, 2024",
+                    "<b"
+                ],
+                "isExpired": true
+            },
             {
                 "code": "ZA9674JSAUPF",
                 "server": "All",
@@ -549,7 +532,7 @@
                 "isExpired": true
             },
             {
-                "code": "POMPOMQuick Redeem",
+                "code": "POMPOM",
                 "server": "China",
                 "rewards": [
                     {
@@ -570,7 +553,7 @@
                 "isExpired": true
             },
             {
-                "code": "HAPPYSPRINGFESQuick Redeem",
+                "code": "HAPPYSPRINGFES",
                 "server": "China",
                 "rewards": [
                     {
@@ -591,7 +574,7 @@
                 "isExpired": true
             },
             {
-                "code": "XINCHUNKUAILEQuick Redeem",
+                "code": "XINCHUNKUAILE",
                 "server": "China",
                 "rewards": [
                     {
@@ -612,7 +595,7 @@
                 "isExpired": true
             },
             {
-                "code": "2AQA294J5R37Quick Redeem",
+                "code": "2AQA294J5R37",
                 "server": "All",
                 "rewards": [
                     {
@@ -633,7 +616,7 @@
                 "isExpired": true
             },
             {
-                "code": "HSRGALAXY23Quick Redeem",
+                "code": "HSRGALAXY23",
                 "server": "All",
                 "rewards": [
                     {
@@ -664,7 +647,7 @@
                 "isExpired": true
             },
             {
-                "code": "NB9TKRMK5R23Quick Redeem",
+                "code": "NB9TKRMK5R23",
                 "server": "All",
                 "rewards": [
                     {
@@ -748,7 +731,7 @@
                 "isExpired": true
             },
             {
-                "code": "9TRB7C2LDQBPQuick Redeem",
+                "code": "9TRB7C2LDQBP",
                 "server": "All",
                 "rewards": [
                     {
@@ -769,7 +752,7 @@
                 "isExpired": true
             },
             {
-                "code": "5S9BND25CRBKQuick Redeem",
+                "code": "5S9BND25CRBK",
                 "server": "All",
                 "rewards": [
                     {
@@ -790,7 +773,7 @@
                 "isExpired": true
             },
             {
-                "code": "US9SND24U8FBQuick Redeem",
+                "code": "US9SND24U8FB",
                 "server": "All",
                 "rewards": [
                     {
@@ -806,7 +789,7 @@
                 "isExpired": true
             },
             {
-                "code": "ST9T6DKLVRGXQuick Redeem",
+                "code": "ST9T6DKLVRGX",
                 "server": "All",
                 "rewards": [
                     {
@@ -822,7 +805,7 @@
                 "isExpired": true
             },
             {
-                "code": "4BQSPDKLVQFFQuick Redeem",
+                "code": "4BQSPDKLVQFF",
                 "server": "All",
                 "rewards": [
                     {
@@ -838,7 +821,7 @@
                 "isExpired": true
             },
             {
-                "code": "YTRB6VKMVRZBQuick Redeem",
+                "code": "YTRB6VKMVRZB",
                 "server": "All",
                 "rewards": [
                     {
@@ -854,7 +837,7 @@
                 "isExpired": true
             },
             {
-                "code": "KB9A7VJ5VQW7Quick Redeem",
+                "code": "KB9A7VJ5VQW7",
                 "server": "All",
                 "rewards": [
                     {
@@ -870,7 +853,7 @@
                 "isExpired": true
             },
             {
-                "code": "KBQBEP3L8823Quick Redeem",
+                "code": "KBQBEP3L8823",
                 "server": "All",
                 "rewards": [
                     {
@@ -891,7 +874,7 @@
                 "isExpired": true
             },
             {
-                "code": "PT8TF72MQ93XQuick Redeem",
+                "code": "PT8TF72MQ93X",
                 "server": "All",
                 "rewards": [
                     {
@@ -991,7 +974,7 @@
                 "isExpired": true
             },
             {
-                "code": "ELFNBN5W2JQuick Redeem",
+                "code": "ELFNBN5W2J",
                 "server": "All",
                 "rewards": [
                     {
@@ -1022,7 +1005,7 @@
                 "isExpired": true
             },
             {
-                "code": "SOULKGQM2XQuick Redeem",
+                "code": "SOULKGQM2X",
                 "server": "All",
                 "rewards": [
                     {
@@ -1053,7 +1036,7 @@
                 "isExpired": true
             },
             {
-                "code": "JT8BPUJMURUPQuick Redeem",
+                "code": "JT8BPUJMURUP",
                 "server": "All",
                 "rewards": [
                     {
@@ -1189,7 +1172,7 @@
                 "rewards": [
                     {
                         "name": "Stellar Jade",
-                        "amount": "50",
+                        "amount": "100",
                         "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
                     },
                     {
@@ -1226,7 +1209,7 @@
                 "isExpired": true
             },
             {
-                "code": "STPN3TUUTQ8KQuick Redeem",
+                "code": "STPN3TUUTQ8K",
                 "server": "All",
                 "rewards": [
                     {
