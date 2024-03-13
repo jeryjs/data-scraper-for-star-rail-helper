@@ -107,8 +107,8 @@ def parse_rewards(html_element):
 def parse_duration(duration_html):
     duration = str(duration_html).split('>')
     for i in range(len(duration)): 
-        duration[i] = duration[i].replace('<br/', '').replace('\n</td', '').strip()
-    return [duration[1], duration[2]]
+        duration[i] = duration[i].replace('<br/', '').replace('</b', '').strip()
+    return [duration[1], duration[3]]
 
 
 def save_to_json(events, codes):
