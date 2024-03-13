@@ -57,8 +57,12 @@ def fetch_codes():
     codes = {'activeCodes': [], 'expiredCodes': []}
     for index, code_row in enumerate(table):
         try:
+            code_link = code_row.contents[1].select_one('a')
+            if code_link and '/gift?code=' not in code_link['href']:
+                continue
+
             print(f'[{index}] getting code:', end=' ')
-            code = code_row.contents[1].text.split('[')[0].strip()
+            code = code_row.contents[1].select_one('a').text.split('[')[0].split('(')[0].strip()
             print(code)
             server = code_row.contents[3].text.strip()
             rewards = parse_rewards(code_row.contents[5])
@@ -74,7 +78,7 @@ def fetch_codes():
             }
 
             if rewards == []:
-                pass
+                continue
             elif is_expired:
                 codes['expiredCodes'].append(code_item)
             else:
@@ -157,8 +161,11 @@ def run_with_error_handling(func):
         discord_notify(f"Whoops~ Looks like HoYo Scraper ran into the following errors:\n{discord_message}", True)
 
 if __name__ == "__main__":
-    events = run_with_error_handling(fetch_events)
-    codes = run_with_error_handling(fetch_codes)
-    save_to_json(events, codes)
+    # events = run_with_error_handling(fetch_events)
+    # codes = run_with_error_handling(fetch_codes)
+    # save_to_json(events, codes)
     
-    discord_notify(f"`genshin-impact-data.json` was updated.\n{discord_message}")
+    # discord_notify(f"`genshin-impact-data.json` was updated.\n{discord_message}")
+
+    codes = fetch_codes()
+    print(codes)
