@@ -70,7 +70,7 @@
             },
             {
                 "event": "Gift of Stellarium",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Event_Gift_of_Stellarium.png/revision/latest/scale-to-width-down/250?cb=20240126134652",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Event_Gift_of_Stellarium.png/revision/latest/scale-to-width-down/250?cb=20240317010627",
                 "duration": [
                     "February 06, 2024",
                     "March 26, 2024"
@@ -132,9 +132,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Penacony_Food_Fest"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Garden of Plenty 2024-03-16",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
@@ -145,10 +143,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2024-03-16"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
@@ -278,69 +277,6 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "3SRN6L3AADLK",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "50000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: March 16, 2024",
-                    "Valid until: March 17, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "YTRN743TSUL7",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Traveler's Guide",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
-                    }
-                ],
-                "duration": [
-                    "Discovered: March 16, 2024",
-                    "Valid until: March 17, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "2S8N6M3ATV6T",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Refined Aether",
-                        "amount": "4",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030941"
-                    }
-                ],
-                "duration": [
-                    "Discovered: March 16, 2024",
-                    "Valid until: March 17, 2024"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "2B8PN53ABVQT",
                 "server": "All",
                 "rewards": [
@@ -356,8 +292,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 15, 2023",
-                    "Valid until: Unknown"
+                    "Discovered: March 15, 2024",
+                    "Valid until: March 20, 2024"
                 ],
                 "isExpired": false
             },
@@ -531,6 +467,69 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "3SRN6L3AADLK",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "50000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 16, 2024",
+                    "Expired: March 17, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "YTRN743TSUL7",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 16, 2024",
+                    "Expired: March 17, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "2S8N6M3ATV6T",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Refined Aether",
+                        "amount": "4",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030941"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 16, 2024",
+                    "Expired: March 17, 2024"
+                ],
+                "isExpired": true
+            },
             {
                 "code": "6B976L2STURF",
                 "server": "All",
