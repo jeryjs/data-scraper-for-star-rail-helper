@@ -264,27 +264,6 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "2B8PN53ABVQT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "\"Dreamlight\" Mixed Sweets",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Item_Dreamlight_Mixed_Sweets.png/revision/latest/scale-to-width-down/30?cb=20240206075628"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "5000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: March 15, 2024",
-                    "Valid until: March 20, 2024"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "SB87P52BTVQ3",
                 "server": "All",
                 "rewards": [
@@ -514,6 +493,27 @@
                 "duration": [
                     "Discovered: March 16, 2024",
                     "Expired: March 17, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "2B8PN53ABVQT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "\"Dreamlight\" Mixed Sweets",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Item_Dreamlight_Mixed_Sweets.png/revision/latest/scale-to-width-down/30?cb=20240206075628"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 15, 2024",
+                    "Expired: March 20, 2024"
                 ],
                 "isExpired": true
             },
