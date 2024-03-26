@@ -29,33 +29,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festival_Invitation"
             },
             {
-                "event": "Dreamchaser Bulletin",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Event_Dreamchaser_Bulletin.png/revision/latest/scale-to-width-down/250?cb=20240126134654",
-                "duration": [
-                    "February 06, 2024",
-                    "March 25, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Dreamchaser_Bulletin"
-            },
-            {
-                "event": "Nameless Honor 2024-02-06",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20230809235056",
-                "duration": [
-                    "February 06, 2024",
-                    "March 25, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-02-06"
-            },
-            {
                 "event": "Gift of Odyssey 2024-02-06",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Event_Gift_of_Odyssey_2024-02-06.png/revision/latest/scale-to-width-down/250?cb=20240209033337",
                 "duration": [
@@ -82,32 +55,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Stellarium"
             },
             {
-                "event": "Hanu's Prison Break",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Event_Hanu%27s_Prison_Break.png/revision/latest/scale-to-width-down/250?cb=20240126134657",
-                "duration": [
-                    "February 08, 2024",
-                    "March 25, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Hanu%27s_Prison_Break"
-            },
-            {
-                "event": "Dreamjolt TV",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Dreamjolt_TV.png/revision/latest/scale-to-width-down/250?cb=20240126134655",
-                "duration": [
-                    "February 29, 2024",
-                    "March 25, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Dreamjolt_TV"
-            },
-            {
                 "event": "Aptitude Showcase - Sparkle, Jing Yuan, Sampo, Qingque, Hanya",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Aptitude_Showcase_-_Sparkle%2C_Jing_Yuan%2C_Sampo%2C_Qingque%2C_Hanya.png/revision/latest/scale-to-width-down/250?cb=20240229040353",
                 "duration": [
@@ -121,7 +68,34 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-02-29"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Planar Fissure 300% 2024-04-10",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Planar_Fissure_300.png/revision/latest/scale-to-width-down/250?cb=20240324195347",
+                "duration": [
+                    "April 10, 2024",
+                    "April 17, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure_300%25/2024-04-10"
+            },
+            {
+                "event": "Realm of the Strange 300% 2024-04-10",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Event_Realm_of_the_Strange_300.png/revision/latest/scale-to-width-down/250?cb=20240324195512",
+                "duration": [
+                    "April 26, 2024",
+                    "May 03, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange_300%25/2024-04-26"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
