@@ -29,32 +29,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festival_Invitation"
             },
             {
-                "event": "Gift of Odyssey 2024-02-06",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Event_Gift_of_Odyssey_2024-02-06.png/revision/latest/scale-to-width-down/250?cb=20240209033337",
-                "duration": [
-                    "February 06, 2024",
-                    "March 26, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-02-06"
-            },
-            {
-                "event": "Gift of Stellarium",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Event_Gift_of_Stellarium.png/revision/latest/scale-to-width-down/250?cb=20240317010627",
-                "duration": [
-                    "February 06, 2024",
-                    "March 26, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Stellarium"
-            },
-            {
                 "event": "Aptitude Showcase - Sparkle, Jing Yuan, Sampo, Qingque, Hanya",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Aptitude_Showcase_-_Sparkle%2C_Jing_Yuan%2C_Sampo%2C_Qingque%2C_Hanya.png/revision/latest/scale-to-width-down/250?cb=20240229040353",
                 "duration": [
@@ -66,9 +40,35 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-02-29"
+            },
+            {
+                "event": "Immersive Interactive Exhibition",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Event_Immersive_Interactive_Exhibition.png/revision/latest/scale-to-width-down/250?cb=20240326025429",
+                "duration": [
+                    "March 16, 2024",
+                    "June 18, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
             }
         ],
         "Upcoming": [
+            {
+                "event": "Festive Gifts",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Festive_Gifts.png/revision/latest/scale-to-width-down/250?cb=20240317033633",
+                "duration": [
+                    "March 27, 2024",
+                    "May 07, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts"
+            },
             {
                 "event": "Planar Fissure 300% 2024-04-10",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Planar_Fissure_300.png/revision/latest/scale-to-width-down/250?cb=20240324195347",
@@ -81,6 +81,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure_300%25/2024-04-10"
+            },
+            {
+                "event": "Anniversary Celebration Mail",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Event_Anniversary_Celebration_Mail.png/revision/latest/scale-to-width-down/250?cb=20240326025252",
+                "duration": [
+                    "April 26, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Anniversary_Celebration_Mail"
             },
             {
                 "event": "Realm of the Strange 300% 2024-04-10",
