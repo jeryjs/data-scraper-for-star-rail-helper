@@ -16,32 +16,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Proposal_from_Dr._Ratio"
             },
             {
-                "event": "Festival Invitation",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Event_Festival_Invitation.png/revision/latest/scale-to-width-down/250?cb=20240206101711",
-                "duration": [
-                    "February 06, 2024",
-                    "March 27, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Festival_Invitation"
-            },
-            {
-                "event": "Aptitude Showcase - Sparkle, Jing Yuan, Sampo, Qingque, Hanya",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Aptitude_Showcase_-_Sparkle%2C_Jing_Yuan%2C_Sampo%2C_Qingque%2C_Hanya.png/revision/latest/scale-to-width-down/250?cb=20240229040353",
-                "duration": [
-                    "February 29, 2024",
-                    "March 26, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-02-29"
-            },
-            {
                 "event": "Immersive Interactive Exhibition",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Event_Immersive_Interactive_Exhibition.png/revision/latest/scale-to-width-down/250?cb=20240326025429",
                 "duration": [
@@ -53,12 +27,36 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Aptitude Showcase - Acheron, Luocha, Gallagher, Pela, Dan Heng",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Aptitude_Showcase_-_Acheron%2C_Luocha%2C_Gallagher%2C_Pela%2C_Dan_Heng.png/revision/latest/scale-to-width-down/250?cb=20240327051013",
+                "duration": [
+                    "March 27, 2024",
+                    "April 17, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-03-27"
+            },
+            {
+                "event": "Cosmodyssey",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Event_Cosmodyssey.png/revision/latest/scale-to-width-down/250?cb=20240326074720",
+                "duration": [
+                    "March 27, 2024",
+                    "May 06, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmodyssey"
+            },
             {
                 "event": "Festive Gifts",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Festive_Gifts.png/revision/latest/scale-to-width-down/250?cb=20240317033633",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Festive_Gifts.png/revision/latest/scale-to-width-down/250?cb=20240327095518",
                 "duration": [
                     "March 27, 2024",
                     "May 07, 2024"
@@ -66,9 +64,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 300% 2024-04-10",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Planar_Fissure_300.png/revision/latest/scale-to-width-down/250?cb=20240324195347",
@@ -237,6 +237,90 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "HSR1YEAR",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "All or Nothing",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Item_All_or_Nothing.png/revision/latest/scale-to-width-down/30?cb=20240212231433"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 27, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "0327CARNIVAL",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "\"Sour Dreams\" Soft Candy",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Item_Sour_Dreams_Soft_Candy.png/revision/latest/scale-to-width-down/30?cb=20240206083513"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 27, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "MOREPEACH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "\"Sour Dreams\" Soft Candy",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Item_Sour_Dreams_Soft_Candy.png/revision/latest/scale-to-width-down/30?cb=20240206083513"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 27, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "ST3SHPNLNTN3",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 27, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "SB87P52BTVQ3",
                 "server": "All",

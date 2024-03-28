@@ -2,6 +2,19 @@
     "Events": {
         "Current": [
             {
+                "event": "Twitch Drops 2024-03-12",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
+                "duration": [
+                    "March 12, 2024",
+                    "April 02, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Twitch_Drops_2024-03-12"
+            },
+            {
                 "event": "Arcane Amassing",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Battle_Pass_Arcane_Amassing.png/revision/latest/scale-to-width-down/250?cb=20240311050017",
                 "duration": [
