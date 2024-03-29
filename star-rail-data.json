@@ -29,6 +29,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
             },
             {
+                "event": "Twitch Drops 2024-03-27",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Event_Twitch_Drops_2024-03-27.png/revision/latest/scale-to-width-down/250?cb=20240327223842",
+                "duration": [
+                    "March 27, 2024",
+                    "April 24, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Twitch_Drops/2024-03-27"
+            },
+            {
                 "event": "Aptitude Showcase - Acheron, Luocha, Gallagher, Pela, Dan Heng",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Aptitude_Showcase_-_Acheron%2C_Luocha%2C_Gallagher%2C_Pela%2C_Dan_Heng.png/revision/latest/scale-to-width-down/250?cb=20240327051013",
                 "duration": [
@@ -62,7 +75,8 @@
                     "May 07, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Login"
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts"
