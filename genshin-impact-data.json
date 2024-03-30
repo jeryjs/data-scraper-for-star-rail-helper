@@ -100,10 +100,24 @@
         ],
         "Upcoming": [
             {
+                "event": "Rolling Crossfire",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Rolling_Crossfire.png/revision/latest/scale-to-width-down/250?cb=20240301125923",
+                "duration": [
+                    "April 01, 2024",
+                    "April 11, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Rolling_Crossfire"
+            },
+            {
                 "event": "Feline Fortress Furrdyssey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Feline_Fortress_Furrdyssey.png/revision/latest/scale-to-width-down/250?cb=20240301125921",
                 "duration": [
-                    "TBA"
+                    "April 08, 2024",
+                    "April 18, 2024"
                 ],
                 "type": [
                     "In-Game"
@@ -112,28 +126,17 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Feline_Fortress_Furrdyssey"
             },
             {
-                "event": "Ley Line Overflow 4.5",
+                "event": "Ley Line Overflow 2024-04-15",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
                 "duration": [
-                    "TBA"
+                    "April 15, 2024",
+                    "April 22, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/4.5"
-            },
-            {
-                "event": "Rolling Crossfire",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Rolling_Crossfire.png/revision/latest/scale-to-width-down/250?cb=20240301125923",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Rolling_Crossfire"
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-04-15"
             }
         ],
         "Permanent": [
