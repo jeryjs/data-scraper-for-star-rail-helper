@@ -94,21 +94,22 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Vignettes in a Cup",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Event_Vignettes_in_a_Cup.png/revision/latest/scale-to-width-down/250?cb=20240328044426",
                 "duration": [
-                    " TBA "
+                    "March 29, 2024",
+                    "May 06, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Vignettes_in_a_Cup"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 300% 2024-04-10",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Planar_Fissure_300.png/revision/latest/scale-to-width-down/250?cb=20240324195347",
