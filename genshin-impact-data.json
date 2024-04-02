@@ -96,9 +96,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-03-23"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Rolling Crossfire",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Rolling_Crossfire.png/revision/latest/scale-to-width-down/250?cb=20240330075452",
@@ -109,9 +107,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Rolling_Crossfire"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Feline Fortress Furrdyssey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Feline_Fortress_Furrdyssey.png/revision/latest/scale-to-width-down/250?cb=20240301125921",
