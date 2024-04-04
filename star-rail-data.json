@@ -279,6 +279,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "POMPOMPOWER",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "High-Tech Protective Gear",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest/scale-to-width-down/30?cb=20230512012501"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 3, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "HSR1YEAR",
                 "server": "All",
                 "rewards": [

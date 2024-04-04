@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Test Run - Chiori, Arataki Itto, Gorou, Yun Jin, Dori",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Test_Run_-_Character_Trial_Chiori_Arataki_Itto_Gorou_Yun_Jin_Dori.png/revision/latest/scale-to-width-down/250?cb=20240401232004",
-                "duration": [
-                    "March 13, 2024",
-                    "April 02, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-03-13"
-            },
-            {
                 "event": "Arcane Amassing",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Battle_Pass_Arcane_Amassing.png/revision/latest/scale-to-width-down/250?cb=20240311050017",
                 "duration": [
@@ -57,20 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Discover_Traces,_Explore_Nature"
             },
             {
-                "event": "The Great Fayz Reaction Debate",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/The_Great_Fayz_Reaction_Debate.png/revision/latest/scale-to-width-down/250?cb=20240320130106",
-                "duration": [
-                    "March 22, 2024",
-                    "April 03, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Trial"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Fayz_Trials/2024-03-22"
-            },
-            {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Heated_Battle_Mode_Sprinting_Stratagems_2024-03-23.png/revision/latest/scale-to-width-down/250?cb=20240321130747",
                 "duration": [
@@ -109,6 +81,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mondstadt_Tourism_Revitalization_Project"
+            },
+            {
+                "event": "Test Run - Neuvillette, Kaedehara Kazuha, Xingqiu, Yanfei",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Test_Run_-_Neuvillette%2C_Kaedehara_Kazuha%2C_Xingqiu%2C_Yanfei.png/revision/latest/scale-to-width-down/250?cb=20240402211442",
+                "duration": [
+                    "April 02, 2024",
+                    "April 23, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-04-02"
             }
         ],
         "Upcoming": [
