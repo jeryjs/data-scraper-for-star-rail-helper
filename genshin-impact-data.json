@@ -82,9 +82,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-04-02"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Feline Fortress Furrdyssey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Feline_Fortress_Furrdyssey.png/revision/latest/scale-to-width-down/250?cb=20240406040931",
@@ -95,9 +93,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Feline_Fortress_Furrdyssey"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Ley Line Overflow 2024-04-15",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
