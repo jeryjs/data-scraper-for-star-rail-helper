@@ -43,20 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Discover_Traces,_Explore_Nature"
             },
             {
-                "event": "Heated Battle Mode: Sprinting Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Heated_Battle_Mode_Sprinting_Stratagems_2024-03-23.png/revision/latest/scale-to-width-down/250?cb=20240321130747",
-                "duration": [
-                    "March 23, 2024",
-                    "April 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-03-23"
-            },
-            {
                 "event": "Rolling Crossfire",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Rolling_Crossfire.png/revision/latest/scale-to-width-down/250?cb=20240330075452",
                 "duration": [
@@ -462,6 +448,29 @@
                 "isExpired": false
             },
             {
+                "code": "GENSHINGIFT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 10, 2020",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            }
+        ],
+        "expiredCodes": [
+            {
                 "code": "JB95D2V5XGJ5",
                 "server": "All",
                 "rewards": [
@@ -493,33 +502,10 @@
                 ],
                 "duration": [
                     "Discovered: December 20, 2023",
-                    "Valid: (indefinite)"
+                    "Expired: April 9, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
-            {
-                "code": "GENSHINGIFT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "50",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 10, 2020",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            }
-        ],
-        "expiredCodes": [
             {
                 "code": "WAZGIKZ9K6NM",
                 "server": "All",
