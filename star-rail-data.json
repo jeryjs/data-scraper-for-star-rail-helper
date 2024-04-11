@@ -107,9 +107,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Vignettes_in_a_Cup"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Planar Fissure 300% 2024-04-10",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Planar_Fissure_300.png/revision/latest/scale-to-width-down/250?cb=20240409165130",
@@ -120,9 +118,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure_300%25/2024-04-10"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Anniversary Celebration Mail",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Event_Anniversary_Celebration_Mail.png/revision/latest/scale-to-width-down/250?cb=20240326025252",
