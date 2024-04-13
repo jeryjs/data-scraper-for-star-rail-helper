@@ -83,6 +83,67 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-04-15"
+            },
+            {
+                "event": "Specially-Shaped Saurian Search",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
+            },
+            {
+                "event": "Vibro-Crystal Applications",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Vibro-Crystal_Applications.png/revision/latest/scale-to-width-down/250?cb=20240412125526",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/4.6"
+            },
+            {
+                "event": "Overflowing Mastery 4.6",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.6"
+            },
+            {
+                "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness"
+            },
+            {
+                "event": "Windtrace: Seekers and Strategy",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240412125522",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Windtrace/4.6"
             }
         ],
         "Permanent": [
@@ -197,6 +258,69 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "WTKBMBD8ZZRZ",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 12, 2024",
+                    "Valid until: April 13, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "EAKA5BU9HHRM",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 12, 2024",
+                    "Valid until: April 13, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "9B3AMTCQZYQ9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 12, 2024",
+                    "Valid until: April 13, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "CA3BLTURGH9D",
                 "server": "All",
@@ -918,7 +1042,7 @@
                 "isExpired": true
             },
             {
-                "code": "8T8QTHGVZJAR",
+                "code": "8A9QTYHDYJVD",
                 "server": "All",
                 "rewards": [
                     {
