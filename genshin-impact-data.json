@@ -68,9 +68,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Feline_Fortress_Furrdyssey"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Ley Line Overflow 2024-04-15",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
@@ -81,20 +79,23 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-04-15"
-            },
+            }
+        ],
+        "Upcoming": [
             {
-                "event": "Specially-Shaped Saurian Search",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
+                "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",
                 "duration": [
                     "TBA"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Flagship"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
+                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness"
             },
             {
                 "event": "Vibro-Crystal Applications",
@@ -109,6 +110,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/4.6"
             },
             {
+                "event": "Specially-Shaped Saurian Search",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
+            },
+            {
                 "event": "Overflowing Mastery 4.6",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
                 "duration": [
@@ -119,19 +132,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.6"
-            },
-            {
-                "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness"
             },
             {
                 "event": "Windtrace: Seekers and Strategy",
