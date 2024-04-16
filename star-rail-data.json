@@ -123,7 +123,7 @@
             },
             {
                 "event": "Tides of War",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Tides_of_War.png/revision/latest/scale-to-width-down/250?cb=20240317033628",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Tides_of_War.png/revision/latest/scale-to-width-down/250?cb=20240415030620",
                 "duration": [
                     "April 13, 2024",
                     "May 06, 2024"
@@ -292,27 +292,6 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "POMPOMPOWER",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "High-Tech Protective Gear",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest/scale-to-width-down/30?cb=20230512012501"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "5000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: April 3, 2024",
-                    "Valid until: Unknown"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "HSR1YEAR",
                 "server": "All",
                 "rewards": [
@@ -419,6 +398,27 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "POMPOMPOWER",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "High-Tech Protective Gear",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest/scale-to-width-down/30?cb=20230512012501"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 3, 2024",
+                    "Expired: Unknown"
+                ],
+                "isExpired": true
+            },
             {
                 "code": "3SRN6L3AADLK",
                 "server": "All",
