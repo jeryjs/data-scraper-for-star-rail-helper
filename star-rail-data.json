@@ -266,6 +266,38 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "QBJTY77MN9T7",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Credit",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 19, 2024",
+                    "Valid until: April 25, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "5AJTZPPMN8VB",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 19, 2024",
+                    "Valid until: April 25, 2024"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "BTKBH6P47B77",
                 "server": "All",
                 "rewards": [
@@ -287,6 +319,22 @@
                 "isExpired": false
             },
             {
+                "code": "GOODFORTUNE",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Lost Gold Fragment",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest/scale-to-width-down/30?cb=20230505041219"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 17, 2024",
+                    "Valid until: May 7, 2024"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "LUCKYGAME",
                 "server": "All",
                 "rewards": [
@@ -298,7 +346,7 @@
                 ],
                 "duration": [
                     "Discovered: April 17, 2024",
-                    "Valid until: Unknown"
+                    "Valid until: May 7, 2024"
                 ],
                 "isExpired": false
             },
@@ -319,7 +367,7 @@
                 ],
                 "duration": [
                     "Discovered: April 17, 2024",
-                    "Valid until: Unknown"
+                    "Valid until: May 7, 2024"
                 ],
                 "isExpired": false
             },
@@ -335,7 +383,7 @@
                 ],
                 "duration": [
                     "Discovered: April 17, 2024",
-                    "Valid until: Unknown"
+                    "Valid until: May 7, 2024"
                 ],
                 "isExpired": false
             },
