@@ -86,23 +86,39 @@
         ],
         "Upcoming": [
             {
-                "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",
+                "event": "The Realms Rocked",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Battle_Pass_The_Realms_Rocked.png/revision/latest/scale-to-width-down/250?cb=20240422040337",
                 "duration": [
-                    "TBA"
+                    "April 24, 2024",
+                    "June 03, 2024"
                 ],
                 "type": [
                     "In-Game",
-                    "Flagship"
+                    "Battle Pass"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness"
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/The_Realms_Rocked"
+            },
+            {
+                "event": "The Forge Realm's Temper: Game of Wits",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/The_Forge_Realm%27s_Temper_Game_of_Wits_2024-04-24.png/revision/latest/scale-to-width-down/250?cb=20240422040330",
+                "duration": [
+                    "April 24, 2024",
+                    "June 05, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-04-24"
             },
             {
                 "event": "Vibro-Crystal Applications",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Vibro-Crystal_Applications.png/revision/latest/scale-to-width-down/250?cb=20240412125526",
                 "duration": [
-                    "TBA"
+                    "April 28, 2024",
+                    "May 09, 2024"
                 ],
                 "type": [
                     "In-Game"
@@ -111,16 +127,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/4.6"
             },
             {
-                "event": "Specially-Shaped Saurian Search",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
+                "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",
                 "duration": [
-                    "TBA"
+                    "May 06, 2024",
+                    "May 27, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Flagship"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
+                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness"
             },
             {
                 "event": "Overflowing Mastery 4.6",
@@ -133,6 +151,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.6"
+            },
+            {
+                "event": "Specially-Shaped Saurian Search",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
             },
             {
                 "event": "Windtrace: Seekers and Strategy",
