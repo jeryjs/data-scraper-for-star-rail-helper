@@ -2,34 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Arcane Amassing",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Battle_Pass_Arcane_Amassing.png/revision/latest/scale-to-width-down/250?cb=20240311050017",
-                "duration": [
-                    "March 13, 2024",
-                    "April 22, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Arcane_Amassing"
-            },
-            {
-                "event": "The Forge Realm's Temper: Endless Swarm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/The_Forge_Realm%27s_Temper_Endless_Swarm_2024-03-13.png/revision/latest/scale-to-width-down/250?cb=20240311045120",
-                "duration": [
-                    "March 13, 2024",
-                    "April 23, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-03-13"
-            },
-            {
                 "event": "Discover Traces, Explore Nature",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Discover_Traces%2C_Explore_Nature.png/revision/latest/scale-to-width-down/250?cb=20240316042355",
                 "duration": [
@@ -55,19 +27,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-04-02"
-            },
-            {
-                "event": "Ley Line Overflow 2024-04-15",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "April 15, 2024",
-                    "April 22, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-04-15"
             },
             {
                 "event": "Phantom of the Night",
