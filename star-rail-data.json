@@ -29,6 +29,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
             },
             {
+                "event": "Come With Me, Take the Journey/2024-03-27",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Event_Come_With_Me%2C_Take_the_Journey_2024-03-27.png/revision/latest/scale-to-width-down/250?cb=20240426224803",
+                "duration": [
+                    "March 27, 2024",
+                    "May 08, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Come_With_Me,_Take_the_Journey/2024-03-27"
+            },
+            {
                 "event": "Nameless Honor 2024-03-27",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -107,6 +120,45 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-04-17"
+            },
+            {
+                "event": "Check-In Event 2024-04-26",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Check-In_Event.png/revision/latest/scale-to-width-down/250?cb=20231111024435",
+                "duration": [
+                    "April 26, 2024",
+                    "May 10, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Check-In_Event/2024-04-26"
+            },
+            {
+                "event": "Astral Express Annual Trailblaze Report",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Event_Astral_Express_Annual_Trailblaze_Report.png/revision/latest/scale-to-width-down/250?cb=20240426231922",
+                "duration": [
+                    "April 26, 2024",
+                    "May 07, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Astral_Express_Annual_Trailblaze_Report"
+            },
+            {
+                "event": "Realm of the Strange 300% 2024-04-10",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Event_Realm_of_the_Strange_300.png/revision/latest/scale-to-width-down/250?cb=20240324195512",
+                "duration": [
+                    "April 26, 2024",
+                    "May 03, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange_300%25/2024-04-26"
             }
         ],
         "Upcoming": [
@@ -124,17 +176,41 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Anniversary_Celebration_Mail"
             },
             {
-                "event": "Realm of the Strange 300% 2024-04-10",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Event_Realm_of_the_Strange_300.png/revision/latest/scale-to-width-down/250?cb=20240324195512",
+                "event": "Planar Fissure 2.2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
-                    "April 26, 2024",
-                    "May 03, 2024"
+                    " TBA "
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange_300%25/2024-04-26"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
+            },
+            {
+                "event": "Gift of Odyssey 2.2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Gift_of_Odyssey_2.2.png/revision/latest/scale-to-width-down/250?cb=20240426234912",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2.2"
+            },
+            {
+                "event": "Garden of Plenty 2.2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
             }
         ],
         "Permanent": [
@@ -266,34 +342,65 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "QBJTY77MN9T7",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Credit",
-                        "amount": "20000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: April 19, 2024",
-                    "Valid until: April 25, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "5AJTZPPMN8VB",
+                "code": "VSKTGNPMNBRB",
                 "server": "All",
                 "rewards": [
                     {
                         "name": "Stellar Jade",
                         "amount": "100",
                         "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "50000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
                     }
                 ],
                 "duration": [
-                    "Discovered: April 19, 2024",
-                    "Valid until: April 25, 2024"
+                    "Discovered: April 26, 2024",
+                    "Valid until: April 27, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "BT3BG67LPS9X",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 26, 2024",
+                    "Valid until: April 27, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "RSKSYP646TR3",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Condensed Aether",
+                        "amount": "4",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030939"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 26, 2024",
+                    "Valid until: April 27, 2024"
                 ],
                 "isExpired": false
             },
@@ -494,6 +601,38 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "QBJTY77MN9T7",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Credit",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 19, 2024",
+                    "Expired: April 25, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "5AJTZPPMN8VB",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 19, 2024",
+                    "Expired: April 25, 2024"
+                ],
+                "isExpired": true
+            },
             {
                 "code": "POMPOMPOWER",
                 "server": "All",

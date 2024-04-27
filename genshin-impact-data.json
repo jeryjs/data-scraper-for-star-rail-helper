@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Discover_Traces,_Explore_Nature"
             },
             {
-                "event": "Phantom of the Night",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Phantom_of_the_Night.png/revision/latest/scale-to-width-down/250?cb=20240419044636",
-                "duration": [
-                    "April 19, 2024",
-                    "April 25, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Phantom_of_the_Night"
-            },
-            {
                 "event": "Test Run - Arlecchino, Lyney, Freminet",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Test_Run_-_Arlecchino%2C_Lyney%2C_Freminet.png/revision/latest/scale-to-width-down/250?cb=20240424063300",
                 "duration": [
@@ -74,7 +60,7 @@
         "Upcoming": [
             {
                 "event": "Vibro-Crystal Applications",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Vibro-Crystal_Applications.png/revision/latest/scale-to-width-down/250?cb=20240412125526",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Vibro-Crystal_Applications.png/revision/latest/scale-to-width-down/250?cb=20240426040236",
                 "duration": [
                     "April 28, 2024",
                     "May 09, 2024"
@@ -83,7 +69,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/4.6"
+                "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/2024-04-28"
             },
             {
                 "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
