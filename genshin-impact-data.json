@@ -29,6 +29,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-04-24"
             },
             {
+                "event": "Twitch Drops 2024-04-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
+                "duration": [
+                    "April 24, 2024",
+                    "May 14, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Twitch_Drops/2024-04-24"
+            },
+            {
                 "event": "The Realms Rocked",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Battle_Pass_The_Realms_Rocked.png/revision/latest/scale-to-width-down/250?cb=20240422040337",
                 "duration": [
