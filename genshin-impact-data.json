@@ -68,9 +68,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-04-24"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Vibro-Crystal Applications",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Vibro-Crystal_Applications.png/revision/latest/scale-to-width-down/250?cb=20240426040236",
@@ -81,9 +79,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/2024-04-28"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",

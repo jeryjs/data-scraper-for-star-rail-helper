@@ -190,6 +190,18 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2.2"
             },
             {
+                "event": "Garden of Plenty 2.2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
+            },
+            {
                 "event": "Planar Fissure 2.2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
@@ -202,8 +214,8 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
             },
             {
-                "event": "Garden of Plenty 2.2",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "event": "All About Boothill...",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
                 "duration": [
                     " TBA "
                 ],
@@ -211,7 +223,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
+                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
             }
         ],
         "Permanent": [
