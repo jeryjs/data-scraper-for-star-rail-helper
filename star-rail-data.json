@@ -190,6 +190,30 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2.2"
             },
             {
+                "event": "All About Boothill...",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
+            },
+            {
+                "event": "Clockie: Dreamjoy Memoir",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Clockie_Dreamjoy_Memoir.png/revision/latest/scale-to-width-down/250?cb=20240429015553",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Clockie:_Dreamjoy_Memoir"
+            },
+            {
                 "event": "Garden of Plenty 2.2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
                 "duration": [
@@ -214,8 +238,8 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
             },
             {
-                "event": "All About Boothill...",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
+                "event": "The Legend of Galactic Baseballer",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Event_The_Legend_of_Galactic_Baseballer.png/revision/latest/scale-to-width-down/250?cb=20240429015551",
                 "duration": [
                     " TBA "
                 ],
@@ -223,7 +247,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
+                "page": "https://honkai-star-rail.fandom.com/wiki/The_Legend_of_Galactic_Baseballer"
             }
         ],
         "Permanent": [
