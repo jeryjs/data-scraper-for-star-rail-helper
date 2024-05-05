@@ -95,12 +95,26 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Savoring_the_Breeze"
+            },
+            {
+                "event": "Heated Battle Mode: Tactical Formation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Heated_Battle_Mode_Tactical_Formation_2024-05-04.png/revision/latest/scale-to-width-down/250?cb=20240504051154",
+                "duration": [
+                    "May 04, 2024",
+                    "May 20, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-05-04"
             }
         ],
         "Upcoming": [
             {
-                "event": "Iridescent Arataki Rockin' For Life Tour de Force of Awesomeness",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240412125520",
+                "event": "Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Iridescent_Arataki_Rockin%27_for_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240504052350",
                 "duration": [
                     "May 06, 2024",
                     "May 27, 2024"
@@ -110,7 +124,7 @@
                     "Flagship"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_For_Life_Tour_de_Force_of_Awesomeness"
+                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_for_Life_Tour_de_Force_of_Awesomeness"
             },
             {
                 "event": "Specially-Shaped Saurian Search",
