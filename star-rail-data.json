@@ -42,33 +42,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Come_With_Me,_Take_the_Journey/2024-03-27"
             },
             {
-                "event": "Nameless Honor 2024-03-27",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "March 27, 2024",
-                    "May 06, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-03-27"
-            },
-            {
-                "event": "Cosmodyssey",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Event_Cosmodyssey.png/revision/latest/scale-to-width-down/250?cb=20240326074720",
-                "duration": [
-                    "March 27, 2024",
-                    "May 06, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmodyssey"
-            },
-            {
                 "event": "Festive Gifts",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Festive_Gifts.png/revision/latest/scale-to-width-down/250?cb=20240327095518",
                 "duration": [
@@ -81,32 +54,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts"
-            },
-            {
-                "event": "Vignettes in a Cup",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Event_Vignettes_in_a_Cup.png/revision/latest/scale-to-width-down/250?cb=20240328044426",
-                "duration": [
-                    "March 29, 2024",
-                    "May 06, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Vignettes_in_a_Cup"
-            },
-            {
-                "event": "Tides of War",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Tides_of_War.png/revision/latest/scale-to-width-down/250?cb=20240415030620",
-                "duration": [
-                    "April 13, 2024",
-                    "May 06, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Tides_of_War"
             },
             {
                 "event": "Aptitude Showcase - Aventurine, Jingliu, Lynx, Luka, Serval",
