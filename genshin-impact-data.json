@@ -84,19 +84,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/2024-04-28"
             },
             {
-                "event": "Savoring the Breeze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Savoring_the_Breeze.png/revision/latest/scale-to-width-down/250?cb=20240429070357",
-                "duration": [
-                    "April 29, 2024",
-                    "May 06, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Savoring_the_Breeze"
-            },
-            {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Heated_Battle_Mode_Tactical_Formation_2024-05-04.png/revision/latest/scale-to-width-down/250?cb=20240504051154",
                 "duration": [
@@ -123,6 +110,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_for_Life_Tour_de_Force_of_Awesomeness"
+            },
+            {
+                "event": "Fragmented Memories",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Fragmented_Memories.png/revision/latest/scale-to-width-down/250?cb=20240507122334",
+                "duration": [
+                    "May 07, 2024",
+                    "May 26, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Fragmented_Memories"
             }
         ],
         "Upcoming": [
@@ -809,6 +809,42 @@
                 "isExpired": true
             },
             {
+                "code": "OLQH7G62I7EU",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: March 13, 2024",
+                    "Expired: April 25, 2024"
+                ],
+                "isExpired": true
+            },
+            {
                 "code": "HOFK9PBK481G",
                 "server": "All",
                 "rewards": [
@@ -846,7 +882,7 @@
             },
             {
                 "code": "WTKBMBD8ZZRZ",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -867,7 +903,7 @@
             },
             {
                 "code": "EAKA5BU9HHRM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -888,7 +924,7 @@
             },
             {
                 "code": "9B3AMTCQZYQ9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1074,7 +1110,7 @@
             },
             {
                 "code": "DAKTDBWTZTYR",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1095,7 +1131,7 @@
             },
             {
                 "code": "AT3BDSWTYBKD",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1116,7 +1152,7 @@
             },
             {
                 "code": "5TKAUAWAGBJR",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1385,7 +1421,7 @@
             },
             {
                 "code": "BBQ8AZHUH2CZ",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1406,7 +1442,7 @@
             },
             {
                 "code": "MT88AYHCZ2UR",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1427,7 +1463,7 @@
             },
             {
                 "code": "FA9QAGYDZJEV",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1459,6 +1495,42 @@
                 "duration": [
                     "Discovered: January 19, 2024",
                     "Expired: January 20, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "NNDFKSKEX6TH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 20, 2023",
+                    "Expired: January 16, 2024"
                 ],
                 "isExpired": true
             },
@@ -1520,8 +1592,8 @@
                 "isExpired": true
             },
             {
-                "code": "8BQ9CMMVS5PM",
-                "server": "All",
+                "code": "RS99D5LVTM6V",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1529,9 +1601,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -1542,7 +1614,7 @@
             },
             {
                 "code": "UBRQC4MCT4PZ",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1562,8 +1634,8 @@
                 "isExpired": true
             },
             {
-                "code": "RS99D5LVTM6V",
-                "server": "All",
+                "code": "8BQ9CMMVS5PM",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1571,9 +1643,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -1605,6 +1677,78 @@
             },
             {
                 "code": "YT9L3UFSZXF9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 8, 2023",
+                    "Expired: November 13, 2023"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "3SRM3VEBHXY5",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 8, 2023",
+                    "Expired: November 13, 2023"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "ETR5KVFSYFMZ",
                 "server": "All",
                 "rewards": [
                     {
@@ -1677,7 +1821,7 @@
             },
             {
                 "code": "VA97KJNF24UV",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1698,7 +1842,7 @@
             },
             {
                 "code": "NTQP2KPEJMUH",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -1719,7 +1863,7 @@
             },
             {
                 "code": "9T96KJNE2LVM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2102,6 +2246,42 @@
                 "isExpired": true
             },
             {
+                "code": "TA97CGHDHJTH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: September 17, 2023",
+                    "Expired: September 27, 2023"
+                ],
+                "isExpired": true
+            },
+            {
                 "code": "NA9NDHHCZKTD",
                 "server": "All",
                 "rewards": [
@@ -2139,7 +2319,7 @@
             },
             {
                 "code": "FB8PFFHT364M",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2160,7 +2340,7 @@
             },
             {
                 "code": "JS96FEZS3P59",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2181,7 +2361,7 @@
             },
             {
                 "code": "2T86EWGBJP6V",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2223,7 +2403,7 @@
             },
             {
                 "code": "3BRLL59ZCZKD",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2244,7 +2424,7 @@
             },
             {
                 "code": "WA845MQHUHKH",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2265,7 +2445,7 @@
             },
             {
                 "code": "ZT8MLL8GCYKM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2338,7 +2518,7 @@
             },
             {
                 "code": "QBQ2NH6DB4Z9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2359,7 +2539,7 @@
             },
             {
                 "code": "2SR3PY7CA52V",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2380,7 +2560,7 @@
             },
             {
                 "code": "6A836GNUA52Z",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2396,6 +2576,78 @@
                 "duration": [
                     "Discovered: June 23, 2023",
                     "Expired: June 24, 2023"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "9S83F34ZFDVV",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: May 24, 2023",
+                    "Expired: June 4, 2023"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "3SRJF25GXCU5",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: May 24, 2023",
+                    "Expired: June 4, 2023"
                 ],
                 "isExpired": true
             },
@@ -2494,7 +2746,7 @@
             },
             {
                 "code": "XT82F8JZS4TR",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2515,7 +2767,7 @@
             },
             {
                 "code": "2SRKFQ2YSMVV",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2536,7 +2788,7 @@
             },
             {
                 "code": "5A92W9JZBLCH",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2650,7 +2902,7 @@
             },
             {
                 "code": "9ARE6VLJT34H",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2671,7 +2923,7 @@
             },
             {
                 "code": "KBRE7D4KA2MM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2692,7 +2944,7 @@
             },
             {
                 "code": "7S9X6V4JB2M9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2713,7 +2965,7 @@
             },
             {
                 "code": "KARU3RG6NY65",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2734,7 +2986,7 @@
             },
             {
                 "code": "5SRC28YNNYP9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2755,7 +3007,7 @@
             },
             {
                 "code": "SB8UJ9H7NH8V",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2890,7 +3142,7 @@
             },
             {
                 "code": "NS8TUVJYR4UH",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2911,7 +3163,7 @@
             },
             {
                 "code": "NSQTVCKYRMDM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2932,7 +3184,7 @@
             },
             {
                 "code": "LB8SDUJYQ4V9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2973,8 +3225,8 @@
                 "isExpired": true
             },
             {
-                "code": "ET9SUPENB765",
-                "server": "All",
+                "code": "8ARAU6FNBNPV",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -2982,9 +3234,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -2995,7 +3247,7 @@
             },
             {
                 "code": "NS8BD6EPS77Z",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3015,8 +3267,8 @@
                 "isExpired": true
             },
             {
-                "code": "8ARAU6FNBNPV",
-                "server": "All",
+                "code": "ET9SUPENB765",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3024,9 +3276,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3093,8 +3345,8 @@
                 "isExpired": true
             },
             {
-                "code": "GS6RLKGKWUER",
-                "server": "All",
+                "code": "6SP942Z3XVWH",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3102,9 +3354,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3115,7 +3367,7 @@
             },
             {
                 "code": "KS6QL3YJFCWM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3135,8 +3387,8 @@
                 "isExpired": true
             },
             {
-                "code": "6SP942Z3XVWH",
-                "server": "All",
+                "code": "GS6RLKGKWUER",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3144,9 +3396,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3177,8 +3429,8 @@
                 "isExpired": true
             },
             {
-                "code": "2BP9HY6BYFR5",
-                "server": "All",
+                "code": "3B6RYY7AHX9D",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3186,9 +3438,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3199,7 +3451,7 @@
             },
             {
                 "code": "JT78YH7SGWRZ",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3219,8 +3471,8 @@
                 "isExpired": true
             },
             {
-                "code": "3B6RYY7AHX9D",
-                "server": "All",
+                "code": "2BP9HY6BYFR5",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3228,9 +3480,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3261,7 +3513,7 @@
                 "isExpired": true
             },
             {
-                "code": "KT7DKSFGCRWD",
+                "code": "8ANCKTWYVRD5",
                 "server": "All",
                 "rewards": [
                     {
@@ -3270,9 +3522,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3303,7 +3555,7 @@
                 "isExpired": true
             },
             {
-                "code": "8ANCKTWYVRD5",
+                "code": "KT7DKSFGCRWD",
                 "server": "All",
                 "rewards": [
                     {
@@ -3312,9 +3564,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3345,8 +3597,8 @@
                 "isExpired": true
             },
             {
-                "code": "HA6C2AFBXSZV",
-                "server": "All",
+                "code": "DTNVKAWBWSF5",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3354,9 +3606,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3367,7 +3619,7 @@
             },
             {
                 "code": "WANVJAFAXTER",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3387,8 +3639,8 @@
                 "isExpired": true
             },
             {
-                "code": "DTNVKAWBWSF5",
-                "server": "All",
+                "code": "HA6C2AFBXSZV",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3396,9 +3648,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3429,8 +3681,8 @@
                 "isExpired": true
             },
             {
-                "code": "HSNUKTXCCPWV",
-                "server": "All",
+                "code": "LANVJSFUD6CM",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3438,9 +3690,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3451,7 +3703,7 @@
             },
             {
                 "code": "DTNUKTWCC6D9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3471,8 +3723,8 @@
                 "isExpired": true
             },
             {
-                "code": "LANVJSFUD6CM",
-                "server": "All",
+                "code": "HSNUKTXCCPWV",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3480,9 +3732,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3514,7 +3766,7 @@
             },
             {
                 "code": "AB7CKBVQULE5",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3535,7 +3787,7 @@
             },
             {
                 "code": "3TPUKSV8C5X9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3556,7 +3808,7 @@
             },
             {
                 "code": "UT7C2TD8C5ZD",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3598,7 +3850,7 @@
             },
             {
                 "code": "VTPU3CQWYCSD",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3619,7 +3871,7 @@
             },
             {
                 "code": "AB7VJC9EGDAZ",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3640,7 +3892,7 @@
             },
             {
                 "code": "WT7D3CQEHVBM",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3707,8 +3959,8 @@
                 "isExpired": true
             },
             {
-                "code": "5SPDKV8ZHBFV",
-                "server": "All",
+                "code": "SA7V2DRZGAU5",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3716,9 +3968,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3729,7 +3981,7 @@
             },
             {
                 "code": "PSNVJURZZSD9",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3749,8 +4001,8 @@
                 "isExpired": true
             },
             {
-                "code": "SA7V2DRZGAU5",
-                "server": "All",
+                "code": "5SPDKV8ZHBFV",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3758,9 +4010,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [
@@ -3791,8 +4043,8 @@
                 "isExpired": true
             },
             {
-                "code": "KB6DKDNM7H49",
-                "server": "All",
+                "code": "AS7CJDP4NG7H",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3800,9 +4052,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3813,7 +4065,7 @@
             },
             {
                 "code": "BSNDJC747Z7D",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3833,29 +4085,8 @@
                 "isExpired": true
             },
             {
-                "code": "AS7CJDP4NG7H",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 12, 2021",
-                    "Expired: November 13, 2021"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "BSNUJGQFUTPM",
-                "server": "All",
+                "code": "KB6DKDNM7H49",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3866,6 +4097,27 @@
                         "name": "Mora",
                         "amount": "50,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 12, 2021",
+                    "Expired: November 13, 2021"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "LBNDKG8XDTND",
+                "server": "America, Europe, Asia, TW/HK/Macao",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
                     }
                 ],
                 "duration": [
@@ -3876,7 +4128,7 @@
             },
             {
                 "code": "NB6VKHQWVANZ",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3896,29 +4148,8 @@
                 "isExpired": true
             },
             {
-                "code": "LBNDKG8XDTND",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: October 3, 2021",
-                    "Expired: October 4, 2021"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "NTPVU7JTJYPD",
-                "server": "All",
+                "code": "BSNUJGQFUTPM",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3932,6 +4163,27 @@
                     }
                 ],
                 "duration": [
+                    "Discovered: October 3, 2021",
+                    "Expired: October 4, 2021"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "DSPVUN2BKH5M",
+                "server": "America, Europe, Asia, TW/HK/Macao",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
                     "Discovered: August 20, 2021",
                     "Expired: August 21, 2021"
                 ],
@@ -3939,7 +4191,7 @@
             },
             {
                 "code": "CB7UU6KT2H59",
-                "server": "All",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3959,8 +4211,8 @@
                 "isExpired": true
             },
             {
-                "code": "DSPVUN2BKH5M",
-                "server": "All",
+                "code": "NTPVU7JTJYPD",
+                "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
                     {
                         "name": "Primogem",
@@ -3968,9 +4220,9 @@
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
                     },
                     {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     }
                 ],
                 "duration": [

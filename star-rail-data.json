@@ -29,46 +29,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
             },
             {
-                "event": "Come With Me, Take the Journey",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Event_Come_With_Me%2C_Take_the_Journey_2024-03-27.png/revision/latest/scale-to-width-down/250?cb=20240426224803",
-                "duration": [
-                    "March 27, 2024",
-                    "May 08, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Come_With_Me,_Take_the_Journey/2024-03-27"
-            },
-            {
-                "event": "Festive Gifts",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Event_Festive_Gifts.png/revision/latest/scale-to-width-down/250?cb=20240327095518",
-                "duration": [
-                    "March 27, 2024",
-                    "May 07, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts"
-            },
-            {
-                "event": "Aptitude Showcase - Aventurine, Jingliu, Lynx, Luka, Serval",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Aptitude_Showcase_-_Aventurine%2C_Jingliu%2C_Lynx%2C_Luka%2C_Serval.png/revision/latest/scale-to-width-down/250?cb=20240406012014",
-                "duration": [
-                    "April 17, 2024",
-                    "May 07, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-04-17"
-            },
-            {
                 "event": "Check-In Event 2024-04-26",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Check-In_Event.png/revision/latest/scale-to-width-down/250?cb=20231111024435",
                 "duration": [
@@ -80,33 +40,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Check-In_Event/2024-04-26"
-            },
-            {
-                "event": "Astral Express Annual Trailblaze Report",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Event_Astral_Express_Annual_Trailblaze_Report.png/revision/latest/scale-to-width-down/250?cb=20240426231922",
-                "duration": [
-                    "April 26, 2024",
-                    "May 07, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Astral_Express_Annual_Trailblaze_Report"
-            },
-            {
-                "event": "A Small Gift for the Youngest Member of the Crew",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Event_A_Small_Gift_for_the_Youngest_Member_of_the_Crew.png/revision/latest/scale-to-width-down/250?cb=20240427015232",
-                "duration": [
-                    "April 26, 2024",
-                    "May 07, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Mail"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/A_Small_Gift_for_the_Youngest_Member_of_the_Crew"
             }
         ],
         "Upcoming": [
