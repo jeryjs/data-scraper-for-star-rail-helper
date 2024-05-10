@@ -70,20 +70,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-04-24"
             },
             {
-                "event": "Vibro-Crystal Applications",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Vibro-Crystal_Applications.png/revision/latest/scale-to-width-down/250?cb=20240426040236",
-                "duration": [
-                    "April 28, 2024",
-                    "May 09, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Trial"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Vibro-Crystal/2024-04-28"
-            },
-            {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Heated_Battle_Mode_Tactical_Formation_2024-05-04.png/revision/latest/scale-to-width-down/250?cb=20240504051154",
                 "duration": [
@@ -127,40 +113,44 @@
         ],
         "Upcoming": [
             {
-                "event": "Overflowing Mastery 4.6",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
+                "event": "Windtrace: Seekers and Strategy",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240412125522",
                 "duration": [
-                    "TBA"
+                    "May 14, 2024",
+                    "May 27, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.6"
+                "page": "https://genshin-impact.fandom.com/wiki/Windtrace/2024-05-14"
             },
             {
                 "event": "Specially-Shaped Saurian Search",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
                 "duration": [
-                    "TBA"
+                    "May 22, 2024",
+                    "June 03, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Co-Op"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
             },
             {
-                "event": "Windtrace: Seekers and Strategy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240412125522",
+                "event": "Overflowing Mastery 2024-05-27",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
                 "duration": [
-                    "TBA"
+                    "May 27, 2024",
+                    "June 03, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Windtrace/4.6"
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-05-27"
             }
         ],
         "Permanent": [
