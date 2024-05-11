@@ -15,44 +15,20 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
             },
             {
-                "event": "Check-In Event 2024-04-26",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Check-In_Event.png/revision/latest/scale-to-width-down/250?cb=20231111024435",
-                "duration": [
-                    "April 26, 2024",
-                    "May 10, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Check-In_Event/2024-04-26"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Clockie: Dreamjoy Memoir",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Clockie_Dreamjoy_Memoir.png/revision/latest/scale-to-width-down/250?cb=20240429015553",
                 "duration": [
-                    " TBA "
+                    "May 07, 2024",
+                    "June 17, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Clockie:_Dreamjoy_Memoir"
-            },
-            {
-                "event": "All About Boothill...",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Gift of Odyssey 2.2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Gift_of_Odyssey_2.2.png/revision/latest/scale-to-width-down/250?cb=20240426234912",
@@ -65,6 +41,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2.2"
+            },
+            {
+                "event": "All About Boothill...",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
             },
             {
                 "event": "Garden of Plenty 2.2",
@@ -232,18 +220,44 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "HSRGFN24",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "Condensed Aether",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030939"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "30000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: May 10, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "ROBININSIDE",
                 "server": "All",
                 "rewards": [
                     {
-                        "name": "Credit",
-                        "amount": "10000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    },
-                    {
                         "name": "Adventure Log",
                         "amount": "2",
                         "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest/scale-to-width-down/30?cb=20230428024401"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
                     }
                 ],
                 "duration": [
