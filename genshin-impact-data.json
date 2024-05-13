@@ -114,13 +114,14 @@
         "Upcoming": [
             {
                 "event": "Windtrace: Seekers and Strategy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240412125522",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240511050926",
                 "duration": [
                     "May 14, 2024",
                     "May 27, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Co-Op"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Windtrace/2024-05-14"
