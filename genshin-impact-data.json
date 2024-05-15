@@ -29,19 +29,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-04-24"
             },
             {
-                "event": "Twitch Drops 2024-04-24",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
-                "duration": [
-                    "April 24, 2024",
-                    "May 14, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Twitch_Drops/2024-04-24"
-            },
-            {
                 "event": "The Realms Rocked",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Battle_Pass_The_Realms_Rocked.png/revision/latest/scale-to-width-down/250?cb=20240422040337",
                 "duration": [
@@ -109,9 +96,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Fragmented_Memories"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Windtrace: Seekers and Strategy",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240511050926",
@@ -123,9 +108,25 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Windtrace/2024-05-14"
             },
+            {
+                "event": "Test Run - Wanderer, Baizhu, Layla, Faruzan, Beidou",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Test_Run_-_Wanderer%2C_Baizhu%2C_Layla%2C_Faruzan%2C_Beidou.png/revision/latest/scale-to-width-down/250?cb=20240514144018",
+                "duration": [
+                    "May 14, 2024",
+                    "June 04, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-05-14"
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Specially-Shaped Saurian Search",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
