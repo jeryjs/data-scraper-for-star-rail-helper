@@ -40,6 +40,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-05-08"
+            },
+            {
+                "event": "All About Boothill...",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
+                "duration": [
+                    "May 17, 2024",
+                    "June 03, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
             }
         ],
         "Upcoming": [
@@ -55,18 +68,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2.2"
-            },
-            {
-                "event": "All About Boothill...",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_All_About_Boothill....png/revision/latest/scale-to-width-down/250?cb=20240427043345",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
             },
             {
                 "event": "Garden of Plenty 2.2",
