@@ -115,7 +115,7 @@
         "Upcoming": [
             {
                 "event": "Specially-Shaped Saurian Search",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240412125525",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240520040140",
                 "duration": [
                     "May 22, 2024",
                     "June 03, 2024"
@@ -558,27 +558,6 @@
                 ],
                 "duration": [
                     "Discovered: April 24, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "CA3BLTURGH9D",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "60",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: March 16, 2024",
                     "Valid: (indefinite)"
                 ],
                 "isExpired": false
