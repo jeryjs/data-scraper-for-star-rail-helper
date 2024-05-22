@@ -43,20 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-04-24"
             },
             {
-                "event": "Heated Battle Mode: Tactical Formation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Heated_Battle_Mode_Tactical_Formation_2024-05-04.png/revision/latest/scale-to-width-down/250?cb=20240504051154",
-                "duration": [
-                    "May 04, 2024",
-                    "May 20, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-05-04"
-            },
-            {
                 "event": "Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Iridescent_Arataki_Rockin%27_for_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240504052350",
                 "duration": [
@@ -98,6 +84,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Windtrace/2024-05-14"
             },
             {
+                "event": "\"Windtrace: Seekers and Strategy\": Share Your Exciting Moments",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Windtrace_Seekers_and_Strategy_Share_Your_Exciting_Moments.png/revision/latest/scale-to-width-down/250?cb=20240520140832",
+                "duration": [
+                    "May 14, 2024",
+                    "May 27, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Submission"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Windtrace:_Seekers_and_Strategy%22:_Share_Your_Exciting_Moments"
+            },
+            {
                 "event": "Test Run - Wanderer, Baizhu, Layla, Faruzan, Beidou",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Test_Run_-_Wanderer%2C_Baizhu%2C_Layla%2C_Faruzan%2C_Beidou.png/revision/latest/scale-to-width-down/250?cb=20240514144018",
                 "duration": [
@@ -110,6 +110,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-05-14"
+            },
+            {
+                "event": "What Did Cyno Say?",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/What_Did_Cyno_Say.png/revision/latest/scale-to-width-down/250?cb=20240520132803",
+                "duration": [
+                    "May 16, 2024",
+                    "May 23, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Submission"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/What_Did_Cyno_Say"
             }
         ],
         "Upcoming": [
