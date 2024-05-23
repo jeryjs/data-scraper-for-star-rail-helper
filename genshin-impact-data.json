@@ -124,9 +124,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/What_Did_Cyno_Say"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Specially-Shaped Saurian Search",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240520040140",
@@ -138,9 +136,11 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Overflowing Mastery 2024-05-27",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Overflowing_Mastery.png/revision/latest/scale-to-width-down/250?cb=20210529040222",
