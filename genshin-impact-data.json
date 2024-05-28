@@ -43,34 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-04-24"
             },
             {
-                "event": "Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Iridescent_Arataki_Rockin%27_for_Life_Tour_de_Force_of_Awesomeness.png/revision/latest/scale-to-width-down/250?cb=20240504052350",
-                "duration": [
-                    "May 06, 2024",
-                    "May 27, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Iridescent_Arataki_Rockin%27_for_Life_Tour_de_Force_of_Awesomeness"
-            },
-            {
-                "event": "Windtrace: Seekers and Strategy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Windtrace_Seekers_and_Strategy.png/revision/latest/scale-to-width-down/250?cb=20240511050926",
-                "duration": [
-                    "May 14, 2024",
-                    "May 27, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Co-Op"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Windtrace/2024-05-14"
-            },
-            {
                 "event": "\"Windtrace: Seekers and Strategy\": Share Your Exciting Moments",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Windtrace_Seekers_and_Strategy_Share_Your_Exciting_Moments.png/revision/latest/scale-to-width-down/250?cb=20240520140832",
                 "duration": [
@@ -301,69 +273,6 @@
     },
     "Codes": {
         "activeCodes": [
-            {
-                "code": "BS3DLYAFVAUH",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "50000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    }
-                ],
-                "duration": [
-                    "Discovered: May 24, 2024",
-                    "Valid until: May 25, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "6A2ULZTFVBCV",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: May 24, 2024",
-                    "Valid until: May 25, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "US2VLGSXCAT9",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: May 24, 2024",
-                    "Valid until: May 25, 2024"
-                ],
-                "isExpired": false
-            },
             {
                 "code": "DSXY15NL247E",
                 "server": "All",
@@ -695,6 +604,70 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": []
+        "expiredCodes": [
+            {
+                "code": "BS3DLYAFVAUH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "50000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: May 24, 2024",
+                    "Expired: May 25, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "6A2ULZTFVBCV",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: May 24, 2024",
+                    "Expired: May 25, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "US2VLGSXCAT9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: May 24, 2024",
+                    "Expired: May 25, 2024"
+                ],
+                "isExpired": true
+            }
+        ]
     }
 }
