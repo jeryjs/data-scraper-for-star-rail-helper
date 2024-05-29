@@ -43,20 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-04-24"
             },
             {
-                "event": "\"Windtrace: Seekers and Strategy\": Share Your Exciting Moments",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Windtrace_Seekers_and_Strategy_Share_Your_Exciting_Moments.png/revision/latest/scale-to-width-down/250?cb=20240520140832",
-                "duration": [
-                    "May 14, 2024",
-                    "May 27, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Submission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Windtrace:_Seekers_and_Strategy%22:_Share_Your_Exciting_Moments"
-            },
-            {
                 "event": "Test Run - Wanderer, Baizhu, Layla, Faruzan, Beidou",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Test_Run_-_Wanderer%2C_Baizhu%2C_Layla%2C_Faruzan%2C_Beidou.png/revision/latest/scale-to-width-down/250?cb=20240514144018",
                 "duration": [
@@ -100,16 +86,17 @@
         ],
         "Upcoming": [
             {
-                "event": "Endless Forms Most Martial",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
+                "event": "Mutual Security Enhancing Simulation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240524125930",
                 "duration": [
                     "TBA"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Flagship"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
+                "page": "https://genshin-impact.fandom.com/wiki/Mutual_Security_Enhancing_Simulation"
             },
             {
                 "event": "Record of Reflective Writing",
@@ -124,19 +111,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Record_of_Reflective_Writing"
             },
             {
-                "event": "Mutual Security Enhancing Simulation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240524125930",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Mutual_Security_Enhancing_Simulation"
-            },
-            {
                 "event": "Ley Line Overflow 4.7",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
                 "duration": [
@@ -147,6 +121,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/4.7"
+            },
+            {
+                "event": "Endless Forms Most Martial",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
             },
             {
                 "event": "Spino Doubleblaster",
