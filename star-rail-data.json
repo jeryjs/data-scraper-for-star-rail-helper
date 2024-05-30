@@ -28,19 +28,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Clockie:_Dreamjoy_Memoir"
             },
             {
-                "event": "Aptitude Showcase - Robin, Topaz and Numby, March 7th, Hanya, Xueyi",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Aptitude_Showcase_-_Robin%2C_Topaz_and_Numby%2C_March_7th%2C_Hanya%2C_Xueyi.png/revision/latest/scale-to-width-down/250?cb=20240519184238",
-                "duration": [
-                    "May 08, 2024",
-                    "May 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-05-08"
-            },
-            {
                 "event": "Nameless Honor 2024-05-08",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -66,6 +53,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/All_About_Boothill..."
+            },
+            {
+                "event": "The Legend of Galactic Baseballer",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Event_The_Legend_of_Galactic_Baseballer.png/revision/latest/scale-to-width-down/250?cb=20240528153345",
+                "duration": [
+                    "May 29, 2024",
+                    "June 17, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/The_Legend_of_Galactic_Baseballer"
             }
         ],
         "Upcoming": [
@@ -83,18 +83,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2.2"
             },
             {
-                "event": "Garden of Plenty 2.2",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
-            },
-            {
                 "event": "Planar Fissure 2.2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
@@ -107,8 +95,8 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
             },
             {
-                "event": "The Legend of Galactic Baseballer",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Event_The_Legend_of_Galactic_Baseballer.png/revision/latest/scale-to-width-down/250?cb=20240429015551",
+                "event": "Garden of Plenty 2.2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
                 "duration": [
                     " TBA "
                 ],
@@ -116,7 +104,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/The_Legend_of_Galactic_Baseballer"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
             }
         ],
         "Permanent": [
