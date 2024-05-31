@@ -82,6 +82,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-05-27"
+            },
+            {
+                "event": "Underwater Treasure Hunt",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Underwater_Treasure_Hunt_%28Web_Event%29.png/revision/latest/scale-to-width-down/250?cb=20240529192946",
+                "duration": [
+                    "May 29, 2024",
+                    "June 28, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Underwater_Treasure_Hunt_(Web_Event)"
             }
         ],
         "Upcoming": [
