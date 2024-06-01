@@ -88,13 +88,27 @@
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Underwater_Treasure_Hunt_%28Web_Event%29.png/revision/latest/scale-to-width-down/250?cb=20240529192946",
                 "duration": [
                     "May 29, 2024",
-                    "June 28, 2024"
+                    "June 11, 2024"
                 ],
                 "type": [
                     "Web"
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Underwater_Treasure_Hunt_(Web_Event)"
+            },
+            {
+                "event": "An Eventful Vacation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/An_Eventful_Vacation.png/revision/latest/scale-to-width-down/250?cb=20240531040240",
+                "duration": [
+                    "May 31, 2024",
+                    "June 06, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Character Release"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/An_Eventful_Vacation"
             }
         ],
         "Upcoming": [
@@ -603,70 +617,6 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": [
-            {
-                "code": "BS3DLYAFVAUH",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "50000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    }
-                ],
-                "duration": [
-                    "Discovered: May 24, 2024",
-                    "Expired: May 25, 2024"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "6A2ULZTFVBCV",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: May 24, 2024",
-                    "Expired: May 25, 2024"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "US2VLGSXCAT9",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: May 24, 2024",
-                    "Expired: May 25, 2024"
-                ],
-                "isExpired": true
-            }
-        ]
+        "expiredCodes": []
     }
 }
