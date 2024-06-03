@@ -113,6 +113,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Twitch Drops 2024-06-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
+                "duration": [
+                    "June 05, 2024",
+                    "June 25, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Twitch_Drops/2024-06-05"
+            },
+            {
                 "event": "Mutual Security Enhancing Simulation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240524125930",
                 "duration": [
