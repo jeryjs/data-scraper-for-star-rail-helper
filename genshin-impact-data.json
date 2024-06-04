@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Discover_Traces,_Explore_Nature"
             },
             {
-                "event": "The Realms Rocked",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Battle_Pass_The_Realms_Rocked.png/revision/latest/scale-to-width-down/250?cb=20240422040337",
-                "duration": [
-                    "April 24, 2024",
-                    "June 03, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/The_Realms_Rocked"
-            },
-            {
                 "event": "The Forge Realm's Temper: Game of Wits",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/The_Forge_Realm%27s_Temper_Game_of_Wits_2024-04-24.png/revision/latest/scale-to-width-down/250?cb=20240422040330",
                 "duration": [
@@ -55,33 +41,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-05-14"
-            },
-            {
-                "event": "Specially-Shaped Saurian Search",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Specially-Shaped_Saurian_Search.png/revision/latest/scale-to-width-down/250?cb=20240520040140",
-                "duration": [
-                    "May 22, 2024",
-                    "June 03, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Co-Op"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Specially-Shaped_Saurian_Search"
-            },
-            {
-                "event": "Overflowing Mastery 2024-05-27",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
-                "duration": [
-                    "May 27, 2024",
-                    "June 03, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-05-27"
             },
             {
                 "event": "Underwater Treasure Hunt",
@@ -126,10 +85,39 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Twitch_Drops/2024-06-05"
             },
             {
+                "event": "The Realms Rocked",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Battle_Pass_Simulnation.png/revision/latest/scale-to-width-down/250?cb=20240603040956",
+                "duration": [
+                    "June 05, 2024",
+                    "July 15, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Simulnation"
+            },
+            {
+                "event": "The Forge Realm's Temper: Clever Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/The_Forge_Realm%27s_Temper_Clever_Stratagems_2024-01-31.png/revision/latest/scale-to-width-down/250?cb=20240129041221",
+                "duration": [
+                    "June 05, 2024",
+                    "July 17, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-06-05"
+            },
+            {
                 "event": "Mutual Security Enhancing Simulation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240524125930",
                 "duration": [
-                    "TBA"
+                    "June 07, 2024",
+                    "June 17, 2024"
                 ],
                 "type": [
                     "In-Game",
@@ -142,7 +130,8 @@
                 "event": "Record of Reflective Writing",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240524125945",
                 "duration": [
-                    "TBA"
+                    "June 18, 2024",
+                    "June 24, 2024"
                 ],
                 "type": [
                     "In-Game"
