@@ -28,20 +28,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Underwater_Treasure_Hunt_(Web_Event)"
             },
             {
-                "event": "An Eventful Vacation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/An_Eventful_Vacation.png/revision/latest/scale-to-width-down/250?cb=20240531040240",
-                "duration": [
-                    "May 31, 2024",
-                    "June 06, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/An_Eventful_Vacation"
-            },
-            {
                 "event": "Twitch Drops 2024-06-05",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
                 "duration": [
@@ -81,9 +67,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-06-05"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Mutual Security Enhancing Simulation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240605040610",
@@ -95,9 +79,11 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mutual_Security_Enhancing_Simulation"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Record of Reflective Writing",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240524125945",
@@ -112,18 +98,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Record_of_Reflective_Writing"
             },
             {
-                "event": "Endless Forms Most Martial",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
-            },
-            {
                 "event": "Ley Line Overflow 4.7",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
                 "duration": [
@@ -134,6 +108,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/4.7"
+            },
+            {
+                "event": "Endless Forms Most Martial",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
             },
             {
                 "event": "Spino Doubleblaster",
