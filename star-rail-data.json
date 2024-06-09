@@ -43,7 +43,7 @@
             },
             {
                 "event": "Gift of Odyssey 2024-05-08",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Event_Gift_of_Odyssey_2024-05-08.png/revision/latest/scale-to-width-down/250?cb=20240426234912",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Event_Gift_of_Odyssey_2024-05-08.png/revision/latest/scale-to-width-down/250?cb=20240608130517",
                 "duration": [
                     "May 08, 2024",
                     "June 18, 2024"
@@ -71,16 +71,18 @@
         ],
         "Upcoming": [
             {
-                "event": "Planar Fissure 2.2",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
+                "event": "Gift of Odyssey 2024-06-19",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Gift_of_Odyssey_2024-06-19.png/revision/latest/scale-to-width-down/250?cb=20240608131954",
                 "duration": [
-                    " TBA "
+                    "June 19, 2024",
+                    "July 30, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Login"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-06-19"
             },
             {
                 "event": "Garden of Plenty 2.2",
@@ -93,6 +95,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
+            },
+            {
+                "event": "Planar Fissure 2.2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
             }
         ],
         "Permanent": [
