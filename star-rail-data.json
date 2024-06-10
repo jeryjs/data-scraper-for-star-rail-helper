@@ -67,6 +67,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/The_Legend_of_Galactic_Baseballer"
+            },
+            {
+                "event": "Garden of Plenty 2024-06-07",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "duration": [
+                    "June 07, 2024",
+                    "June 14, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2024-06-07"
             }
         ],
         "Upcoming": [
@@ -83,30 +96,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-06-19"
-            },
-            {
-                "event": "Garden of Plenty 2.2",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2.2"
-            },
-            {
-                "event": "Planar Fissure 2.2",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2.2"
             }
         ],
         "Permanent": [
@@ -250,69 +239,6 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "3AJUD36P766B",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "50000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: June 7, 2024",
-                    "Valid until: June 8, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "DA3VV367PP7X",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Traveler's Guide",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
-                    }
-                ],
-                "duration": [
-                    "Discovered: June 7, 2024",
-                    "Valid until: June 8, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "QB3DC36PP673",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Condensed Aether",
-                        "amount": "4",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030939"
-                    }
-                ],
-                "duration": [
-                    "Discovered: June 7, 2024",
-                    "Valid until: June 8, 2024"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "FA2CU3P7P6QT",
                 "server": "All",
                 "rewards": [
@@ -403,6 +329,69 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "3AJUD36P766B",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "50000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: June 7, 2024",
+                    "Expired: June 8, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "DA3VV367PP7X",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    }
+                ],
+                "duration": [
+                    "Discovered: June 7, 2024",
+                    "Expired: June 8, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "QB3DC36PP673",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Condensed Aether",
+                        "amount": "4",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030939"
+                    }
+                ],
+                "duration": [
+                    "Discovered: June 7, 2024",
+                    "Expired: June 8, 2024"
+                ],
+                "isExpired": true
+            },
             {
                 "code": "ROBININSIDE",
                 "server": "All",
