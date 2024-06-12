@@ -28,6 +28,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Underwater_Treasure_Hunt_(Web_Event)"
             },
             {
+                "event": "How Are You Feeling Today? - Take Part in Clorinde's Topic Event to Win Primogems!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/How_Are_You_Feeling_Today%3F_-_Take_Part_in_Clorinde%27s_Topic_Event_to_Win_Primogems%21.png/revision/latest/scale-to-width-down/250?cb=20240610104425",
+                "duration": [
+                    "June 05, 2024",
+                    "June 11, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Submission"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/How_Are_You_Feeling_Today%3F_-_Take_Part_in_Clorinde%27s_Topic_Event_to_Win_Primogems!"
+            },
+            {
                 "event": "Twitch Drops 2024-06-05",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
                 "duration": [
@@ -69,8 +83,8 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-06-05"
             },
             {
-                "event": "[[File:DoctorChef|250px|link=\"Tabletop Troupe Pros\" - Take Part in the Event to Win Primogems!]]\"Tabletop Troupe Pros\" - Take Part in the Event to Win Primogems!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/%22Tabletop_Troupe_Pros%22_-_Take_Part_in_the_Event_to_Win_Primogems%21.png/revision/latest/scale-to-width-down/185?cb=20240610083514",
+                "event": "\"Tabletop Troupe Pros\" - Take Part in the Event to Win Primogems!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/%22Tabletop_Troupe_Pros%22_-_Take_Part_in_the_Event_to_Win_Primogems%21.png/revision/latest/scale-to-width-down/250?cb=20240610083514",
                 "duration": [
                     "June 06, 2024",
                     "June 13, 2024"
@@ -80,7 +94,7 @@
                     "Submission"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/File:%22Tabletop_Troupe_Pros%22_-_Take_Part_in_the_Event_to_Win_Primogems!.png"
+                "page": "https://genshin-impact.fandom.com/wiki/%22Tabletop_Troupe_Pros%22_-_Take_Part_in_the_Event_to_Win_Primogems!"
             },
             {
                 "event": "Mutual Security Enhancing Simulation",
