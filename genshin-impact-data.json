@@ -15,33 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Discover_Traces,_Explore_Nature"
             },
             {
-                "event": "Underwater Treasure Hunt",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Underwater_Treasure_Hunt_%28Web_Event%29.png/revision/latest/scale-to-width-down/250?cb=20240529192946",
-                "duration": [
-                    "May 29, 2024",
-                    "June 11, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Underwater_Treasure_Hunt_(Web_Event)"
-            },
-            {
-                "event": "How Are You Feeling Today? - Take Part in Clorinde's Topic Event to Win Primogems!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/How_Are_You_Feeling_Today%3F_-_Take_Part_in_Clorinde%27s_Topic_Event_to_Win_Primogems%21.png/revision/latest/scale-to-width-down/250?cb=20240610104425",
-                "duration": [
-                    "June 05, 2024",
-                    "June 11, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Submission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/How_Are_You_Feeling_Today%3F_-_Take_Part_in_Clorinde%27s_Topic_Event_to_Win_Primogems!"
-            },
-            {
                 "event": "Twitch Drops 2024-06-05",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Twitch_Drops_-_Watch_Livestreams_to_Claim_Rewards.png/revision/latest/scale-to-width-down/250?cb=20220625145522",
                 "duration": [
