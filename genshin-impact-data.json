@@ -70,20 +70,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-06-05"
             },
             {
-                "event": "\"Tabletop Troupe Pros\" - Take Part in the Event to Win Primogems!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/%22Tabletop_Troupe_Pros%22_-_Take_Part_in_the_Event_to_Win_Primogems%21.png/revision/latest/scale-to-width-down/250?cb=20240610083514",
-                "duration": [
-                    "June 06, 2024",
-                    "June 13, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Submission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Tabletop_Troupe_Pros%22_-_Take_Part_in_the_Event_to_Win_Primogems!"
-            },
-            {
                 "event": "Mutual Security Enhancing Simulation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240605040610",
                 "duration": [
@@ -99,6 +85,20 @@
             }
         ],
         "Upcoming": [
+            {
+                "event": "Heated Battle Mode: Sprinting Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Heated_Battle_Mode_Sprinting_Stratagems_2024-06-15.png/revision/latest/scale-to-width-down/250?cb=20240613123248",
+                "duration": [
+                    "June 15, 2024",
+                    "July 01, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-06-15"
+            },
             {
                 "event": "Record of Reflective Writing",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240524125945",
