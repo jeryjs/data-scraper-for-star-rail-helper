@@ -88,13 +88,14 @@
         "Upcoming": [
             {
                 "event": "Record of Reflective Writing",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240524125945",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240616040236",
                 "duration": [
                     "June 18, 2024",
                     "June 24, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Trial"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Record_of_Reflective_Writing"
