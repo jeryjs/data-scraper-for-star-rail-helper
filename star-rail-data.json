@@ -15,33 +15,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
             },
             {
-                "event": "Clockie: Dreamjoy Memoir",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Event_Clockie_Dreamjoy_Memoir.png/revision/latest/scale-to-width-down/250?cb=20240525100621",
-                "duration": [
-                    "May 07, 2024",
-                    "June 17, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Clockie:_Dreamjoy_Memoir"
-            },
-            {
-                "event": "Nameless Honor 2024-05-08",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "May 08, 2024",
-                    "June 17, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-05-08"
-            },
-            {
                 "event": "Gift of Odyssey 2024-05-08",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Event_Gift_of_Odyssey_2024-05-08.png/revision/latest/scale-to-width-down/250?cb=20240608130517",
                 "duration": [
@@ -54,19 +27,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-05-08"
-            },
-            {
-                "event": "The Legend of Galactic Baseballer",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Event_The_Legend_of_Galactic_Baseballer.png/revision/latest/scale-to-width-down/250?cb=20240528153345",
-                "duration": [
-                    "May 29, 2024",
-                    "June 17, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/The_Legend_of_Galactic_Baseballer"
             },
             {
                 "event": "Aptitude Showcase - Boothill, Fu Xuan, Pela, Luka, Hook",
@@ -109,6 +69,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-06-19"
+            },
+            {
+                "event": "Planar Fissure 2024-06-28",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
+                "duration": [
+                    "June 28, 2024",
+                    "July 05, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-05-22"
             }
         ],
         "Permanent": [
