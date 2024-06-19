@@ -57,20 +57,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-06-05"
             },
             {
-                "event": "Mutual Security Enhancing Simulation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Mutual_Security_Enhancing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20240605040610",
-                "duration": [
-                    "June 07, 2024",
-                    "June 17, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Mutual_Security_Enhancing_Simulation"
-            },
-            {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Heated_Battle_Mode_Sprinting_Stratagems_2024-06-15.png/revision/latest/scale-to-width-down/250?cb=20240613123248",
                 "duration": [
@@ -83,9 +69,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-06-15"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Record of Reflective Writing",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240616040236",
@@ -97,8 +81,22 @@
                     "In-Game",
                     "Trial"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Record_of_Reflective_Writing"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Endless Forms Most Martial",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
             },
             {
                 "event": "Ley Line Overflow 4.7",
@@ -111,18 +109,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/4.7"
-            },
-            {
-                "event": "Endless Forms Most Martial",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
             },
             {
                 "event": "Spino Doubleblaster",

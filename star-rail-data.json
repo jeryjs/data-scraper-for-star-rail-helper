@@ -2,33 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Immersive Interactive Exhibition",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Event_Immersive_Interactive_Exhibition.png/revision/latest/scale-to-width-down/250?cb=20240326025429",
-                "duration": [
-                    "March 16, 2024",
-                    "June 18, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Immersive_Interactive_Exhibition"
-            },
-            {
-                "event": "Gift of Odyssey 2024-05-08",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Event_Gift_of_Odyssey_2024-05-08.png/revision/latest/scale-to-width-down/250?cb=20240608130517",
-                "duration": [
-                    "May 08, 2024",
-                    "June 18, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-05-08"
-            },
-            {
                 "event": "Aptitude Showcase - Boothill, Fu Xuan, Pela, Luka, Hook",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Aptitude_Showcase_-_Boothill%2C_Fu_Xuan%2C_Pela%2C_Luka%2C_Hook.png/revision/latest/scale-to-width-down/250?cb=20240519185955",
                 "duration": [
@@ -81,7 +54,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-05-22"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-06-28"
             }
         ],
         "Permanent": [
