@@ -83,6 +83,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Record_of_Reflective_Writing"
+            },
+            {
+                "event": "Heartfelt Doodlings",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Heartfelt_Doodlings.png/revision/latest/scale-to-width-down/250?cb=20240620041449",
+                "duration": [
+                    "June 20, 2024",
+                    "June 26, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Character Release"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Heartfelt_Doodlings"
             }
         ],
         "Upcoming": [
@@ -90,7 +104,8 @@
                 "event": "Endless Forms Most Martial",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240524125934",
                 "duration": [
-                    "TBA"
+                    "June 25, 2024",
+                    "July 01, 2024"
                 ],
                 "type": [
                     "In-Game"
@@ -99,28 +114,30 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
             },
             {
-                "event": "Ley Line Overflow 4.7",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/4.7"
-            },
-            {
                 "event": "Spino Doubleblaster",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Spino_Doubleblaster.png/revision/latest/scale-to-width-down/250?cb=20240524125940",
                 "duration": [
-                    "TBA"
+                    "July 02, 2024",
+                    "July 08, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Spino_Doubleblaster"
+            },
+            {
+                "event": "Ley Line Overflow 2024-07-08",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "July 08, 2024",
+                    "July 15, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-07-08"
             }
         ],
         "Permanent": [

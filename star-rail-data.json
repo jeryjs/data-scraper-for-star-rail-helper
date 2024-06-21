@@ -15,6 +15,20 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Twitch_Drops/2024-06-19"
             },
             {
+                "event": "Nameless Honor 2024-06-19",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "June 19, 2024",
+                    "July 29, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-06-19"
+            },
+            {
                 "event": "Gift of Odyssey 2024-06-19",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Gift_of_Odyssey_2024-06-19.png/revision/latest/scale-to-width-down/250?cb=20240619080725",
                 "duration": [
@@ -107,18 +121,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Starlit_Homecoming"
             },
             {
-                "event": "To Retire Upon the Perch",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Event_To_Retire_Upon_the_Perch.png/revision/latest/scale-to-width-down/250?cb=20230720155159",
-                "duration": [
-                    "July 19, 2023"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Permanent",
-                "page": "https://honkai-star-rail.fandom.com/wiki/To_Retire_Upon_the_Perch"
-            },
-            {
                 "event": "Joint Forces",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Event_Joint_Forces.png/revision/latest/scale-to-width-down/250?cb=20240619093317",
                 "duration": [
@@ -129,6 +131,18 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Joint_Forces"
+            },
+            {
+                "event": "To Retire Upon the Perch",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Event_To_Retire_Upon_the_Perch.png/revision/latest/scale-to-width-down/250?cb=20230720155159",
+                "duration": [
+                    "July 19, 2023"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/To_Retire_Upon_the_Perch"
             },
             {
                 "event": "Simulated Universe: Swarm Disaster",
@@ -179,6 +193,18 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/When_Charmony_Rings_Out..."
+            },
+            {
+                "event": "Nether Puppet",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/Event_Nether_Puppet.png/revision/latest/scale-to-width-down/250?cb=20240620023712",
+                "duration": [
+                    "June 19, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nether_Puppet"
             }
         ]
     },
