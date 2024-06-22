@@ -30,7 +30,7 @@
             },
             {
                 "event": "Gift of Odyssey 2024-06-19",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Gift_of_Odyssey_2024-06-19.png/revision/latest/scale-to-width-down/250?cb=20240619080725",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Gift_of_Odyssey_2024-06-19.png/revision/latest/scale-to-width-down/250?cb=20240621045032",
                 "duration": [
                     "June 19, 2024",
                     "July 30, 2024"
@@ -41,6 +41,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-06-19"
+            },
+            {
+                "event": "Origami Bird Clash",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Event_Origami_Bird_Clash.png/revision/latest/scale-to-width-down/250?cb=20240620032731",
+                "duration": [
+                    "June 21, 2024",
+                    "July 29, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash"
             }
         ],
         "Upcoming": [
