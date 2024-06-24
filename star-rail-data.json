@@ -58,6 +58,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Fusion Core Breakdown",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Event_Cyclical_Extrapolation_Fusion_Core_Breakdown.png/revision/latest/scale-to-width-down/250?cb=20240623013335",
+                "duration": [
+                    "June 19, 2024",
+                    "June 24, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-06-19"
+            },
+            {
                 "event": "Planar Fissure 2024-06-28",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
