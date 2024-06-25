@@ -71,6 +71,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-06-19"
             },
             {
+                "event": "Cyclical Extrapolation: Prayer for Downpour",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Event_Cyclical_Extrapolation_Prayer_for_Downpour.png/revision/latest/scale-to-width-down/250?cb=20240623200005",
+                "duration": [
+                    "June 24, 2024",
+                    "July 01, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-06-24"
+            },
+            {
                 "event": "Planar Fissure 2024-06-28",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
@@ -236,6 +249,27 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "SEABLAZE",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Pika White Grape Soda",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Item_Pika_White_Grape_Soda.png/revision/latest/scale-to-width-down/30?cb=20240209010406"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: June 25, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "FIREFLYSGIFT",
                 "server": "All",
