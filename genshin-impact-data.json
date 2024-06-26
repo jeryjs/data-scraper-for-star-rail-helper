@@ -71,20 +71,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-06-15"
             },
             {
-                "event": "Record of Reflective Writing",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Record_of_Reflective_Writing.png/revision/latest/scale-to-width-down/250?cb=20240616040236",
-                "duration": [
-                    "June 18, 2024",
-                    "June 24, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Trial"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Record_of_Reflective_Writing"
-            },
-            {
                 "event": "Heartfelt Doodlings",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Heartfelt_Doodlings.png/revision/latest/scale-to-width-down/250?cb=20240620041449",
                 "duration": [
@@ -111,9 +97,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Sigewinne%27s_Band-Aid_Graffiti_Event!"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Endless Forms Most Martial",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Endless_Forms_Most_Martial.png/revision/latest/scale-to-width-down/250?cb=20240623040051",
@@ -124,9 +108,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Endless_Forms_Most_Martial"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Spino Doubleblaster",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Spino_Doubleblaster.png/revision/latest/scale-to-width-down/250?cb=20240524125940",
