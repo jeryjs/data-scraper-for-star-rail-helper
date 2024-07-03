@@ -80,34 +80,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-06-28"
-            }
-        ],
-        "Upcoming": [
-            {
-                "event": "Cyclical Extrapolation: Fusion Core Breakdown",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Event_Cyclical_Extrapolation_Fusion_Core_Breakdown.png/revision/latest/scale-to-width-down/250?cb=20240623013335",
-                "duration": [
-                    "June 19, 2024",
-                    "June 24, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-06-19"
-            },
-            {
-                "event": "Cyclical Extrapolation: Prayer for Downpour",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Event_Cyclical_Extrapolation_Prayer_for_Downpour.png/revision/latest/scale-to-width-down/250?cb=20240623200005",
-                "duration": [
-                    "June 24, 2024",
-                    "July 01, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-06-24"
             },
             {
                 "event": "|Cyclical Extrapolation: Windfall of Wealth",
@@ -119,10 +91,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.comhttps://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/Event_Cyclical_Extrapolation_Windfall_of_Wealth.png/revision/latest?cb=20240630200002"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
