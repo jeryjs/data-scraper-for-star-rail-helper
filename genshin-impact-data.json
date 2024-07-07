@@ -84,6 +84,67 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-07-08"
+            },
+            {
+                "event": "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Outside_the_Canvas%2C_Inside_the_Lens_Dew-Kissed_Chapter.png/revision/latest/scale-to-width-down/250?cb=20240705133356",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Outside_the_Canvas,_Inside_the_Lens/4.8"
+            },
+            {
+                "event": "Overflowing Mastery 4.8",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.8"
+            },
+            {
+                "event": "Energy Amplifier: Lemma",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240705133354",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/4.8"
+            },
+            {
+                "event": "Bing-Bang Finchball 4.8",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
+            },
+            {
+                "event": "Summertide Scales and Tales",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Summertide_Scales_and_Tales.png/revision/latest/scale-to-width-down/250?cb=20240705133348",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Summertide_Scales_and_Tales"
             }
         ],
         "Permanent": [

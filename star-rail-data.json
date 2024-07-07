@@ -80,6 +80,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.comhttps://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/Event_Cyclical_Extrapolation_Windfall_of_Wealth.png/revision/latest?cb=20240630200002"
+            },
+            {
+                "event": "Stellar Shimmer",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Event_Stellar_Shimmer.png/revision/latest/scale-to-width-down/250?cb=20240607135827",
+                "duration": [
+                    "July 05, 2024",
+                    "July 29, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Shimmer"
             }
         ],
         "Upcoming": [],
