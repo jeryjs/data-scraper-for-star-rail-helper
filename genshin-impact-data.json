@@ -92,7 +92,8 @@
                     "TBA"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Kamera"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Outside_the_Canvas,_Inside_the_Lens/4.8"
@@ -259,69 +260,6 @@
     },
     "Codes": {
         "activeCodes": [
-            {
-                "code": "PTKXYUGW7R6D",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "50000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    }
-                ],
-                "duration": [
-                    "Discovered: July 5, 2024",
-                    "Valid until: July 6, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "5TJWHDHX7R59",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: July 5, 2024",
-                    "Valid until: July 6, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "YS2WHUHFNQ5M",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: July 5, 2024",
-                    "Valid until: July 6, 2024"
-                ],
-                "isExpired": false
-            },
             {
                 "code": "HHZN6E8685VU",
                 "server": "All",
