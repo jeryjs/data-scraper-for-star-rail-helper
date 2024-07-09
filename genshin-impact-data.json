@@ -69,9 +69,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Spino_Doubleblaster"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Ley Line Overflow 2024-07-08",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
@@ -82,8 +80,34 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-07-08"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Bing-Bang Finchball 4.8",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
+            },
+            {
+                "event": "Overflowing Mastery 4.8",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.8"
             },
             {
                 "event": "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
@@ -99,18 +123,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Outside_the_Canvas,_Inside_the_Lens/4.8"
             },
             {
-                "event": "Overflowing Mastery 4.8",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.8"
-            },
-            {
                 "event": "Energy Amplifier: Lemma",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240705133354",
                 "duration": [
@@ -121,18 +133,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/4.8"
-            },
-            {
-                "event": "Bing-Bang Finchball 4.8",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
             },
             {
                 "event": "Summertide Scales and Tales",
@@ -260,6 +260,32 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "VAJWEZAC7WCZ",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 8, 2024",
+                    "Valid until: July 17, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "HHZN6E8685VU",
                 "server": "All",

@@ -69,21 +69,8 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash"
             },
             {
-                "event": "|Cyclical Extrapolation: Windfall of Wealth",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/Event_Cyclical_Extrapolation_Windfall_of_Wealth.png/revision/latest/scale-to-width-down/250?cb=20240630200002",
-                "duration": [
-                    "July 01, 2024",
-                    "July 08, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.comhttps://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/Event_Cyclical_Extrapolation_Windfall_of_Wealth.png/revision/latest?cb=20240630200002"
-            },
-            {
                 "event": "Stellar Shimmer",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Event_Stellar_Shimmer.png/revision/latest/scale-to-width-down/250?cb=20240607135827",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Event_Stellar_Shimmer.png/revision/latest/scale-to-width-down/250?cb=20240708121642",
                 "duration": [
                     "July 05, 2024",
                     "July 29, 2024"
@@ -93,6 +80,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Shimmer"
+            },
+            {
+                "event": "Cyclical Extrapolation: Labyrinth of Knowledge",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Event_Cyclical_Extrapolation_Labyrinth_of_Knowledge.png/revision/latest/scale-to-width-down/250?cb=20240707200002",
+                "duration": [
+                    "July 08, 2024",
+                    "July 15, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-08"
             }
         ],
         "Upcoming": [],
