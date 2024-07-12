@@ -261,6 +261,42 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "DUOIMPACT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "30",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Sweet Madame",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sweet_Madame.png/revision/latest/scale-to-width-down/20?cb=20210415134415"
+                    },
+                    {
+                        "name": "Chicken-Mushroom Skewer",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Chicken-Mushroom_Skewer.png/revision/latest/scale-to-width-down/20?cb=20210109214805"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 11, 2024",
+                    "Valid until: July 18, 2024"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "VAJWEZAC7WCZ",
                 "server": "All",
                 "rewards": [
