@@ -249,6 +249,53 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "KSKWLYVC75NB",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Fuel",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest/scale-to-width-down/30?cb=20230428034828"
+                    },
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "Condensed Aether",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030939"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 12, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "WAKE4HCV745T",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 11, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "SEABLAZE",
                 "server": "All",
                 "rewards": [
