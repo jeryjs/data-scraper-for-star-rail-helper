@@ -69,19 +69,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Shimmer"
             },
             {
-                "event": "Cyclical Extrapolation: Labyrinth of Knowledge",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Event_Cyclical_Extrapolation_Labyrinth_of_Knowledge.png/revision/latest/scale-to-width-down/250?cb=20240707200002",
-                "duration": [
-                    "July 08, 2024",
-                    "July 15, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-08"
-            },
-            {
                 "event": "Lady Bonajade Handbook",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Event_Lady_Bonajade_Handbook.png/revision/latest/scale-to-width-down/250?cb=20240709050844",
                 "duration": [
@@ -93,6 +80,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Lady_Bonajade_Handbook"
+            },
+            {
+                "event": "Cyclical Extrapolation: Deconstruction of Solemnity",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Event_Cyclical_Extrapolation_Deconstruction_of_Solemnity.png/revision/latest/scale-to-width-down/250?cb=20240714200002",
+                "duration": [
+                    "July 15, 2024",
+                    "July 22, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-15"
             }
         ],
         "Upcoming": [],
