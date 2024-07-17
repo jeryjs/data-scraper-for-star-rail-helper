@@ -44,19 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fanciful_Fabrication"
             },
             {
-                "event": "Fragrant Fantasy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Fragrant_Fantasy.png/revision/latest/scale-to-width-down/250?cb=20240709044310",
-                "duration": [
-                    "July 09, 2024",
-                    "July 15, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Fragrant_Fantasy"
-            },
-            {
                 "event": "Genshin Impact \u00d7 Duolingo",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Genshin_Impact_%C3%97_Duolingo.png/revision/latest/scale-to-width-down/250?cb=20240712062312",
                 "duration": [
@@ -86,20 +73,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Breeze_of_Sabaa_Discount"
             },
             {
-                "event": "Summertide Scales and Tales",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Summertide_Scales_and_Tales.png/revision/latest/scale-to-width-down/250?cb=20240715041423",
-                "duration": [
-                    "July 17, 2024",
-                    "August 27, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Summertide_Scales_and_Tales"
-            },
-            {
                 "event": "The Forge Realm's Temper: Endless Swarm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/The_Forge_Realm%27s_Temper_Endless_Swarm_2024-07-17.png/revision/latest/scale-to-width-down/250?cb=20240715040927",
                 "duration": [
@@ -112,6 +85,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-07-17"
+            },
+            {
+                "event": "Summertide Scales and Tales",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Summertide_Scales_and_Tales.png/revision/latest/scale-to-width-down/250?cb=20240715041423",
+                "duration": [
+                    "July 17, 2024",
+                    "August 28, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Summertide_Scales_and_Tales"
             },
             {
                 "event": "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
