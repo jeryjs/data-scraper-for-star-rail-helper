@@ -2,48 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "The Forge Realm's Temper: Clever Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/The_Forge_Realm%27s_Temper_Clever_Stratagems_2024-01-31.png/revision/latest/scale-to-width-down/250?cb=20240129041221",
-                "duration": [
-                    "June 05, 2024",
-                    "July 17, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-06-05"
-            },
-            {
-                "event": "Test Run - Sigewinne, Furina, Gaming, Rosaria",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Test_Run_-_Sigewinne%2C_Furina%2C_Gaming%2C_Rosaria.png/revision/latest/scale-to-width-down/250?cb=20240625114310",
-                "duration": [
-                    "June 25, 2024",
-                    "July 16, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-06-25"
-            },
-            {
-                "event": "Fanciful Fabrication",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Battle_Pass_Fanciful_Fabrication.png/revision/latest/scale-to-width-down/250?cb=20240715041436",
-                "duration": [
-                    "July 07, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fanciful_Fabrication"
-            },
-            {
                 "event": "Genshin Impact \u00d7 Duolingo",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Genshin_Impact_%C3%97_Duolingo.png/revision/latest/scale-to-width-down/250?cb=20240712062312",
                 "duration": [
@@ -55,9 +13,21 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_%C3%97_Duolingo"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Fanciful Fabrication",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Battle_Pass_Fanciful_Fabrication.png/revision/latest/scale-to-width-down/250?cb=20240715041436",
+                "duration": [
+                    "July 17, 2024",
+                    "August 26, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fanciful_Fabrication"
+            },
             {
                 "event": "Breeze of Sabaa Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Breeze_of_Sabaa_Discount.png/revision/latest/scale-to-width-down/250?cb=20240715040923",
@@ -69,7 +39,7 @@
                     "In-Game",
                     "Discount"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Breeze_of_Sabaa_Discount"
             },
             {
@@ -83,7 +53,7 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-07-17"
             },
             {
@@ -97,9 +67,11 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Summertide_Scales_and_Tales"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Outside_the_Canvas%2C_Inside_the_Lens_Dew-Kissed_Chapter.png/revision/latest/scale-to-width-down/250?cb=20240705133356",
@@ -115,18 +87,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Outside_the_Canvas,_Inside_the_Lens/2024-07-29"
             },
             {
-                "event": "Bing-Bang Finchball 4.8",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
-            },
-            {
                 "event": "Energy Amplifier: Lemma",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240705133354",
                 "duration": [
@@ -137,6 +97,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/4.8"
+            },
+            {
+                "event": "Bing-Bang Finchball 4.8",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
             },
             {
                 "event": "Overflowing Mastery 4.8",
@@ -264,6 +236,42 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "GENSHINSUMMERNIGHT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Biryani",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Biryani.png/revision/latest/scale-to-width-down/20?cb=20220825090905"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    },
+                    {
+                        "name": "Fruits of the Festival",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Fruits_of_the_Festival.png/revision/latest/scale-to-width-down/20?cb=20220928041838"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 17, 2024",
+                    "Valid until: July 31, 2024"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "DUOIMPACT",
                 "server": "All",
                 "rewards": [
@@ -296,32 +304,6 @@
                 "duration": [
                     "Discovered: July 11, 2024",
                     "Valid until: July 18, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "VAJWEZAC7WCZ",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "20000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: July 8, 2024",
-                    "Valid until: July 17, 2024"
                 ],
                 "isExpired": false
             },
@@ -738,6 +720,55 @@
                 "isExpired": false
             },
             {
+                "code": "GENSHINGIFT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 10, 2020",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            }
+        ],
+        "expiredCodes": [
+            {
+                "code": "VAJWEZAC7WCZ",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "20000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 8, 2024",
+                    "Expired: July 17, 2024"
+                ],
+                "isExpired": true
+            },
+            {
                 "code": "TYMH47X31W68",
                 "server": "All",
                 "rewards": [
@@ -769,32 +800,10 @@
                 ],
                 "duration": [
                     "Discovered: May 24, 2024",
-                    "Valid until: July 16, 2024"
+                    "Expired: July 16, 2024"
                 ],
-                "isExpired": false
-            },
-            {
-                "code": "GENSHINGIFT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "50",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 10, 2020",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
+                "isExpired": true
             }
-        ],
-        "expiredCodes": []
+        ]
     }
 }

@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Twitch Drops 2024-06-19",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Event_Twitch_Drops_2024-03-27.png/revision/latest/scale-to-width-down/250?cb=20240327223842",
-                "duration": [
-                    "June 19, 2024",
-                    "July 17, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Twitch_Drops/2024-06-19"
-            },
-            {
                 "event": "Nameless Honor 2024-06-19",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
