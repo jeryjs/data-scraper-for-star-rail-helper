@@ -82,7 +82,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-15"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Traversal of Vicissitude",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Event_Cyclical_Extrapolation_Traversal_of_Vicissitude.png/revision/latest/scale-to-width-down/250?cb=20240721200006",
+                "duration": [
+                    "July 22, 2024",
+                    "July 29, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-22"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
