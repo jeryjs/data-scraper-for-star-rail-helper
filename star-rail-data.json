@@ -69,6 +69,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-10"
             },
             {
+                "event": "Honkai: Star Rail \u00d7 LiHO TEA",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Honkai_Star_Rail_%C3%97_LiHO_TEA.png/revision/latest/scale-to-width-down/250?cb=20240723152715",
+                "duration": [
+                    "July 12, 2024",
+                    "August 18, 2024"
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_%C3%97_LiHO_TEA"
+            },
+            {
                 "event": "Cyclical Extrapolation: Traversal of Vicissitude",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Event_Cyclical_Extrapolation_Traversal_of_Vicissitude.png/revision/latest/scale-to-width-down/250?cb=20240721200006",
                 "duration": [
@@ -235,6 +248,32 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "Honkai: Star Rail \u00d7 LiHO TEA",
+                "server": "America, Europe, Asia, TW/HK/Macao",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "40",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Immortal's Delight",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest/scale-to-width-down/30?cb=20230506203917"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 12, 2024",
+                    "Valid until: August 18, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "KSKWLYVC75NB",
                 "server": "All",
@@ -1846,6 +1885,37 @@
                 "duration": [
                     "Discovered: November 3, 2023",
                     "Expired: November 4, 2023"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "Time to Feast! Astral Express Pit Stop",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Chef Pom-Pom (Profile Picture)",
+                        "amount": "",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Profile_Picture_Chef_Pom-Pom.png/revision/latest/scale-to-width-down/30?cb=20231017183640"
+                    },
+                    {
+                        "name": "Conductor's Treat",
+                        "amount": "",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Conductor%27s_Treat.png/revision/latest/scale-to-width-down/30?cb=20231017190440"
+                    },
+                    {
+                        "name": "Pom-Pom's Fried Fowl",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/Item_Pom-Pom%27s_Fried_Fowl.png/revision/latest/scale-to-width-down/30?cb=20231017073458"
+                    },
+                    {
+                        "name": "Recipe: Pom-Pom's Fried Fowl",
+                        "amount": "",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Item_Recipe_Pom-Pom%27s_Fried_Fowl.png/revision/latest/scale-to-width-down/30?cb=20240215034653"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 11, 2023",
+                    "Expired: December 31, 2023"
                 ],
                 "isExpired": true
             },
