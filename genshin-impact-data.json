@@ -74,6 +74,20 @@
         ],
         "Upcoming": [
             {
+                "event": "Heated Battle Mode: Tactical Formation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Heated_Battle_Mode_Tactical_Formation_2024-07-27.png/revision/latest/scale-to-width-down/250?cb=20240725055157",
+                "duration": [
+                    "July 27, 2024",
+                    "August 12, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-07-27"
+            },
+            {
                 "event": "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Outside_the_Canvas%2C_Inside_the_Lens_Dew-Kissed_Chapter.png/revision/latest/scale-to-width-down/250?cb=20240705133356",
                 "duration": [
