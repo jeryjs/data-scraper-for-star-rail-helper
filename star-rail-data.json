@@ -95,7 +95,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-22"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Sinking Into the Self",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_Cyclical_Extrapolation_Sinking_Into_the_Self.png/revision/latest/scale-to-width-down/250?cb=20240728200008",
+                "duration": [
+                    "July 29, 2024",
+                    "August 05, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-29"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
