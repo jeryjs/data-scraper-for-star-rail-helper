@@ -84,9 +84,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-07-27"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Outside_the_Canvas%2C_Inside_the_Lens_Dew-Kissed_Chapter.png/revision/latest/scale-to-width-down/250?cb=20240727074203",
@@ -98,8 +96,22 @@
                     "In-Game",
                     "Kamera"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Outside_the_Canvas,_Inside_the_Lens/2024-07-29"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Bing-Bang Finchball 4.8",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
             },
             {
                 "event": "Energy Amplifier: Lemma",
@@ -112,18 +124,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/4.8"
-            },
-            {
-                "event": "Bing-Bang Finchball 4.8",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
             },
             {
                 "event": "Overflowing Mastery 4.8",
