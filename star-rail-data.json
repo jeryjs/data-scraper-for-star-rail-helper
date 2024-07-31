@@ -2,73 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Nameless Honor 2024-06-19",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "June 19, 2024",
-                    "July 29, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-06-19"
-            },
-            {
-                "event": "Gift of Odyssey 2024-06-19",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Gift_of_Odyssey_2024-06-19.png/revision/latest/scale-to-width-down/250?cb=20240621045032",
-                "duration": [
-                    "June 19, 2024",
-                    "July 30, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-06-19"
-            },
-            {
-                "event": "Origami Bird Clash",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Event_Origami_Bird_Clash.png/revision/latest/scale-to-width-down/250?cb=20240620032731",
-                "duration": [
-                    "June 21, 2024",
-                    "July 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash"
-            },
-            {
-                "event": "Stellar Shimmer",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Event_Stellar_Shimmer.png/revision/latest/scale-to-width-down/250?cb=20240708121642",
-                "duration": [
-                    "July 05, 2024",
-                    "July 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Shimmer"
-            },
-            {
-                "event": "Aptitude Showcase - Jade, Argenti, Serval, Natasha, Asta",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Aptitude_Showcase_-_Jade%2C_Argenti%2C_Serval%2C_Natasha%2C_Asta.png/revision/latest/scale-to-width-down/250?cb=20240710011633",
-                "duration": [
-                    "July 10, 2024",
-                    "July 30, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-10"
-            },
-            {
                 "event": "Honkai: Star Rail \u00d7 LiHO TEA",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Honkai_Star_Rail_%C3%97_LiHO_TEA.png/revision/latest/scale-to-width-down/250?cb=20240723152715",
                 "duration": [
@@ -82,21 +15,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_%C3%97_LiHO_TEA"
             },
             {
-                "event": "Cyclical Extrapolation: Traversal of Vicissitude",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Event_Cyclical_Extrapolation_Traversal_of_Vicissitude.png/revision/latest/scale-to-width-down/250?cb=20240721200006",
-                "duration": [
-                    "July 22, 2024",
-                    "July 29, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-22"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Cyclical Extrapolation: Sinking Into the Self",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_Cyclical_Extrapolation_Sinking_Into_the_Self.png/revision/latest/scale-to-width-down/250?cb=20240728200008",
                 "duration": [
@@ -106,10 +24,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-29"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
