@@ -26,6 +26,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-29"
+            },
+            {
+                "event": "Aptitude Showcase - Yunli, Huohuo, Hanya, Yukong, Lynx",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Aptitude_Showcase_-_Yunli%2C_Huohuo%2C_Hanya%2C_Yukong%2C_Lynx.png/revision/latest/scale-to-width-down/250?cb=20240731090949",
+                "duration": [
+                    "July 31, 2024",
+                    "August 21, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-31"
             }
         ],
         "Upcoming": [],
@@ -181,6 +194,48 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "YUNLISNACK",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "Berrypheasant Skewers",
+                        "amount": "6",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Item_Berrypheasant_Skewers.png/revision/latest/scale-to-width-down/30?cb=20230507012715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 31, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "QB2XKWZLNUK3",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: July 31, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "Honkai: Star Rail \u00d7 LiHO TEA",
                 "server": "America, Europe, Asia, TW/HK/Macao",
