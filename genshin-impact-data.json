@@ -116,40 +116,43 @@
         ],
         "Upcoming": [
             {
-                "event": "Bing-Bang Finchball 4.8",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Bing-Bang_Finchball_4.8.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
+                "event": "Bing-Bang Finchball 2024-08-06",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Bing-Bang_Finchball_2024-08-06.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
                 "duration": [
-                    "TBA"
+                    "August 06, 2024",
+                    "August 19, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/4.8"
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2024-08-06"
             },
             {
                 "event": "Energy Amplifier: Lemma",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240705133354",
                 "duration": [
-                    "TBA"
+                    "August 12, 2024",
+                    "August 26, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/4.8"
+                "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/2024-08-12"
             },
             {
-                "event": "Overflowing Mastery 4.8",
+                "event": "Overflowing Mastery 2024-08-19",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
                 "duration": [
-                    "TBA"
+                    "August 19, 2024",
+                    "August 26, 2024"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/4.8"
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-08-19"
             }
         ],
         "Permanent": [
