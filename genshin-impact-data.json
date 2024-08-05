@@ -117,13 +117,14 @@
         "Upcoming": [
             {
                 "event": "Bing-Bang Finchball 2024-08-06",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Bing-Bang_Finchball_2024-08-06.png/revision/latest/scale-to-width-down/250?cb=20240705133358",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Bing-Bang_Finchball_2024-08-06.png/revision/latest/scale-to-width-down/250?cb=20240804040121",
                 "duration": [
                     "August 06, 2024",
                     "August 19, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Co-Op"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2024-08-06"

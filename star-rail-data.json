@@ -41,7 +41,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-31"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Waiting for Eternity",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Event_Cyclical_Extrapolation_Waiting_for_Eternity.png/revision/latest/scale-to-width-down/250?cb=20240804200034",
+                "duration": [
+                    "August 05, 2024",
+                    "August 12, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-05"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
