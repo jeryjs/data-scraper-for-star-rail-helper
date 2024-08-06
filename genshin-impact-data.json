@@ -470,42 +470,6 @@
                 "isExpired": false
             },
             {
-                "code": "GENSHINSUMMERNIGHT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "20000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    },
-                    {
-                        "name": "Biryani",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Biryani.png/revision/latest/scale-to-width-down/20?cb=20220825090905"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    },
-                    {
-                        "name": "Fruits of the Festival",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Fruits_of_the_Festival.png/revision/latest/scale-to-width-down/20?cb=20220928041838"
-                    }
-                ],
-                "duration": [
-                    "Discovered: July 17, 2024",
-                    "Valid until: July 31, 2024"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "FBJCMYSXCBT5",
                 "server": "All",
                 "rewards": [
