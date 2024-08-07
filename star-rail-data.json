@@ -15,19 +15,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_%C3%97_LiHO_TEA"
             },
             {
-                "event": "Cyclical Extrapolation: Sinking Into the Self",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Event_Cyclical_Extrapolation_Sinking_Into_the_Self.png/revision/latest/scale-to-width-down/250?cb=20240728200008",
-                "duration": [
-                    "July 29, 2024",
-                    "August 05, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-07-29"
-            },
-            {
                 "event": "Aptitude Showcase - Yunli, Huohuo, Hanya, Yukong, Lynx",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Aptitude_Showcase_-_Yunli%2C_Huohuo%2C_Hanya%2C_Yukong%2C_Lynx.png/revision/latest/scale-to-width-down/250?cb=20240731090949",
                 "duration": [
@@ -39,9 +26,21 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-31"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Nameless Honor 2024-07-31",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "July 31, 2024",
+                    "September 09, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-07-31"
+            },
             {
                 "event": "Cyclical Extrapolation: Waiting for Eternity",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Event_Cyclical_Extrapolation_Waiting_for_Eternity.png/revision/latest/scale-to-width-down/250?cb=20240804200034",
@@ -52,10 +51,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-05"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",

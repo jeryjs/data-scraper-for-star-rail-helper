@@ -112,9 +112,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/An_Introduction_to_Perfumery"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Bing-Bang Finchball 2024-08-06",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Bing-Bang_Finchball_2024-08-06.png/revision/latest/scale-to-width-down/250?cb=20240804040121",
@@ -126,9 +124,11 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2024-08-06"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Energy Amplifier: Lemma",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240705133354",
@@ -268,6 +268,37 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "MGKH82L54F6S",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Lakelight Lily",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Lakelight_Lily.png/revision/latest/scale-to-width-down/20?cb=20231108113349"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 6, 2024",
+                    "Valid until: August 27, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "NAJEWZTD7XD5",
                 "server": "All",
