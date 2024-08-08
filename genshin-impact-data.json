@@ -2,18 +2,18 @@
     "Events": {
         "Current": [
             {
-                "event": "Test Run - Navia, Nilou, Kirara, Kaveh, Ningguang",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Test_Run_-_Navia%2C_Nilou%2C_Kirara%2C_Kaveh%2C_Ningguang.png/revision/latest/scale-to-width-down/250?cb=20240720212145",
+                "event": "Fanciful Fabrication",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Battle_Pass_Fanciful_Fabrication.png/revision/latest/scale-to-width-down/250?cb=20240715041436",
                 "duration": [
                     "July 17, 2024",
-                    "August 06, 2024"
+                    "August 26, 2024"
                 ],
                 "type": [
                     "In-Game",
-                    "Test Run"
+                    "Battle Pass"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-07-17"
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fanciful_Fabrication"
             },
             {
                 "event": "Breeze of Sabaa Discount",
@@ -28,20 +28,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Breeze_of_Sabaa_Discount"
-            },
-            {
-                "event": "Fanciful Fabrication",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Battle_Pass_Fanciful_Fabrication.png/revision/latest/scale-to-width-down/250?cb=20240715041436",
-                "duration": [
-                    "July 17, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fanciful_Fabrication"
             },
             {
                 "event": "The Forge Realm's Temper: Endless Swarm",
@@ -98,20 +84,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Outside_the_Canvas,_Inside_the_Lens/2024-07-29"
-            },
-            {
-                "event": "An Introduction to Perfumery",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/An_Introduction_to_Perfumery.png/revision/latest/scale-to-width-down/250?cb=20240801040123",
-                "duration": [
-                    "August 01, 2024",
-                    "August 07, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/An_Introduction_to_Perfumery"
             },
             {
                 "event": "Bing-Bang Finchball 2024-08-06",
