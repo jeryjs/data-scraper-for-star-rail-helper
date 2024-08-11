@@ -209,6 +209,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "YUNLIGIFT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Steamed Puffergoat Milk",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Item_Steamed_Puffergoat_Milk.png/revision/latest/scale-to-width-down/30?cb=20230507011727"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 8, 2024",
+                    "Valid until: Unknown"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "YUNLISNACK",
                 "server": "All",
                 "rewards": [
