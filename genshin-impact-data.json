@@ -58,20 +58,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Summertide_Scales_and_Tales"
             },
             {
-                "event": "Heated Battle Mode: Tactical Formation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Heated_Battle_Mode_Tactical_Formation_2024-07-27.png/revision/latest/scale-to-width-down/250?cb=20240725055157",
-                "duration": [
-                    "July 27, 2024",
-                    "August 12, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-07-27"
-            },
-            {
                 "event": "Bing-Bang Finchball 2024-08-06",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Bing-Bang_Finchball_2024-08-06.png/revision/latest/scale-to-width-down/250?cb=20240804040121",
                 "duration": [
@@ -98,9 +84,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-08-06"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Energy Amplifier: Lemma",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240810182243",
@@ -111,9 +95,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/2024-08-12"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Overflowing Mastery 2024-08-19",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
