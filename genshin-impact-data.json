@@ -97,6 +97,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/2024-08-12"
+            },
+            {
+                "event": "New Chapter Ignited: Blaze to Natlan",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/New_Chapter_Ignited_Blaze_to_Natlan.png/revision/latest/scale-to-width-down/250?cb=20240816181543",
+                "duration": [
+                    "August 16, 2024",
+                    "October 09, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
             }
         ],
         "Upcoming": [
@@ -112,6 +125,109 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-08-19"
+            },
+            {
+                "event": "A Quest to Kindle Ancient Flames",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240816060737",
+                "duration": [
+                    "August 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
+            },
+            {
+                "event": "Brilliant Dawn",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Brilliant_Dawn.png/revision/latest/scale-to-width-down/250?cb=20240816063644",
+                "duration": [
+                    "August 30, 2024",
+                    "September 18, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Brilliant_Dawn"
+            },
+            {
+                "event": "Gift for a New Horizon: A Thank-You Gift",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
+                "duration": [
+                    "September 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
+            },
+            {
+                "event": "Mementos of Teyvat",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240816061112",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Kamera"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
+            },
+            {
+                "event": "Ley Line Overflow 5.0",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
+            },
+            {
+                "event": "Dodoco's Boom-Bastic Escapades",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Dodoco%27s_Boom-Bastic_Escapades.png/revision/latest/scale-to-width-down/250?cb=20240816061114",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
+            },
+            {
+                "event": "Of Thorns and Crowns",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240816061106",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Of_Thorns_and_Crowns"
+            },
+            {
+                "event": "Traces of Artistry",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Traces_of_Artistry.png/revision/latest/scale-to-width-down/250?cb=20240816061110",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Traces_of_Artistry"
             }
         ],
         "Permanent": [
@@ -227,12 +343,75 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "2SMTYV59TLFD",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 16, 2024",
+                    "Valid until: August 17, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "7SMTGV59BLXH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 16, 2024",
+                    "Valid until: August 17, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "8T4TGDLRA5E5",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 16, 2024",
+                    "Valid until: August 17, 2024"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "CXCG929M9MB9",
                 "server": "All",
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -268,7 +447,7 @@
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -304,7 +483,7 @@
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "20000",
+                        "amount": "20,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -325,7 +504,7 @@
                 ],
                 "duration": [
                     "Discovered: August 15, 2024",
-                    "Valid: (indefinite)"
+                    "Valid until: August 25, 2024"
                 ],
                 "isExpired": false
             },
@@ -340,7 +519,7 @@
                     },
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -387,7 +566,7 @@
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -423,7 +602,7 @@
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -459,7 +638,7 @@
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
@@ -495,7 +674,7 @@
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "10000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
