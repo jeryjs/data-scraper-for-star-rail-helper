@@ -110,6 +110,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
+            },
+            {
+                "event": "\"Journey to Natlan\" - Take part in the event to obtain in-game items or luxurious rewards!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Journey_to_Natlan_Take_part_in_the_event_to_obtain_in-game_items_or_luxurious_rewards.png/revision/latest/scale-to-width-down/250?cb=20240817070217",
+                "duration": [
+                    "August 17, 2024",
+                    "August 24, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Submission"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Journey_to_Natlan%22_-_Take_part_in_the_event_to_obtain_in-game_items_or_luxurious_rewards!"
             }
         ],
         "Upcoming": [
@@ -125,6 +139,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-08-19"
+            },
+            {
+                "event": "Gift for a New Horizon: A Thank-You Gift",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
+                "duration": [
+                    "August 28, 2024",
+                    "September 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
             },
             {
                 "event": "A Quest to Kindle Ancient Flames",
@@ -152,20 +180,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Brilliant_Dawn"
-            },
-            {
-                "event": "Gift for a New Horizon: A Thank-You Gift",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
-                "duration": [
-                    "September 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
             },
             {
                 "event": "Mementos of Teyvat",
