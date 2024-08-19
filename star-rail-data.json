@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Honkai: Star Rail \u00d7 LiHO TEA",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Honkai_Star_Rail_%C3%97_LiHO_TEA.png/revision/latest/scale-to-width-down/250?cb=20240723152715",
-                "duration": [
-                    "July 12, 2024",
-                    "August 18, 2024"
-                ],
-                "type": [
-                    "Collaboration"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_%C3%97_LiHO_TEA"
-            },
-            {
                 "event": "Aptitude Showcase - Yunli, Huohuo, Hanya, Yukong, Lynx",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Aptitude_Showcase_-_Yunli%2C_Huohuo%2C_Hanya%2C_Yukong%2C_Lynx.png/revision/latest/scale-to-width-down/250?cb=20240731090949",
                 "duration": [
@@ -26,19 +13,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-31"
-            },
-            {
-                "event": "Saga of Primaveral Blade",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Event_Saga_of_Primaveral_Blade.png/revision/latest/scale-to-width-down/250?cb=20240812010535",
-                "duration": [
-                    "July 31, 2024",
-                    "September 09, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Saga_of_Primaveral_Blade"
             },
             {
                 "event": "Nameless Honor 2024-07-31",
@@ -53,6 +27,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-07-31"
+            },
+            {
+                "event": "Saga of Primaveral Blade",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Event_Saga_of_Primaveral_Blade.png/revision/latest/scale-to-width-down/250?cb=20240812010535",
+                "duration": [
+                    "July 31, 2024",
+                    "September 09, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Saga_of_Primaveral_Blade"
             },
             {
                 "event": "Gift of Odyssey 2024-07-31",
