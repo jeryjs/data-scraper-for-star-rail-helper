@@ -58,20 +58,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Summertide_Scales_and_Tales"
             },
             {
-                "event": "Bing-Bang Finchball 2024-08-06",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Bing-Bang_Finchball_2024-08-06.png/revision/latest/scale-to-width-down/250?cb=20240804040121",
-                "duration": [
-                    "August 06, 2024",
-                    "August 19, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Co-Op"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2024-08-06"
-            },
-            {
                 "event": "Test Run - Emilie, Yelan, Yanfei, Razor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Test_Run_-_Emilie%2C_Yelan%2C_Yanfei%2C_Razor.png/revision/latest/scale-to-width-down/250?cb=20240811080902",
                 "duration": [
@@ -124,9 +110,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Journey_to_Natlan%22_-_Take_part_in_the_event_to_obtain_in-game_items_or_luxurious_rewards!"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Overflowing Mastery 2024-08-19",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
@@ -137,9 +121,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-08-19"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
@@ -460,6 +446,37 @@
                 "isExpired": false
             },
             {
+                "code": "HIIKNICN5N17",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Lakelight Lily",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Lakelight_Lily.png/revision/latest/scale-to-width-down/20?cb=20231108113349"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 17, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "MGKH82L54F6S",
                 "server": "All",
                 "rewards": [
@@ -677,28 +694,6 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": [
-            {
-                "code": "FBJCMYSXCBT5",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "60",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: June 5, 2024",
-                    "Expired: August 15, 2024"
-                ],
-                "isExpired": true
-            }
-        ]
+        "expiredCodes": []
     }
 }

@@ -15,6 +15,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-31"
             },
             {
+                "event": "Saga of Primaveral Blade",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Event_Saga_of_Primaveral_Blade.png/revision/latest/scale-to-width-down/250?cb=20240812010535",
+                "duration": [
+                    "July 31, 2024",
+                    "September 09, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Saga_of_Primaveral_Blade"
+            },
+            {
                 "event": "Nameless Honor 2024-07-31",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -27,19 +40,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-07-31"
-            },
-            {
-                "event": "Saga of Primaveral Blade",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Event_Saga_of_Primaveral_Blade.png/revision/latest/scale-to-width-down/250?cb=20240812010535",
-                "duration": [
-                    "July 31, 2024",
-                    "September 09, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Saga_of_Primaveral_Blade"
             },
             {
                 "event": "Gift of Odyssey 2024-07-31",
@@ -56,30 +56,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-07-31"
             },
             {
-                "event": "Operation Memoria Snapshot",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Event_Operation_Memoria_Snapshot.png/revision/latest/scale-to-width-down/250?cb=20240812010542",
+                "event": "Cyclical Extrapolation: Supremacy of Peace",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Event_Cyclical_Extrapolation_Supremacy_of_Peace.png/revision/latest/scale-to-width-down/250?cb=20240818201709",
                 "duration": [
-                    "August 07, 2024",
-                    "August 19, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Operation_Memoria_Snapshot"
-            },
-            {
-                "event": "Cyclical Extrapolation: Death of Desire",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Cyclical_Extrapolation_Death_of_Desire.png/revision/latest/scale-to-width-down/250?cb=20240811200307",
-                "duration": [
-                    "August 12, 2024",
-                    "August 19, 2024"
+                    "August 19, 2024",
+                    "August 26, 2024"
                 ],
                 "type": [
                     "Cyclical Extrapolation"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-12"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-19"
             }
         ],
         "Upcoming": [],
@@ -299,6 +286,29 @@
                 "isExpired": false
             },
             {
+                "code": "STARRAILGIFT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: April 26, 2023",
+                    ""
+                ],
+                "isExpired": false
+            }
+        ],
+        "expiredCodes": [
+            {
                 "code": "Honkai: Star Rail \u00d7 LiHO TEA",
                 "server": "America, Europe, Asia, TW/HK/Macao",
                 "rewards": [
@@ -320,9 +330,9 @@
                 ],
                 "duration": [
                     "Discovered: July 12, 2024",
-                    "Valid until: August 18, 2024"
+                    "Expired: August 18, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "KSKWLYVC75NB",
@@ -346,9 +356,9 @@
                 ],
                 "duration": [
                     "Discovered: July 12, 2024",
-                    "Valid until: Unknown"
+                    "Expired: July 31, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "WAKE4HCV745T",
@@ -367,9 +377,9 @@
                 ],
                 "duration": [
                     "Discovered: July 11, 2024",
-                    "Valid until: Unknown"
+                    "Expired: July 31, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "SEABLAZE",
@@ -388,9 +398,9 @@
                 ],
                 "duration": [
                     "Discovered: June 25, 2024",
-                    "Valid until: Unknown"
+                    "Expired: July 31, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "FIREFLYSGIFT",
@@ -409,9 +419,9 @@
                 ],
                 "duration": [
                     "Discovered: June 19, 2024",
-                    "Valid until: Unknown"
+                    "Expired: July 31, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "FIREFLY0619",
@@ -430,9 +440,9 @@
                 ],
                 "duration": [
                     "Discovered: June 19, 2024",
-                    "Valid until: Unknown"
+                    "Expired: July 31, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "6T3F5HVD6LK7",
@@ -451,33 +461,10 @@
                 ],
                 "duration": [
                     "Discovered: June 19, 2024",
-                    "Valid until: Unknown"
+                    "Expired: July 31, 2024"
                 ],
-                "isExpired": false
+                "isExpired": true
             },
-            {
-                "code": "STARRAILGIFT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Stellar Jade",
-                        "amount": "50",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "10000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: April 26, 2023",
-                    ""
-                ],
-                "isExpired": false
-            }
-        ],
-        "expiredCodes": [
             {
                 "code": "ZA2FMHCD6553",
                 "server": "All",
