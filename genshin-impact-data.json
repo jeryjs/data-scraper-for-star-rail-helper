@@ -245,19 +245,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Fate_Foretold"
             },
             {
-                "event": "Spiral Abyss Event - People's Choice",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/People%27s_Choice.png/revision/latest/scale-to-width-down/250?cb=20231206081811",
-                "duration": [
-                    "September 28, 2020"
-                ],
-                "type": [
-                    "In-Game",
-                    "Indefinite"
-                ],
-                "status": "Permanent",
-                "page": "https://genshin-impact.fandom.com/wiki/People%27s_Choice"
-            },
-            {
                 "event": "Wings of Companionship",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Wings_of_Companionship.jpg/revision/latest/scale-to-width-down/250?cb=20200929014824",
                 "duration": [
@@ -270,6 +257,19 @@
                 ],
                 "status": "Permanent",
                 "page": "https://genshin-impact.fandom.com/wiki/Wings_of_Companionship_(Event)"
+            },
+            {
+                "event": "Spiral Abyss Event - People's Choice",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/People%27s_Choice.png/revision/latest/scale-to-width-down/250?cb=20231206081811",
+                "duration": [
+                    "September 28, 2020"
+                ],
+                "type": [
+                    "In-Game",
+                    "Indefinite"
+                ],
+                "status": "Permanent",
+                "page": "https://genshin-impact.fandom.com/wiki/People%27s_Choice"
             },
             {
                 "event": "Baptism of Song",
@@ -337,6 +337,20 @@
                 ],
                 "status": "Permanent",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Curtain_Never_Falls_on_Magic"
+            },
+            {
+                "event": "Genshin Impact and Discord Account Linking Now Available: Complete Discord Account Linking to Unlock More Game Info Display and One-Click Rewards",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Genshin_Impact_and_Discord_Account_Linking.png/revision/latest/scale-to-width-down/250?cb=20240820161303",
+                "duration": [
+                    "August 20, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Indefinite",
+                    "Login"
+                ],
+                "status": "Permanent",
+                "page": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_and_Discord_Account_Linking"
             }
         ]
     },
