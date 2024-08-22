@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Aptitude Showcase - Yunli, Huohuo, Hanya, Yukong, Lynx",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Aptitude_Showcase_-_Yunli%2C_Huohuo%2C_Hanya%2C_Yukong%2C_Lynx.png/revision/latest/scale-to-width-down/250?cb=20240731090949",
-                "duration": [
-                    "July 31, 2024",
-                    "August 21, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2024-07-31"
-            },
-            {
                 "event": "Saga of Primaveral Blade",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Event_Saga_of_Primaveral_Blade.png/revision/latest/scale-to-width-down/250?cb=20240812010535",
                 "duration": [
@@ -67,6 +54,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-19"
+            },
+            {
+                "event": "Trailblaze: Friendship Is Magic!",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Event_Trailblaze_Friendship_Is_Magic%21.png/revision/latest/scale-to-width-down/250?cb=20240821085740",
+                "duration": [
+                    "August 21, 2024",
+                    "September 09, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Trailblaze:_Friendship_Is_Magic!"
             }
         ],
         "Upcoming": [],

@@ -127,20 +127,6 @@
         ],
         "Upcoming": [
             {
-                "event": "Gift for a New Horizon: A Thank-You Gift",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
-                "duration": [
-                    "August 28, 2024",
-                    "September 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
-            },
-            {
                 "event": "A Quest to Kindle Ancient Flames",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240816060737",
                 "duration": [
@@ -166,6 +152,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Brilliant_Dawn"
+            },
+            {
+                "event": "Gift for a New Horizon: A Thank-You Gift",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
+                "duration": [
+                    "September 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
             },
             {
                 "event": "Mementos of Teyvat",
@@ -357,6 +357,85 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "TTKEXYBCNWFH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "\"Pile 'Em Up\"",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_%22Pile_%27Em_Up%22.png/revision/latest/scale-to-width-down/20?cb=20210415145821"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 17, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "5A2WEGTVPXFV",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 17, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "5SKXWYSCPEVR",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 17, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "HIIKNICN5N17",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Lakelight Lily",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Lakelight_Lily.png/revision/latest/scale-to-width-down/20?cb=20231108113349"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 17, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "CXCG929M9MB9",
                 "server": "All",
                 "rewards": [
@@ -456,37 +535,6 @@
                 "duration": [
                     "Discovered: August 15, 2024",
                     "Valid until: August 25, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "HIIKNICN5N17",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Lakelight Lily",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Lakelight_Lily.png/revision/latest/scale-to-width-down/20?cb=20231108113349"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 17, 2024",
-                    "Valid: (indefinite)"
                 ],
                 "isExpired": false
             },
