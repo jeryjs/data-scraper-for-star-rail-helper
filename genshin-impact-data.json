@@ -123,6 +123,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-08-19"
+            },
+            {
+                "event": "Off We Go to the Nation of Pyro!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Off_We_Go_to_the_Nation_of_Pyro%21.png/revision/latest/scale-to-width-down/250?cb=20240822033711",
+                "duration": [
+                    "August 22, 2024",
+                    "September 24, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Off_We_Go_to_the_Nation_of_Pyro!"
             }
         ],
         "Upcoming": [
@@ -357,9 +370,45 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "YNQS332O31TG",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Lakelight Lily",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Lakelight_Lily.png/revision/latest/scale-to-width-down/20?cb=20231108113349"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 11, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "TTKEXYBCNWFH",
                 "server": "All",
                 "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "30,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
                     {
                         "name": "\"Pile 'Em Up\"",
                         "amount": "3",
