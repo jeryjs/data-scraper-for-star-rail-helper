@@ -136,6 +136,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Off_We_Go_to_the_Nation_of_Pyro!"
+            },
+            {
+                "event": "Guide to Wondrous Sights",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Guide_to_Wondrous_Sights.png/revision/latest/scale-to-width-down/250?cb=20240823041759",
+                "duration": [
+                    "August 23, 2024",
+                    "August 30, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Character Release"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Guide_to_Wondrous_Sights"
             }
         ],
         "Upcoming": [
@@ -369,6 +383,27 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "DT4BZD5RT5U9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "60",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: August 23, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "YNQS332O31TG",
                 "server": "All",
