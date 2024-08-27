@@ -43,19 +43,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-07-31"
             },
             {
-                "event": "Cyclical Extrapolation: Supremacy of Peace",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Event_Cyclical_Extrapolation_Supremacy_of_Peace.png/revision/latest/scale-to-width-down/250?cb=20240818201709",
-                "duration": [
-                    "August 19, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-19"
-            },
-            {
                 "event": "Trailblaze: Friendship Is Magic!",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Event_Trailblaze_Friendship_Is_Magic%21.png/revision/latest/scale-to-width-down/250?cb=20240821085740",
                 "duration": [
@@ -67,6 +54,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Trailblaze:_Friendship_Is_Magic!"
+            },
+            {
+                "event": "Cyclical Extrapolation: Raging Wildfire",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Event_Cyclical_Extrapolation_Raging_Wildfire.png/revision/latest/scale-to-width-down/250?cb=20240825200002",
+                "duration": [
+                    "August 26, 2024",
+                    "September 02, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-26"
             }
         ],
         "Upcoming": [],

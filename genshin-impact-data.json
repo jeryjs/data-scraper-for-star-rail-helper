@@ -2,34 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Fanciful Fabrication",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Battle_Pass_Fanciful_Fabrication.png/revision/latest/scale-to-width-down/250?cb=20240715041436",
-                "duration": [
-                    "July 17, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Fanciful_Fabrication"
-            },
-            {
-                "event": "Breeze of Sabaa Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Breeze_of_Sabaa_Discount.png/revision/latest/scale-to-width-down/250?cb=20240715040923",
-                "duration": [
-                    "July 17, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Breeze_of_Sabaa_Discount"
-            },
-            {
                 "event": "The Forge Realm's Temper: Endless Swarm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/The_Forge_Realm%27s_Temper_Endless_Swarm_2024-07-17.png/revision/latest/scale-to-width-down/250?cb=20240715040927",
                 "duration": [
@@ -72,19 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-08-06"
             },
             {
-                "event": "Energy Amplifier: Lemma",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Energy_Amplifier_Lemma.png/revision/latest/scale-to-width-down/250?cb=20240810182243",
-                "duration": [
-                    "August 12, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Energy_Amplifier/2024-08-12"
-            },
-            {
                 "event": "New Chapter Ignited: Blaze to Natlan",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/New_Chapter_Ignited_Blaze_to_Natlan.png/revision/latest/scale-to-width-down/250?cb=20240816181543",
                 "duration": [
@@ -96,19 +55,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
-            },
-            {
-                "event": "Overflowing Mastery 2024-08-19",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Overflowing_Mastery_2023-10-30.png/revision/latest/scale-to-width-down/250?cb=20240525232239",
-                "duration": [
-                    "August 19, 2024",
-                    "August 26, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Mastery/2024-08-19"
             },
             {
                 "event": "Off We Go to the Nation of Pyro!",
@@ -155,8 +101,50 @@
         ],
         "Upcoming": [
             {
+                "event": "Traces of Artistry",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Traces_of_Artistry.png/revision/latest/scale-to-width-down/250?cb=20240826041500",
+                "duration": [
+                    "August 28, 2024",
+                    "September 16, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Traces_of_Artistry"
+            },
+            {
+                "event": "\"Where the Springs Return\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Where_the_Springs_Return_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041400",
+                "duration": [
+                    "August 28, 2024",
+                    "September 17, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Where_the_Springs_Return%22_Event"
+            },
+            {
+                "event": "Primal Fire",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Battle_Pass_Primal_Fire.png/revision/latest/scale-to-width-down/250?cb=20240826041517",
+                "duration": [
+                    "August 28, 2024",
+                    "October 07, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Primal_Fire"
+            },
+            {
                 "event": "A Quest to Kindle Ancient Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240816060737",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
                 "duration": [
                     "August 28, 2024",
                     "October 08, 2024"
@@ -166,6 +154,48 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
+            },
+            {
+                "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041358",
+                "duration": [
+                    "August 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
+            },
+            {
+                "event": "The Forge Realm's Temper: Game of Wits",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/The_Forge_Realm%27s_Temper_Game_of_Wits_2024-08-28.png/revision/latest/scale-to-width-down/250?cb=20240826041410",
+                "duration": [
+                    "August 28, 2024",
+                    "October 09, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
+            },
+            {
+                "event": "\"Turbo Twirly!\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Turbo_Twirly%21_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041406",
+                "duration": [
+                    "August 28, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest",
+                    "Indefinite"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Turbo_Twirly!%22_Event"
             },
             {
                 "event": "Brilliant Dawn",
@@ -182,6 +212,33 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Brilliant_Dawn"
             },
             {
+                "event": "Dodoco's Boom-Bastic Escapades",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Dodoco%27s_Boom-Bastic_Escapades.png/revision/latest/scale-to-width-down/250?cb=20240816061114",
+                "duration": [
+                    "September 09, 2024",
+                    "September 23, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
+            },
+            {
+                "event": "\"Yupanqui's Turnfire\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
+                "duration": [
+                    "September 17, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
+            },
+            {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
                 "duration": [
@@ -194,6 +251,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
+            },
+            {
+                "event": "Ley Line Overflow 5.0",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
             },
             {
                 "event": "Mementos of Teyvat",
@@ -209,30 +278,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
             },
             {
-                "event": "Ley Line Overflow 5.0",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
-            },
-            {
-                "event": "Dodoco's Boom-Bastic Escapades",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Dodoco%27s_Boom-Bastic_Escapades.png/revision/latest/scale-to-width-down/250?cb=20240816061114",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
-            },
-            {
                 "event": "Of Thorns and Crowns",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240816061106",
                 "duration": [
@@ -243,19 +288,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Of_Thorns_and_Crowns"
-            },
-            {
-                "event": "Traces of Artistry",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Traces_of_Artistry.png/revision/latest/scale-to-width-down/250?cb=20240816061110",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Traces_of_Artistry"
             }
         ],
         "Permanent": [
