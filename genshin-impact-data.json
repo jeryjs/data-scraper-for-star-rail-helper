@@ -55,9 +55,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Thank-You_Letter_to_All_Travelers/2024-08-26"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Traces of Artistry",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Traces_of_Artistry.png/revision/latest/scale-to-width-down/250?cb=20240826041500",
@@ -69,8 +67,22 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Traces_of_Artistry"
+            },
+            {
+                "event": "Test Run - Mualani, Kaedehara Kazuha, Kachina, Xinyan, Bennett",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Test_Run_-_Mualani%2C_Kaedehara_Kazuha%2C_Kachina%2C_Xinyan%2C_Bennett.png/revision/latest/scale-to-width-down/250?cb=20240828073215",
+                "duration": [
+                    "August 28, 2024",
+                    "September 17, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-08-28"
             },
             {
                 "event": "\"Where the Springs Return\" Event",
@@ -83,7 +95,7 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Where_the_Springs_Return%22_Event"
             },
             {
@@ -97,7 +109,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Primal_Fire"
             },
             {
@@ -111,7 +123,7 @@
                     "In-Game",
                     "Archon Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
             },
             {
@@ -124,7 +136,7 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
             },
             {
@@ -138,22 +150,8 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
-            },
-            {
-                "event": "Turbo Twirly!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Turbo_Twirly%21_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041406",
-                "duration": [
-                    "August 28, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest",
-                    "Indefinite"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Turbo_Twirly!"
             },
             {
                 "event": "Genshin Impact Version 5.0 \"Flowers Resplendent on the Sun-Scorched Sojourn\" Twitch Livestream Event",
@@ -166,12 +164,14 @@
                     "Web",
                     "Submission"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Twitch_Streamer_Recruitment/2024-08-28"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Brilliant Dawn",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Brilliant_Dawn.png/revision/latest/scale-to-width-down/250?cb=20240816063644",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Brilliant_Dawn.png/revision/latest/scale-to-width-down/250?cb=20240828040043",
                 "duration": [
                     "August 30, 2024",
                     "September 18, 2024"
@@ -383,6 +383,20 @@
                 ],
                 "status": "Permanent",
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_and_Discord_Account_Linking"
+            },
+            {
+                "event": "Turbo Twirly!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Turbo_Twirly%21_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041406",
+                "duration": [
+                    "August 28, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest",
+                    "Indefinite"
+                ],
+                "status": "Permanent",
+                "page": "https://genshin-impact.fandom.com/wiki/Turbo_Twirly!"
             }
         ]
     },

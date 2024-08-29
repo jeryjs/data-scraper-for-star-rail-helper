@@ -223,6 +223,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "3S3XKXZ5NU27",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20230722074903"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "YUNLISNACK",
                 "server": "All",
                 "rewards": [
@@ -238,8 +259,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 31, 2024",
-                    "Valid until: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 weeks ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
             },
@@ -259,8 +280,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2023",
-                    ""
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
             }
@@ -282,8 +303,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 8, 2024",
-                    "Expired: August 23, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -303,8 +324,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 31, 2024",
-                    "Expired: August 23, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 weeks ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -329,8 +350,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 12, 2024",
-                    "Expired: August 18, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -355,8 +376,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 12, 2024",
-                    "Expired: July 31, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -376,8 +397,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 11, 2024",
-                    "Expired: July 31, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -397,8 +418,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 25, 2024",
-                    "Expired: July 31, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -418,8 +439,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 19, 2024",
-                    "Expired: July 31, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -439,8 +460,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 19, 2024",
-                    "Expired: July 31, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -460,8 +481,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 19, 2024",
-                    "Expired: July 31, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -481,8 +502,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 19, 2024",
-                    "Expired: July 20, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -502,8 +523,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 19, 2024",
-                    "Expired: July 20, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -523,8 +544,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 19, 2024",
-                    "Expired: July 20, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -549,8 +570,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 28, 2024",
-                    "Expired: June 30, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -570,8 +591,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 7, 2024",
-                    "Expired: June 8, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -591,8 +612,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 7, 2024",
-                    "Expired: June 8, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -612,8 +633,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 7, 2024",
-                    "Expired: June 8, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -633,8 +654,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 31, 2024",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -659,8 +680,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 10, 2024",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -680,8 +701,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 9, 2024",
-                    "Expired: May 12, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -701,8 +722,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 8, 2024",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -722,8 +743,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2024",
-                    "Expired: April 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -743,8 +764,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2024",
-                    "Expired: April 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -764,8 +785,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2024",
-                    "Expired: April 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -780,8 +801,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 19, 2024",
-                    "Expired: April 25, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -796,8 +817,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 19, 2024",
-                    "Expired: April 25, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -817,8 +838,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 17, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -833,8 +854,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 17, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -849,8 +870,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 17, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -870,8 +891,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 17, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -886,8 +907,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 17, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -907,8 +928,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 3, 2024",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -928,8 +949,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 27, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -949,8 +970,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 27, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -970,8 +991,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 27, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -991,8 +1012,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 27, 2024",
-                    "Expired: May 7, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1012,8 +1033,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 16, 2024",
-                    "Expired: March 17, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1033,8 +1054,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 16, 2024",
-                    "Expired: March 17, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1054,8 +1075,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 16, 2024",
-                    "Expired: March 17, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1075,8 +1096,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: March 15, 2024",
-                    "Expired: March 20, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1096,8 +1117,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 29, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1117,8 +1138,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 6, 2024",
-                    "Expired: February 29, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1138,8 +1159,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 5, 2024",
-                    "Expired: February 18, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1159,8 +1180,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 5, 2024",
-                    "Expired: February 18, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1180,8 +1201,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 5, 2024",
-                    "Expired: February 18, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1201,8 +1222,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 5, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1222,8 +1243,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 5, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1243,8 +1264,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 4, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1264,8 +1285,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 4, 2024",
-                    "Expired: February 17, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1285,8 +1306,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 4, 2024",
-                    "Expired: February 17, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1306,8 +1327,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 4, 2024",
-                    "Expired: February 17, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1327,8 +1348,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 3, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1348,8 +1369,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 2, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1369,8 +1390,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: February 1, 2024",
-                    "Expired: March 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1390,8 +1411,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: January 1, 2024",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"7 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1421,8 +1442,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: December 27, 2023",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1442,8 +1463,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: December 27, 2023",
-                    "Expired: Unknown"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1463,8 +1484,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: January 26, 2024",
-                    "Expired: January 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"7 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1484,8 +1505,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: January 26, 2024",
-                    "Expired: January 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"7 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1505,8 +1526,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: January 26, 2024",
-                    "Expired: January 27, 2024"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"7 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1526,8 +1547,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: December 6, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1547,8 +1568,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 15, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1563,8 +1584,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1579,8 +1600,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1595,8 +1616,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1611,8 +1632,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 19, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1627,8 +1648,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 15, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1648,8 +1669,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: October 27, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1669,8 +1690,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: October 11, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1685,8 +1706,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 10, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1706,8 +1727,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: December 15, 2023",
-                    "Expired: December 16, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1727,8 +1748,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: December 15, 2023",
-                    "Expired: December 16, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1748,8 +1769,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: December 15, 2023",
-                    "Expired: December 16, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1779,8 +1800,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1810,8 +1831,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1826,8 +1847,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1857,8 +1878,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 15, 2023",
-                    "Expired: November 21, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1878,8 +1899,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 3, 2023",
-                    "Expired: November 4, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1899,8 +1920,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 3, 2023",
-                    "Expired: November 4, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1920,8 +1941,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: November 3, 2023",
-                    "Expired: November 4, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1951,8 +1972,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: October 11, 2023",
-                    "Expired: December 31, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1972,8 +1993,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: September 29, 2023",
-                    "Expired: September 30, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -1993,8 +2014,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: September 29, 2023",
-                    "Expired: September 30, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2014,8 +2035,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: September 29, 2023",
-                    "Expired: September 30, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2035,8 +2056,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: September 20, 2023",
-                    "Expired: October 10, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"11 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2056,8 +2077,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 30, 2023",
-                    "Expired: September 26, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"11 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2077,8 +2098,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 9, 2023",
-                    "Expired: August 29, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2098,8 +2119,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 19, 2023",
-                    "Expired: August 29, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2119,8 +2140,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 18, 2023",
-                    "Expired: August 19, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2140,8 +2161,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 18, 2023",
-                    "Expired: August 19, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2161,8 +2182,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 18, 2023",
-                    "Expired: August 19, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2187,8 +2208,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: August 4, 2023",
-                    "Expired: August 11, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2208,8 +2229,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 28, 2023",
-                    "Expired: July 19, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2229,8 +2250,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 7, 2023",
-                    "Expired: July 19, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2255,8 +2276,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 15, 2023",
-                    "Expired: June 20, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2286,8 +2307,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: June 7, 2023",
-                    "Expired: June 7, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2307,8 +2328,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 8, 2023",
-                    "Expired: July 9, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2328,8 +2349,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 8, 2023",
-                    "Expired: July 9, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2349,8 +2370,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: July 8, 2023",
-                    "Expired: July 9, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2370,8 +2391,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 17, 2023",
-                    "Expired: June 4, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2401,8 +2422,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 30, 2023",
-                    "Expired: May 7, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2417,8 +2438,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2438,8 +2459,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2459,8 +2480,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2480,8 +2501,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: May 27, 2023",
-                    "Expired: May 28, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2511,8 +2532,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2023",
-                    "Expired: May 9, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2532,8 +2553,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2023",
-                    "Expired: April 30, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2553,8 +2574,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2023",
-                    "Expired: April 30, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             },
@@ -2574,8 +2595,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: April 26, 2023",
-                    "Expired: April 30, 2023"
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
             }
