@@ -28,20 +28,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Off_We_Go_to_the_Nation_of_Pyro!"
             },
             {
-                "event": "Guide to Wondrous Sights",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Guide_to_Wondrous_Sights.png/revision/latest/scale-to-width-down/250?cb=20240823041759",
-                "duration": [
-                    "August 23, 2024",
-                    "August 30, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Guide_to_Wondrous_Sights"
-            },
-            {
                 "event": "A Thank-You Letter to All Travelers (Gamescom Best Mobile Game 2024)",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/A_Thank-You_Letter_to_All_Travelers.png/revision/latest/scale-to-width-down/250?cb=20211203134845",
                 "duration": [
@@ -71,20 +57,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Traces_of_Artistry"
             },
             {
-                "event": "Test Run - Mualani, Kaedehara Kazuha, Kachina, Xinyan, Bennett",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Test_Run_-_Mualani%2C_Kaedehara_Kazuha%2C_Kachina%2C_Xinyan%2C_Bennett.png/revision/latest/scale-to-width-down/250?cb=20240828073215",
-                "duration": [
-                    "August 28, 2024",
-                    "September 17, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-08-28"
-            },
-            {
                 "event": "\"Where the Springs Return\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Where_the_Springs_Return_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041400",
                 "duration": [
@@ -97,6 +69,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Where_the_Springs_Return%22_Event"
+            },
+            {
+                "event": "Test Run - Mualani, Kaedehara Kazuha, Kachina, Xinyan, Bennett",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Test_Run_-_Mualani%2C_Kaedehara_Kazuha%2C_Kachina%2C_Xinyan%2C_Bennett.png/revision/latest/scale-to-width-down/250?cb=20240828073215",
+                "duration": [
+                    "August 28, 2024",
+                    "September 17, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-08-28"
             },
             {
                 "event": "Primal Fire",
@@ -113,6 +99,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Primal_Fire"
             },
             {
+                "event": "A Quest to Kindle Ancient Flames",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
+                "duration": [
+                    "August 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
+            },
+            {
                 "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041358",
                 "duration": [
@@ -125,19 +124,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
-            },
-            {
-                "event": "A Quest to Kindle Ancient Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
-                "duration": [
-                    "August 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
             },
             {
                 "event": "The Forge Realm's Temper: Game of Wits",
@@ -166,9 +152,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Twitch_Streamer_Recruitment/2024-08-28"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Brilliant Dawn",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Brilliant_Dawn.png/revision/latest/scale-to-width-down/250?cb=20240828040043",
@@ -180,9 +164,11 @@
                     "In-Game",
                     "Login"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Brilliant_Dawn"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Dodoco's Boom-Bastic Escapades",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Dodoco%27s_Boom-Bastic_Escapades.png/revision/latest/scale-to-width-down/250?cb=20240816061114",
@@ -225,6 +211,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
             },
             {
+                "event": "Ley Line Overflow 5.0",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
+            },
+            {
                 "event": "Mementos of Teyvat",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240816061112",
                 "duration": [
@@ -236,18 +234,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
-            },
-            {
-                "event": "Ley Line Overflow 5.0",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
             },
             {
                 "event": "Of Thorns and Crowns",
@@ -298,6 +284,7 @@
                 ],
                 "type": [
                     "In-Game",
+                    "Spiral Abyss",
                     "Indefinite"
                 ],
                 "status": "Permanent",
@@ -311,6 +298,7 @@
                 ],
                 "type": [
                     "In-Game",
+                    "Archon Quest",
                     "Indefinite"
                 ],
                 "status": "Permanent",
@@ -352,6 +340,7 @@
                 ],
                 "type": [
                     "In-Game",
+                    "Spiral Abyss",
                     "Indefinite"
                 ],
                 "status": "Permanent",
