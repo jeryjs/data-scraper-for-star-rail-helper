@@ -56,17 +56,30 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Trailblaze:_Friendship_Is_Magic!"
             },
             {
-                "event": "Cyclical Extrapolation: Raging Wildfire",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Event_Cyclical_Extrapolation_Raging_Wildfire.png/revision/latest/scale-to-width-down/250?cb=20240825200002",
+                "event": "Garden of Plenty 2024-08-30",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
                 "duration": [
-                    "August 26, 2024",
-                    "September 02, 2024"
+                    "August 30, 2024",
+                    "September 06, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2024-08-30"
+            },
+            {
+                "event": "Cyclical Extrapolation: Propagation of Omens",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Cyclical_Extrapolation_Propagation_of_Omens.png/revision/latest/scale-to-width-down/250?cb=20240901200005",
+                "duration": [
+                    "September 02, 2024",
+                    "September 09, 2024"
                 ],
                 "type": [
                     "Cyclical Extrapolation"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-08-26"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-02"
             }
         ],
         "Upcoming": [],
