@@ -82,7 +82,87 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-02"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Nameless Honor 2024-09-10",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "September 10, 2024",
+                    "October 21, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-09-10"
+            },
+            {
+                "event": "Luminary Wardance Ceremony",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240905223446",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance_Ceremony"
+            },
+            {
+                "event": "Gift of Comet",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Event_Gift_of_Comet.png/revision/latest/scale-to-width-down/250?cb=20240905183453",
+                "duration": [
+                    "September 10, 2024",
+                    "October 23, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Comet"
+            },
+            {
+                "event": "Planar Fissure 2024-09-23",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
+                "duration": [
+                    "September 23, 2024",
+                    "September 30, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-09-23"
+            },
+            {
+                "event": "Festive Revelry",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Event_Festive_Revelry.png/revision/latest/scale-to-width-down/250?cb=20240905222207",
+                "duration": [
+                    "September 30, 2024",
+                    "October 21, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Revelry"
+            },
+            {
+                "event": "Realm of the Strange 2024-10-11",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20231119173725",
+                "duration": [
+                    "October 11, 2024",
+                    "October 18, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2024-10-11"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
