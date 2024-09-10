@@ -165,9 +165,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-09-07"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Dodoco's Boom-Bastic Escapades",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Dodoco%27s_Boom-Bastic_Escapades.png/revision/latest/scale-to-width-down/250?cb=20240907040239",
@@ -178,9 +176,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "\"Yupanqui's Turnfire\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
@@ -210,18 +210,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
             },
             {
-                "event": "Ley Line Overflow 5.0",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
-            },
-            {
                 "event": "Mementos of Teyvat",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240816061112",
                 "duration": [
@@ -233,6 +221,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
+            },
+            {
+                "event": "Ley Line Overflow 5.0",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
             },
             {
                 "event": "Of Thorns and Crowns",

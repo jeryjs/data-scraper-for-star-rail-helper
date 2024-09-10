@@ -2,71 +2,17 @@
     "Events": {
         "Current": [
             {
-                "event": "Saga of Primaveral Blade",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Event_Saga_of_Primaveral_Blade.png/revision/latest/scale-to-width-down/250?cb=20240812010535",
+                "event": "Cyclical Extrapolation: Escape From Boredom",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Event_Cyclical_Extrapolation_Escape_From_Boredom.png/revision/latest/scale-to-width-down/250?cb=20240908200006",
                 "duration": [
-                    "July 31, 2024",
-                    "September 09, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Saga_of_Primaveral_Blade"
-            },
-            {
-                "event": "Nameless Honor 2024-07-31",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "July 31, 2024",
-                    "September 09, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-07-31"
-            },
-            {
-                "event": "Gift of Odyssey 2024-07-31",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/Event_Gift_of_Odyssey_2024-07-31.png/revision/latest/scale-to-width-down/250?cb=20240803122645",
-                "duration": [
-                    "July 31, 2024",
-                    "September 09, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-07-31"
-            },
-            {
-                "event": "Trailblaze: Friendship Is Magic!",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Event_Trailblaze_Friendship_Is_Magic%21.png/revision/latest/scale-to-width-down/250?cb=20240821085740",
-                "duration": [
-                    "August 21, 2024",
-                    "September 09, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Trailblaze:_Friendship_Is_Magic!"
-            },
-            {
-                "event": "Cyclical Extrapolation: Propagation of Omens",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Cyclical_Extrapolation_Propagation_of_Omens.png/revision/latest/scale-to-width-down/250?cb=20240901200005",
-                "duration": [
-                    "September 02, 2024",
-                    "September 09, 2024"
+                    "September 09, 2024",
+                    "September 16, 2024"
                 ],
                 "type": [
                     "Cyclical Extrapolation"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-02"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-09"
             }
         ],
         "Upcoming": [
@@ -85,7 +31,7 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-09-10"
             },
             {
-                "event": "Luminary Wardance Ceremony",
+                "event": "Luminary Wardance",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240905223446",
                 "duration": [
                     " TBA "
@@ -94,7 +40,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance_Ceremony"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance"
             },
             {
                 "event": "Gift of Comet",
@@ -561,7 +507,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -844,7 +790,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1854,7 +1800,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"11 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2136,7 +2082,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"11 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
