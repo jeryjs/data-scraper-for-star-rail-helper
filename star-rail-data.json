@@ -29,6 +29,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-09-10"
             },
             {
+                "event": "Luminary Wardance",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240905223446",
+                "duration": [
+                    "September 10, 2024",
+                    "October 21, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance"
+            },
+            {
                 "event": "Gift of Comet",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Event_Gift_of_Comet.png/revision/latest/scale-to-width-down/250?cb=20240905183453",
                 "duration": [
@@ -44,18 +57,6 @@
             }
         ],
         "Upcoming": [
-            {
-                "event": "Luminary Wardance",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240905223446",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance"
-            },
             {
                 "event": "Planar Fissure 2024-09-23",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",

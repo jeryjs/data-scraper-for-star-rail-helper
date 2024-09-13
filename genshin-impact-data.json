@@ -28,6 +28,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Off_We_Go_to_the_Nation_of_Pyro!"
             },
             {
+                "event": "\"Roaming Through the Realm of Saurians\": A Wondrous Natlan Odyssey",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Roaming_Through_the_Realm_of_Saurians_A_Wondrous_Natlan_Odyssey.png/revision/latest/scale-to-width-down/250?cb=20240912123907",
+                "duration": [
+                    "August 28, 2024",
+                    "October 06, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Roaming_Through_the_Realm_of_Saurians%22:_A_Wondrous_Natlan_Odyssey"
+            },
+            {
                 "event": "Traces of Artistry",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Traces_of_Artistry.png/revision/latest/scale-to-width-down/250?cb=20240826041500",
                 "duration": [
@@ -178,9 +191,35 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
+            },
+            {
+                "event": "Saurian Egg Adventures",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Saurian_Egg_Adventures.png/revision/latest/scale-to-width-down/250?cb=20240912135037",
+                "duration": [
+                    "September 12, 2024",
+                    "September 19, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Saurian_Egg_Adventures"
             }
         ],
         "Upcoming": [
+            {
+                "event": "Ley Line Overflow 2024-09-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "September 16, 2024",
+                    "September 23, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-09-16"
+            },
             {
                 "event": "\"Yupanqui's Turnfire\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
@@ -194,6 +233,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
+            },
+            {
+                "event": "Of Thorns and Crowns",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240816061106",
+                "duration": [
+                    "September 20, 2024",
+                    "September 30, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Of_Thorns_and_Crowns"
             },
             {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
@@ -213,7 +265,8 @@
                 "event": "Mementos of Teyvat",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240816061112",
                 "duration": [
-                    "TBA"
+                    "September 28, 2024",
+                    "October 08, 2024"
                 ],
                 "type": [
                     "In-Game",
@@ -221,30 +274,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
-            },
-            {
-                "event": "Ley Line Overflow 5.0",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.0"
-            },
-            {
-                "event": "Of Thorns and Crowns",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240816061106",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Of_Thorns_and_Crowns"
             }
         ],
         "Permanent": [
@@ -701,59 +730,6 @@
                 ],
                 "duration": [
                     "Discovered: August 23, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "TTKEXYBCNWFH",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "30,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "\"Pile 'Em Up\"",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_%22Pile_%27Em_Up%22.png/revision/latest/scale-to-width-down/20?cb=20210415145821"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 17, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "5A2WEGTVPXFV",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 17, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "5SKXWYSCPEVR",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 17, 2024",
                     "Valid: (indefinite)"
                 ],
                 "isExpired": false
