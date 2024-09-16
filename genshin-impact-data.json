@@ -205,9 +205,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Saurian_Egg_Adventures"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Ley Line Overflow 2024-09-16",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
@@ -218,9 +216,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-09-16"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "\"Yupanqui's Turnfire\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",

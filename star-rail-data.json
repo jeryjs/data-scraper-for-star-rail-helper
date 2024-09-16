@@ -72,6 +72,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Detective Time",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Event_Cyclical_Extrapolation_Detective_Time.png/revision/latest/scale-to-width-down/250?cb=20240915200004",
+                "duration": [
+                    "September 16, 2024",
+                    "September 23, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-16"
+            },
+            {
                 "event": "Planar Fissure 2024-09-23",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
