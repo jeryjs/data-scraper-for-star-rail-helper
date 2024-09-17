@@ -41,20 +41,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Roaming_Through_the_Realm_of_Saurians%22:_A_Wondrous_Natlan_Odyssey"
             },
             {
-                "event": "Traces of Artistry",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Traces_of_Artistry.png/revision/latest/scale-to-width-down/250?cb=20240826041500",
-                "duration": [
-                    "August 28, 2024",
-                    "September 16, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Traces_of_Artistry"
-            },
-            {
                 "event": "\"Where the Springs Return\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Where_the_Springs_Return_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041400",
                 "duration": [
@@ -97,19 +83,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Primal_Fire"
             },
             {
-                "event": "A Quest to Kindle Ancient Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
-                "duration": [
-                    "August 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
-            },
-            {
                 "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041358",
                 "duration": [
@@ -122,6 +95,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
+            },
+            {
+                "event": "A Quest to Kindle Ancient Flames",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
+                "duration": [
+                    "August 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
             },
             {
                 "event": "The Forge Realm's Temper: Game of Wits",
