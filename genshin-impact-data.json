@@ -41,34 +41,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Roaming_Through_the_Realm_of_Saurians%22:_A_Wondrous_Natlan_Odyssey"
             },
             {
-                "event": "\"Where the Springs Return\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Where_the_Springs_Return_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041400",
-                "duration": [
-                    "August 28, 2024",
-                    "September 17, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Where_the_Springs_Return%22_Event"
-            },
-            {
-                "event": "Test Run - Mualani, Kaedehara Kazuha, Kachina, Xinyan, Bennett",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Test_Run_-_Mualani%2C_Kaedehara_Kazuha%2C_Kachina%2C_Xinyan%2C_Bennett.png/revision/latest/scale-to-width-down/250?cb=20240828073215",
-                "duration": [
-                    "August 28, 2024",
-                    "September 17, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-08-28"
-            },
-            {
                 "event": "Primal Fire",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Battle_Pass_Primal_Fire.png/revision/latest/scale-to-width-down/250?cb=20240826041517",
                 "duration": [
@@ -81,6 +53,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Primal_Fire"
+            },
+            {
+                "event": "A Quest to Kindle Ancient Flames",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
+                "duration": [
+                    "August 28, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
             },
             {
                 "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
@@ -97,19 +82,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
             },
             {
-                "event": "A Quest to Kindle Ancient Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
-                "duration": [
-                    "August 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
-            },
-            {
                 "event": "The Forge Realm's Temper: Game of Wits",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/The_Forge_Realm%27s_Temper_Game_of_Wits_2024-08-28.png/revision/latest/scale-to-width-down/250?cb=20240826041410",
                 "duration": [
@@ -122,20 +94,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
-            },
-            {
-                "event": "Genshin Impact Version 5.0 \"Flowers Resplendent on the Sun-Scorched Sojourn\" Twitch Livestream Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Genshin_Impact_Version_5.0_Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Twitch_Livestream_Event.png/revision/latest/scale-to-width-down/250?cb=20240827062556",
-                "duration": [
-                    "August 28, 2024",
-                    "September 17, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Submission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Twitch_Streamer_Recruitment/2024-08-28"
             },
             {
                 "event": "Brilliant Dawn",
@@ -204,9 +162,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-09-16"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "\"Yupanqui's Turnfire\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
@@ -218,12 +174,28 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
             },
             {
+                "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara, Chevreuse",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Test_Run_-_Kinich%2C_Raiden_Shogun%2C_Thoma%2C_Kujou_Sara%2C_Chevreuse.png/revision/latest/scale-to-width-down/250?cb=20240917145826",
+                "duration": [
+                    "September 17, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
+            }
+        ],
+        "Upcoming": [
+            {
                 "event": "Of Thorns and Crowns",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240816061106",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240917062954",
                 "duration": [
                     "September 20, 2024",
                     "September 30, 2024"
