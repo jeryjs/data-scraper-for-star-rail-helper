@@ -96,20 +96,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
             },
             {
-                "event": "Brilliant Dawn",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Brilliant_Dawn.png/revision/latest/scale-to-width-down/250?cb=20240828040043",
-                "duration": [
-                    "August 30, 2024",
-                    "September 18, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Brilliant_Dawn"
-            },
-            {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Heated_Battle_Mode_Sprinting_Stratagems_2024-09-07.png/revision/latest/scale-to-width-down/250?cb=20240905052151",
                 "duration": [
@@ -378,6 +364,37 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "WORF3IEG4WP9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Saurian Claw Succulent",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Saurian_Claw_Succulent.png/revision/latest/scale-to-width-down/20?cb=20240828130259"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: September 17, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
             {
                 "code": "LHMJORVJ3551",
                 "server": "All",
