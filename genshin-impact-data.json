@@ -123,20 +123,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
             },
             {
-                "event": "Saurian Egg Adventures",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Saurian_Egg_Adventures.png/revision/latest/scale-to-width-down/250?cb=20240912135037",
-                "duration": [
-                    "September 12, 2024",
-                    "September 19, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Saurian_Egg_Adventures"
-            },
-            {
                 "event": "Ley Line Overflow 2024-09-16",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
                 "duration": [
@@ -176,9 +162,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Of Thorns and Crowns",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Of_Thorns_and_Crowns.png/revision/latest/scale-to-width-down/250?cb=20240917062954",
@@ -189,9 +173,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Of_Thorns_and_Crowns"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240816063431",
@@ -685,42 +671,6 @@
                 ],
                 "duration": [
                     "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "EFCIZM3399M1",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 28, 2024",
                     "Valid: (indefinite)"
                 ],
                 "isExpired": false
