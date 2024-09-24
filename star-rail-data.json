@@ -57,21 +57,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Comet"
             },
             {
-                "event": "Cyclical Extrapolation: Detective Time",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Event_Cyclical_Extrapolation_Detective_Time.png/revision/latest/scale-to-width-down/250?cb=20240915200004",
-                "duration": [
-                    "September 16, 2024",
-                    "September 23, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-16"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Planar Fissure 2024-09-23",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
@@ -81,9 +66,24 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-09-23"
             },
+            {
+                "event": "Cyclical Extrapolation: Out of Thin Air",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Event_Cyclical_Extrapolation_Out_of_Thin_Air.png/revision/latest/scale-to-width-down/250?cb=20240922200004",
+                "duration": [
+                    "September 23, 2024",
+                    "September 30, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-09-23"
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Festive Revelry",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Event_Festive_Revelry.png/revision/latest/scale-to-width-down/250?cb=20240905222207",

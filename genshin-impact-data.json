@@ -15,19 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
             },
             {
-                "event": "Off We Go to the Nation of Pyro!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Off_We_Go_to_the_Nation_of_Pyro%21.png/revision/latest/scale-to-width-down/250?cb=20240822033711",
-                "duration": [
-                    "August 22, 2024",
-                    "September 24, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Off_We_Go_to_the_Nation_of_Pyro!"
-            },
-            {
                 "event": "\"Roaming Through the Realm of Saurians\": A Wondrous Natlan Odyssey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Roaming_Through_the_Realm_of_Saurians_A_Wondrous_Natlan_Odyssey.png/revision/latest/scale-to-width-down/250?cb=20240912123907",
                 "duration": [
@@ -94,46 +81,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
-            },
-            {
-                "event": "Heated Battle Mode: Sprinting Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Heated_Battle_Mode_Sprinting_Stratagems_2024-09-07.png/revision/latest/scale-to-width-down/250?cb=20240905052151",
-                "duration": [
-                    "September 07, 2024",
-                    "September 23, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-09-07"
-            },
-            {
-                "event": "Dodoco's Boom-Bastic Escapades",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Dodoco%27s_Boom-Bastic_Escapades.png/revision/latest/scale-to-width-down/250?cb=20240907040239",
-                "duration": [
-                    "September 09, 2024",
-                    "September 23, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Boom-Bastic_Escapades"
-            },
-            {
-                "event": "Ley Line Overflow 2024-09-16",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "September 16, 2024",
-                    "September 23, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-09-16"
             },
             {
                 "event": "\"Yupanqui's Turnfire\" Event",
