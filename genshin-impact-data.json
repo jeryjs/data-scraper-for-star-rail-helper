@@ -122,9 +122,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Of_Thorns_and_Crowns"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Teyvat's Special Delivery",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Teyvat%27s_Special_Delivery.png/revision/latest/scale-to-width-down/250?cb=20240927190958",
+                "duration": [
+                    "September 27, 2024",
+                    "October 07, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Teyvat%27s_Special_Delivery"
+            },
             {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240926040932",
@@ -136,9 +147,11 @@
                     "In-Game",
                     "Login"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Mementos of Teyvat",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240926040056",
@@ -152,6 +165,68 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
+            },
+            {
+                "event": "Feast of Pursuit",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
+            },
+            {
+                "event": "Marvelous Merchandise 5.1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/5.1"
+            },
+            {
+                "event": "Chromatic Ode of Candies and Roses",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20240927124532",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
+            },
+            {
+                "event": "Aphid Treasure Trace",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20240927124530",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
+            },
+            {
+                "event": "Reminiscent Regimen: Thrill",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Reminiscent_Regimen_Thrill.png/revision/latest/scale-to-width-down/250?cb=20240927124536",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/5.1"
             }
         ],
         "Permanent": [
@@ -297,6 +372,69 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "XSME6NV4GX2Z",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: September 27, 2024",
+                    "Valid until: September 28, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "KALF66CLGXKM",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: September 27, 2024",
+                    "Valid until: September 28, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "PT5WP6D5GXJ9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: September 27, 2024",
+                    "Valid until: September 28, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "WORF3IEG4WP9",
                 "server": "All",
