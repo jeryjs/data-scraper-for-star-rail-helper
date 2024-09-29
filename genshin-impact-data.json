@@ -83,20 +83,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
             },
             {
-                "event": "\"Yupanqui's Turnfire\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
-                "duration": [
-                    "September 17, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
-            },
-            {
                 "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara, Chevreuse",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Test_Run_-_Kinich%2C_Raiden_Shogun%2C_Thoma%2C_Kujou_Sara%2C_Chevreuse.png/revision/latest/scale-to-width-down/250?cb=20240917145826",
                 "duration": [
@@ -109,6 +95,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
+            },
+            {
+                "event": "\"Yupanqui's Turnfire\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
+                "duration": [
+                    "September 17, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
             },
             {
                 "event": "Of Thorns and Crowns",
@@ -149,9 +149,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Mementos of Teyvat",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240926040056",
@@ -163,12 +161,27 @@
                     "In-Game",
                     "Kamera"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
             },
             {
-                "event": "Feast of Pursuit",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "event": "Starlight Reverie",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Starlight_Reverie.png/revision/latest/scale-to-width-down/250?cb=20240928161511",
+                "duration": [
+                    "September 28, 2024",
+                    "October 12, 2024"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Starlight_Reverie"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Aphid Treasure Trace",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20240927124530",
                 "duration": [
                     "TBA"
                 ],
@@ -176,7 +189,7 @@
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
+                "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
             },
             {
                 "event": "Marvelous Merchandise 5.1",
@@ -191,6 +204,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/5.1"
             },
             {
+                "event": "Feast of Pursuit",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
+            },
+            {
                 "event": "Chromatic Ode of Candies and Roses",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20240927124532",
                 "duration": [
@@ -202,18 +227,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
-            },
-            {
-                "event": "Aphid Treasure Trace",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20240927124530",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
             },
             {
                 "event": "Reminiscent Regimen: Thrill",
