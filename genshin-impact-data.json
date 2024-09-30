@@ -137,6 +137,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Teyvat%27s_Special_Delivery"
             },
             {
+                "event": "Gifts of Encounter 2024-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Gifts_of_Encounter_2024-09-28.png/revision/latest/scale-to-width-down/250?cb=20240929204106",
+                "duration": [
+                    "September 28, 2024",
+                    "October 07, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Login"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2024-09-28"
+            },
+            {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240926040932",
                 "duration": [
@@ -145,7 +159,8 @@
                 ],
                 "type": [
                     "In-Game",
-                    "Login"
+                    "Login",
+                    "Mail"
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
