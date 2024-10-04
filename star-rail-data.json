@@ -266,7 +266,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"13 hours ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"16 hours ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -287,7 +287,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"13 hours ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"16 hours ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -1171,7 +1171,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
