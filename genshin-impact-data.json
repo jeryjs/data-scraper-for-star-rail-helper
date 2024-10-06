@@ -402,6 +402,63 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "LA5E77CLZX5V",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "60",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 5, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "GENSHIN51TT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Brilliant Chrysanthemum",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "30,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Guide to Kindling",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest/scale-to-width-down/20?cb=20240830210955"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 4, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "WORF3IEG4WP9",
                 "server": "All",
                 "rewards": [
