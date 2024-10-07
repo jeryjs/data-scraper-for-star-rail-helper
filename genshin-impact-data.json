@@ -15,19 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
             },
             {
-                "event": "\"Roaming Through the Realm of Saurians\": A Wondrous Natlan Odyssey",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Roaming_Through_the_Realm_of_Saurians_A_Wondrous_Natlan_Odyssey.png/revision/latest/scale-to-width-down/250?cb=20240912123907",
-                "duration": [
-                    "August 28, 2024",
-                    "October 06, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Roaming_Through_the_Realm_of_Saurians%22:_A_Wondrous_Natlan_Odyssey"
-            },
-            {
                 "event": "Primal Fire",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Battle_Pass_Primal_Fire.png/revision/latest/scale-to-width-down/250?cb=20240826041517",
                 "duration": [
@@ -83,20 +70,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
             },
             {
-                "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara, Chevreuse",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Test_Run_-_Kinich%2C_Raiden_Shogun%2C_Thoma%2C_Kujou_Sara%2C_Chevreuse.png/revision/latest/scale-to-width-down/250?cb=20240917145826",
-                "duration": [
-                    "September 17, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
-            },
-            {
                 "event": "\"Yupanqui's Turnfire\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
                 "duration": [
@@ -109,6 +82,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
+            },
+            {
+                "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara, Chevreuse",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Test_Run_-_Kinich%2C_Raiden_Shogun%2C_Thoma%2C_Kujou_Sara%2C_Chevreuse.png/revision/latest/scale-to-width-down/250?cb=20240917145826",
+                "duration": [
+                    "September 17, 2024",
+                    "October 08, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
             },
             {
                 "event": "Teyvat's Special Delivery",
@@ -857,70 +844,6 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": [
-            {
-                "code": "XSME6NV4GX2Z",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 27, 2024",
-                    "Expired: September 28, 2024"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "KALF66CLGXKM",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 27, 2024",
-                    "Expired: September 28, 2024"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "PT5WP6D5GXJ9",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 27, 2024",
-                    "Expired: September 28, 2024"
-                ],
-                "isExpired": true
-            }
-        ]
+        "expiredCodes": []
     }
 }
