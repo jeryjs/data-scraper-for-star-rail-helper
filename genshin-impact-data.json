@@ -15,18 +15,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
             },
             {
-                "event": "Primal Fire",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Battle_Pass_Primal_Fire.png/revision/latest/scale-to-width-down/250?cb=20240826041517",
+                "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041358",
                 "duration": [
                     "August 28, 2024",
-                    "October 07, 2024"
+                    "October 08, 2024"
                 ],
                 "type": [
                     "In-Game",
-                    "Battle Pass"
+                    "Archon Quest"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Primal_Fire"
+                "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
             },
             {
                 "event": "A Quest to Kindle Ancient Flames",
@@ -40,20 +40,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
-            },
-            {
-                "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041358",
-                "duration": [
-                    "August 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
             },
             {
                 "event": "The Forge Realm's Temper: Game of Wits",
@@ -96,33 +82,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
-            },
-            {
-                "event": "Teyvat's Special Delivery",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Teyvat%27s_Special_Delivery.png/revision/latest/scale-to-width-down/250?cb=20240927190958",
-                "duration": [
-                    "September 27, 2024",
-                    "October 07, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Teyvat%27s_Special_Delivery"
-            },
-            {
-                "event": "Gifts of Encounter 2024-09-28",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Gifts_of_Encounter_2024-09-28.png/revision/latest/scale-to-width-down/250?cb=20240929204106",
-                "duration": [
-                    "September 28, 2024",
-                    "October 07, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2024-09-28"
             },
             {
                 "event": "Gift for a New Horizon: A Thank-You Gift",
@@ -179,14 +138,99 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Urgent_Orders"
+            },
+            {
+                "event": "Collective Adornment",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Collective_Adornment.png/revision/latest/scale-to-width-down/250?cb=20241006214012",
+                "duration": [
+                    "October 05, 2024",
+                    "October 12, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Submission"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Collective_Adornment"
             }
         ],
         "Upcoming": [
             {
+                "event": "\"A Prayer for Blessings, Told to Crested Peaks\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/A_Prayer_for_Blessings%2C_Told_to_Crested_Peaks_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041041",
+                "duration": [
+                    "October 09, 2024",
+                    "October 29, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22A_Prayer_for_Blessings,_Told_to_Crested_Peaks%22_Event"
+            },
+            {
+                "event": "Sabzeruz",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Battle_Pass_Sabzeruz.png/revision/latest/scale-to-width-down/250?cb=20241007041340",
+                "duration": [
+                    "October 09, 2024",
+                    "November 18, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Sabzeruz"
+            },
+            {
+                "event": "\"The Rainbow Destined to Burn\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/The_Rainbow_Destined_to_Burn_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041039",
+                "duration": [
+                    "October 09, 2024",
+                    "November 19, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22The_Rainbow_Destined_to_Burn%22_Event"
+            },
+            {
+                "event": "The Forge Realm's Temper: Clever Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/The_Forge_Realm%27s_Temper_Clever_Stratagems_2024-10-09.png/revision/latest/scale-to-width-down/250?cb=20241007041045",
+                "duration": [
+                    "October 09, 2024",
+                    "November 20, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-10-09"
+            },
+            {
+                "event": "\"Land of Vibrant Stone and Flaming Springs\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Land_of_Vibrant_Stone_and_Flaming_Springs_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041043",
+                "duration": [
+                    "October 09, 2024",
+                    "December 31, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Exploration Mission"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
+            },
+            {
                 "event": "Aphid Treasure Trace",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20240927124530",
                 "duration": [
-                    "TBA"
+                    "October 10, 2024",
+                    "October 21, 2024"
                 ],
                 "type": [
                     "In-Game"
@@ -195,16 +239,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
             },
             {
-                "event": "Marvelous Merchandise 5.1",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
+                "event": "Reminiscent Regimen: Thrill",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Reminiscent_Regimen_Thrill.png/revision/latest/scale-to-width-down/250?cb=20240927124536",
                 "duration": [
-                    "TBA"
+                    "October 17, 2024",
+                    "October 28, 2024"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Co-Op"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/5.1"
+                "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2024-10-17"
             },
             {
                 "event": "Feast of Pursuit",
@@ -232,17 +278,16 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
             },
             {
-                "event": "Reminiscent Regimen: Thrill",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Reminiscent_Regimen_Thrill.png/revision/latest/scale-to-width-down/250?cb=20240927124536",
+                "event": "Marvelous Merchandise 5.1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
                 "duration": [
                     "TBA"
                 ],
                 "type": [
-                    "In-Game",
-                    "Co-Op"
+                    "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/5.1"
+                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/5.1"
             }
         ],
         "Permanent": [
