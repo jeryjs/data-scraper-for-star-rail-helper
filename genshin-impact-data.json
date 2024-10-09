@@ -2,117 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "New Chapter Ignited: Blaze to Natlan",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/New_Chapter_Ignited_Blaze_to_Natlan.png/revision/latest/scale-to-width-down/250?cb=20240816181543",
-                "duration": [
-                    "August 16, 2024",
-                    "October 09, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/New_Chapter_Ignited:_Blaze_to_Natlan"
-            },
-            {
-                "event": "\"Flowers Resplendent on the Sun-Scorched Sojourn\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041358",
-                "duration": [
-                    "August 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Flowers_Resplendent_on_the_Sun-Scorched_Sojourn%22_Event"
-            },
-            {
-                "event": "A Quest to Kindle Ancient Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/A_Quest_to_Kindle_Ancient_Flames.png/revision/latest/scale-to-width-down/250?cb=20240826052551",
-                "duration": [
-                    "August 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Quest_to_Kindle_Ancient_Flames"
-            },
-            {
-                "event": "The Forge Realm's Temper: Game of Wits",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/The_Forge_Realm%27s_Temper_Game_of_Wits_2024-08-28.png/revision/latest/scale-to-width-down/250?cb=20240826041410",
-                "duration": [
-                    "August 28, 2024",
-                    "October 09, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-08-28"
-            },
-            {
-                "event": "\"Yupanqui's Turnfire\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Yupanqui%27s_Turnfire_Event.png/revision/latest/scale-to-width-down/250?cb=20240826041403",
-                "duration": [
-                    "September 17, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Yupanqui%27s_Turnfire%22_Event"
-            },
-            {
-                "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara, Chevreuse",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Test_Run_-_Kinich%2C_Raiden_Shogun%2C_Thoma%2C_Kujou_Sara%2C_Chevreuse.png/revision/latest/scale-to-width-down/250?cb=20240917145826",
-                "duration": [
-                    "September 17, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-09-17"
-            },
-            {
-                "event": "Gift for a New Horizon: A Thank-You Gift",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Gift_for_a_New_Horizon_A_Thank-You_Gift.png/revision/latest/scale-to-width-down/250?cb=20240926040932",
-                "duration": [
-                    "September 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login",
-                    "Mail"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Gift_for_a_New_Horizon:_A_Thank-You_Gift"
-            },
-            {
-                "event": "Mementos of Teyvat",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Mementos_of_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20240926040056",
-                "duration": [
-                    "September 28, 2024",
-                    "October 08, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Kamera"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat"
-            },
-            {
                 "event": "Starlight Reverie",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Starlight_Reverie.png/revision/latest/scale-to-width-down/250?cb=20240928161511",
                 "duration": [
@@ -227,7 +116,7 @@
             },
             {
                 "event": "Aphid Treasure Trace",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20240927124530",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20241008120830",
                 "duration": [
                     "October 10, 2024",
                     "October 21, 2024"
