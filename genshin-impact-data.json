@@ -41,9 +41,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Collective_Adornment"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "\"A Prayer for Blessings, Told to Crested Peaks\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/A_Prayer_for_Blessings%2C_Told_to_Crested_Peaks_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041041",
@@ -55,7 +53,7 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22A_Prayer_for_Blessings,_Told_to_Crested_Peaks%22_Event"
             },
             {
@@ -69,7 +67,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Sabzeruz"
             },
             {
@@ -83,7 +81,7 @@
                     "In-Game",
                     "Archon Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22The_Rainbow_Destined_to_Burn%22_Event"
             },
             {
@@ -97,7 +95,7 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-10-09"
             },
             {
@@ -111,9 +109,11 @@
                     "In-Game",
                     "Exploration Mission"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Aphid Treasure Trace",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20241008120830",
@@ -142,18 +142,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2024-10-17"
             },
             {
-                "event": "Feast of Pursuit",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
-            },
-            {
                 "event": "Chromatic Ode of Candies and Roses",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20240927124532",
                 "duration": [
@@ -165,6 +153,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
+            },
+            {
+                "event": "Feast of Pursuit",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
             },
             {
                 "event": "Marvelous Merchandise 5.1",
