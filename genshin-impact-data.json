@@ -111,9 +111,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Aphid Treasure Trace",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20241008120830",
@@ -124,9 +122,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Reminiscent Regimen: Thrill",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Reminiscent_Regimen_Thrill.png/revision/latest/scale-to-width-down/250?cb=20240927124536",
@@ -142,6 +142,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2024-10-17"
             },
             {
+                "event": "Feast of Pursuit",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
+            },
+            {
                 "event": "Chromatic Ode of Candies and Roses",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20240927124532",
                 "duration": [
@@ -153,18 +165,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
-            },
-            {
-                "event": "Feast of Pursuit",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
             },
             {
                 "event": "Marvelous Merchandise 5.1",
@@ -323,6 +323,161 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "WTXV36M1J6CO",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Brilliant Chrysanthemum",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 10, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "DEOB21CK9Y6N",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Brilliant Chrysanthemum",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 10, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "SBUEMJB449D9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Brilliant Chrysanthemum",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 10, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "HVDLLZ29Y26W",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Brilliant Chrysanthemum",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 10, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "UB4XPUJS77QD",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Brilliant Chrysanthemum",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "20,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Prithiva Topaz Sliver",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074650"
+                    }
+                ],
+                "duration": [
+                    "Discovered: October 10, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "LA5E77CLZX5V",
                 "server": "All",
                 "rewards": [
@@ -340,398 +495,6 @@
                 "duration": [
                     "Discovered: October 5, 2024",
                     ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "GENSHIN51TT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Brilliant Chrysanthemum",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "30,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    },
-                    {
-                        "name": "Guide to Kindling",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest/scale-to-width-down/20?cb=20240830210955"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: October 4, 2024",
-                    ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "WORF3IEG4WP9",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Saurian Claw Succulent",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Saurian_Claw_Succulent.png/revision/latest/scale-to-width-down/20?cb=20240828130259"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 17, 2024",
-                    ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "LHMJORVJ3551",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 14, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "KJBNURFE321W",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Saurian Claw Succulent",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Saurian_Claw_Succulent.png/revision/latest/scale-to-width-down/20?cb=20240828130259"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 13, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "JVBR8Z8EB8Z9",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "RNIF6H9394K8",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "OHDN6KB124UF",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Sprayfeather Gill",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Sprayfeather_Gill.png/revision/latest/scale-to-width-down/20?cb=20240828151213"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "HHFP3517D3UN",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Varunada Lazurite Sliver",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074826"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "KEQES9R79R49",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Varunada Lazurite Sliver",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074826"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "HHHA5Z81O5UK",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "20,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "15",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "DMGJ5262H9SK",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 29, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "BlazeToNatlan",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "30,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    },
-                    {
-                        "name": "Sanctifying Unction",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Sanctifying_Unction.png/revision/latest/scale-to-width-down/20?cb=20210428025426"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 28, 2024",
-                    "Valid: (indefinite)"
                 ],
                 "isExpired": false
             },
