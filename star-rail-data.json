@@ -96,7 +96,34 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2024-10-11"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Gift of Odyssey 2024-10-23",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Event_Gift_of_Odyssey_2024-10-23.png/revision/latest/scale-to-width-down/250?cb=20241011183606",
+                "duration": [
+                    "October 23, 2024",
+                    "December 04, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-10-23"
+            },
+            {
+                "event": "HonkaixHonkai",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/HonkaixHonkai_Header.png/revision/latest/scale-to-width-down/250?cb=20241012092057",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/HonkaixHonkai_Collaboration"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",

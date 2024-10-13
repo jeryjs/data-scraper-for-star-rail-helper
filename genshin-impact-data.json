@@ -2,33 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Starlight Reverie",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Starlight_Reverie.png/revision/latest/scale-to-width-down/250?cb=20240928161511",
-                "duration": [
-                    "September 28, 2024",
-                    "October 12, 2024"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Starlight_Reverie"
-            },
-            {
-                "event": "Urgent Orders",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Urgent_Orders.png/revision/latest/scale-to-width-down/250?cb=20241004055328",
-                "duration": [
-                    "October 04, 2024",
-                    "October 11, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Urgent_Orders"
-            },
-            {
                 "event": "Collective Adornment",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Collective_Adornment.png/revision/latest/scale-to-width-down/250?cb=20241006214012",
                 "duration": [
