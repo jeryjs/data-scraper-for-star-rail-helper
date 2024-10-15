@@ -70,19 +70,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Revelry"
             },
             {
-                "event": "Cyclical Extrapolation: Fabricating Happiness",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Cyclical_Extrapolation_Fabricating_Happiness.png/revision/latest/scale-to-width-down/250?cb=20241006232248",
-                "duration": [
-                    "October 07, 2024",
-                    "October 14, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-10-07"
-            },
-            {
                 "event": "Realm of the Strange 2024-10-11",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20231119173725",
                 "duration": [
@@ -94,6 +81,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2024-10-11"
+            },
+            {
+                "event": "Cyclical Extrapolation: Big Spender",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Event_Cyclical_Extrapolation_Big_Spender.png/revision/latest/scale-to-width-down/250?cb=20241013200004",
+                "duration": [
+                    "October 14, 2024",
+                    "October 21, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-10-14"
             }
         ],
         "Upcoming": [
