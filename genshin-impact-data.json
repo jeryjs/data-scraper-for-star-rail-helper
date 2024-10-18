@@ -83,9 +83,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Reminiscent Regimen: Thrill",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Reminiscent_Regimen_Thrill.png/revision/latest/scale-to-width-down/250?cb=20241015040153",
@@ -97,8 +95,24 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2024-10-17"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Heated Battle Mode: Tactical Formation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Heated_Battle_Mode_Tactical_Formation_2024-10-19.png/revision/latest/scale-to-width-down/250?cb=20241017040111",
+                "duration": [
+                    "October 19, 2024",
+                    "November 04, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-10-19"
             },
             {
                 "event": "Feast of Pursuit",
@@ -591,8 +605,8 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: October 5, 2024",
-                    "Valid: (indefinite)"
+                    "Discovered: September 27, 2024",
+                    "Valid until: December 11, 2024"
                 ],
                 "isExpired": false
             },
