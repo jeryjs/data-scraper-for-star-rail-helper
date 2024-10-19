@@ -2,6 +2,19 @@
     "Events": {
         "Current": [
             {
+                "event": "Luminary Wardance",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240914005502",
+                "duration": [
+                    "September 10, 2024",
+                    "October 21, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance"
+            },
+            {
                 "event": "Nameless Honor 2024-09-10",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -14,19 +27,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-09-10"
-            },
-            {
-                "event": "Luminary Wardance",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240914005502",
-                "duration": [
-                    "September 10, 2024",
-                    "October 21, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance"
             },
             {
                 "event": "Gift of Odyssey 2024-09-10",
@@ -68,19 +68,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Revelry"
-            },
-            {
-                "event": "Realm of the Strange 2024-10-11",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20231119173725",
-                "duration": [
-                    "October 11, 2024",
-                    "October 18, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2024-10-11"
             },
             {
                 "event": "Cyclical Extrapolation: Big Spender",
