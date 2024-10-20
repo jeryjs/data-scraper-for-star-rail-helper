@@ -97,9 +97,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2024-10-17"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Heated_Battle_Mode_Tactical_Formation_2024-10-19.png/revision/latest/scale-to-width-down/250?cb=20241017040111",
@@ -111,21 +109,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-10-19"
-            },
-            {
-                "event": "Feast of Pursuit",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Chromatic Ode of Candies and Roses",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20240927124532",
@@ -138,6 +126,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
+            },
+            {
+                "event": "Feast of Pursuit",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
             },
             {
                 "event": "Marvelous Merchandise 5.1",
