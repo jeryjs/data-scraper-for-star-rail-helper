@@ -72,19 +72,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
             },
             {
-                "event": "Aphid Treasure Trace",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Aphid_Treasure_Trace.png/revision/latest/scale-to-width-down/250?cb=20241008120830",
-                "duration": [
-                    "October 10, 2024",
-                    "October 21, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Aphid_Treasure_Trace"
-            },
-            {
                 "event": "Reminiscent Regimen: Thrill",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Reminiscent_Regimen_Thrill.png/revision/latest/scale-to-width-down/250?cb=20241015040153",
                 "duration": [
@@ -116,9 +103,10 @@
         "Upcoming": [
             {
                 "event": "Chromatic Ode of Candies and Roses",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20240927124532",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20241021040326",
                 "duration": [
-                    "TBA"
+                    "October 23, 2024",
+                    "November 07, 2024"
                 ],
                 "type": [
                     "In-Game",
