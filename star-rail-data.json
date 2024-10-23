@@ -2,47 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Luminary Wardance",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Event_Luminary_Wardance_Ceremony.png/revision/latest/scale-to-width-down/250?cb=20240914005502",
-                "duration": [
-                    "September 10, 2024",
-                    "October 21, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Luminary_Wardance"
-            },
-            {
-                "event": "Nameless Honor 2024-09-10",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "September 10, 2024",
-                    "October 21, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-09-10"
-            },
-            {
-                "event": "Gift of Odyssey 2024-09-10",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Event_Gift_of_Odyssey_2024-09-10.png/revision/latest/scale-to-width-down/250?cb=20240914010025",
-                "duration": [
-                    "September 10, 2024",
-                    "October 22, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-09-10"
-            },
-            {
                 "event": "Gift of Comet",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Event_Gift_of_Comet.png/revision/latest/scale-to-width-down/250?cb=20240905183453",
                 "duration": [
@@ -57,34 +16,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Comet"
             },
             {
-                "event": "Festive Revelry",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Event_Festive_Revelry.png/revision/latest/scale-to-width-down/250?cb=20240905222207",
-                "duration": [
-                    "September 30, 2024",
-                    "October 21, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Revelry"
-            },
-            {
-                "event": "Cyclical Extrapolation: Big Spender",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Event_Cyclical_Extrapolation_Big_Spender.png/revision/latest/scale-to-width-down/250?cb=20241013200004",
-                "duration": [
-                    "October 14, 2024",
-                    "October 21, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-10-14"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Cyclical Extrapolation: Stream of Consciousness",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Cyclical_Extrapolation_Stream_of_Consciousness.png/revision/latest/scale-to-width-down/250?cb=20241020200024",
                 "duration": [
@@ -94,9 +25,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-10-21"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Nameless Honor 2024-10-23",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
@@ -317,7 +250,7 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "hoyo.link/fpxkFEAL (Unique Individual Code)",
+                "code": "Rappa's Call-to-Arms",
                 "server": "All",
                 "rewards": [
                     {
@@ -332,7 +265,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 day ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
