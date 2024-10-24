@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Gift of Comet",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Event_Gift_of_Comet.png/revision/latest/scale-to-width-down/250?cb=20240905183453",
-                "duration": [
-                    "September 10, 2024",
-                    "October 23, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Comet"
-            },
-            {
                 "event": "Cyclical Extrapolation: Stream of Consciousness",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Cyclical_Extrapolation_Stream_of_Consciousness.png/revision/latest/scale-to-width-down/250?cb=20241020200024",
                 "duration": [
@@ -27,9 +13,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-10-21"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Nameless Honor 2024-10-23",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
@@ -41,7 +25,7 @@
                     "In-Game",
                     "Nameless Honor"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-10-23"
             },
             {
@@ -55,9 +39,11 @@
                     "In-Game",
                     "Login"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-10-23"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 2024-11-06",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
@@ -265,7 +251,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 day ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -286,7 +272,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -307,7 +293,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false

@@ -98,9 +98,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-10-19"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Chromatic Ode of Candies and Roses",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Chromatic_Ode_of_Candies_and_Roses.png/revision/latest/scale-to-width-down/250?cb=20241021040326",
@@ -112,9 +110,11 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Feast of Pursuit",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
