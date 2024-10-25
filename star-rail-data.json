@@ -230,6 +230,19 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nether_Puppet"
+            },
+            {
+                "event": "Simulated Universe: Unknowable Domain",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Event_Simulated_Universe_Unknowable_Domain.png/revision/latest/scale-to-width-down/250?cb=20241024224727",
+                "duration": [
+                    "October 23, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Simulated Universe"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Simulated_Universe:_Unknowable_Domain"
             }
         ]
     },
