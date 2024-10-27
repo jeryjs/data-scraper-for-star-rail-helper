@@ -41,6 +41,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-10-23"
+            },
+            {
+                "event": "Sound Hunt Ninjutsu Inscription",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Event_Sound_Hunt_Ninjutsu_Inscription.png/revision/latest/scale-to-width-down/250?cb=20241026125915",
+                "duration": [
+                    "October 25, 2024",
+                    "December 02, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Sound_Hunt_Ninjutsu_Inscription"
             }
         ],
         "Upcoming": [
@@ -72,7 +85,7 @@
             },
             {
                 "event": "HonkaixHonkai",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/HonkaixHonkai_Header.png/revision/latest/scale-to-width-down/250?cb=20241012092057",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/HonkaixHonkai_Version_Announcement.png/revision/latest/scale-to-width-down/250?cb=20241026142657",
                 "duration": [
                     " TBA "
                 ],
