@@ -58,6 +58,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Disintegrate Stars",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Event_Cyclical_Extrapolation_Disintegrate_Stars.png/revision/latest/scale-to-width-down/250?cb=20241027200005",
+                "duration": [
+                    "October 28, 2024",
+                    "November 04, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-10-28"
+            },
+            {
                 "event": "Planar Fissure 2024-11-06",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
                 "duration": [
