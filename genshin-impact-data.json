@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "\"A Prayer for Blessings, Told to Crested Peaks\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/A_Prayer_for_Blessings%2C_Told_to_Crested_Peaks_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041041",
-                "duration": [
-                    "October 09, 2024",
-                    "October 29, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22A_Prayer_for_Blessings,_Told_to_Crested_Peaks%22_Event"
-            },
-            {
                 "event": "Sabzeruz",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Battle_Pass_Sabzeruz.png/revision/latest/scale-to-width-down/250?cb=20241007041340",
                 "duration": [
@@ -103,7 +89,7 @@
         "Upcoming": [
             {
                 "event": "Feast of Pursuit",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20240927124534",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20241030043234",
                 "duration": [
                     "November 01, 2024",
                     "November 15, 2024"
