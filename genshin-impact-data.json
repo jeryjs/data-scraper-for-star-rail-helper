@@ -84,6 +84,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Chromatic_Ode_of_Candies_and_Roses"
+            },
+            {
+                "event": "Night of Candy Pumpkins",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Night_of_Candy_Pumpkins.png/revision/latest/scale-to-width-down/250?cb=20241031054858",
+                "duration": [
+                    "October 31, 2024",
+                    "November 10, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Submission"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Night_of_Candy_Pumpkins"
             }
         ],
         "Upcoming": [
@@ -568,28 +582,7 @@
                 ],
                 "duration": [
                     "Discovered: September 27, 2024",
-                    "Valid until: December 11, 2024"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "DT4BZD5RT5U9",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "60",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: August 23, 2024",
-                    "Valid: (indefinite)"
+                    "Valid until: December 11, 2024\n<p"
                 ],
                 "isExpired": false
             },
