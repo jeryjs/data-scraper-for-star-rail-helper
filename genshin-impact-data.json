@@ -98,9 +98,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Night_of_Candy_Pumpkins"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Feast of Pursuit",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20241030043234",
@@ -111,9 +109,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Marvelous Merchandise 2024-11-11",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
@@ -271,6 +271,37 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "MTLF6DKA7PQZ",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "30,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Tatacos",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Tatacos.png/revision/latest/scale-to-width-down/20?cb=20240828114910"
+                    },
+                    {
+                        "name": "Grainfruit Chips",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Grainfruit_Chips.png/revision/latest/scale-to-width-down/20?cb=20240828172053"
+                    },
+                    {
+                        "name": "Cup O' Grainfruit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Cup_O%27_Grainfruit.png/revision/latest/scale-to-width-down/20?cb=20240828115017"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 1, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "SVMCJ1398A18",
                 "server": "All",
@@ -526,37 +557,6 @@
                         "name": "Fine Enhancement Ore",
                         "amount": "5",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: October 10, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "UB4XPUJS77QD",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Brilliant Chrysanthemum",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "20,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    },
-                    {
-                        "name": "Prithiva Topaz Sliver",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074650"
                     }
                 ],
                 "duration": [
