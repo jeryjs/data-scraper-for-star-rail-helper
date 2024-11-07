@@ -67,9 +67,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-11-04"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Planar Fissure 2024-11-06",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
@@ -80,9 +78,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-11-06"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Garden of Plenty 2024-11-22",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
