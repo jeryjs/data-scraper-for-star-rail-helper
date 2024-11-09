@@ -98,6 +98,81 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2024-11-11"
+            },
+            {
+                "event": "\"Wings of Fate's Course Intertwined\" Wind Glider Issuance Details",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Wings_of_Fate%27s_Course_Intertwined_Wind_Glider_Issuance_Details.png/revision/latest/scale-to-width-down/250?cb=20241108162952",
+                "duration": [
+                    "November 20, 2024",
+                    "February 12, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
+            },
+            {
+                "event": "Heated Battle Mode: Automatic Artistry",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Heated_Battle_Mode_Automatic_Artistry.png/revision/latest/scale-to-width-down/250?cb=20241108145838",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/5.2"
+            },
+            {
+                "event": "Exercise Surging Storm",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
+            },
+            {
+                "event": "Claw Convoy",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241108145834",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Claw_Convoy"
+            },
+            {
+                "event": "Adventurer's Trials: Metamorphosis",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241108145830",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
+            },
+            {
+                "event": "Ley Line Overflow 5.2",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.2"
             }
         ],
         "Permanent": [
@@ -538,37 +613,6 @@
                 "isExpired": false
             },
             {
-                "code": "DEOB21CK9Y6N",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Brilliant Chrysanthemum",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest/scale-to-width-down/20?cb=20240828130138"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: October 10, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "SBUEMJB449D9",
                 "server": "All",
                 "rewards": [
@@ -647,7 +691,7 @@
                 ],
                 "duration": [
                     "Discovered: September 27, 2024",
-                    "Valid until: December 11, 2024\n<p"
+                    "Valid until: December 11, 2024"
                 ],
                 "isExpired": false
             },
@@ -673,6 +717,70 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": []
+        "expiredCodes": [
+            {
+                "code": "JS45ETDJLKMD",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 8, 2024",
+                    "Expired: November 8, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "7TLMXSD243JR",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 8, 2024",
+                    "Expired: November 8, 2024"
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "6ALMWAVKLK35",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 8, 2024",
+                    "Expired: November 8, 2024"
+                ],
+                "isExpired": true
+            }
+        ]
     }
 }

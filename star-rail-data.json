@@ -302,7 +302,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"12 hours ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -323,7 +323,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -341,27 +341,6 @@
                         "name": "\"Dreamlight\" Mixed Sweets",
                         "amount": "2",
                         "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Item_Dreamlight_Mixed_Sweets.png/revision/latest/scale-to-width-down/30?cb=20240206075628"
-                    }
-                ],
-                "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 days ago\"",
-                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "HBKKDH9FR3NX",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Lost Crystal",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest/scale-to-width-down/30?cb=20230505051208"
-                    },
-                    {
-                        "name": "Scare Box",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Item_Scare_Box.png/revision/latest/scale-to-width-down/30?cb=20240508195005"
                     }
                 ],
                 "duration": [
@@ -393,6 +372,27 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "HBKKDH9FR3NX",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Lost Crystal",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest/scale-to-width-down/30?cb=20230505051208"
+                    },
+                    {
+                        "name": "Scare Box",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Item_Scare_Box.png/revision/latest/scale-to-width-down/30?cb=20240508195005"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": true
+            },
             {
                 "code": "Rappa's Call-to-Arms",
                 "server": "All",
@@ -540,7 +540,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 weeks ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -561,7 +561,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 weeks ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -582,7 +582,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 weeks ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -729,7 +729,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1038,7 +1038,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1059,7 +1059,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1080,7 +1080,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1148,7 +1148,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1169,7 +1169,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1585,7 +1585,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"8 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2153,7 +2153,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2545,7 +2545,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2775,7 +2775,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2796,7 +2796,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2817,7 +2817,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
