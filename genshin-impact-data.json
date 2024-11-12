@@ -58,20 +58,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
             },
             {
-                "event": "Night of Candy Pumpkins",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Night_of_Candy_Pumpkins.png/revision/latest/scale-to-width-down/250?cb=20241031054858",
-                "duration": [
-                    "October 31, 2024",
-                    "November 10, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Submission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Night_of_Candy_Pumpkins"
-            },
-            {
                 "event": "Feast of Pursuit",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20241030043234",
                 "duration": [
@@ -83,9 +69,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Marvelous Merchandise 2024-11-11",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
@@ -96,9 +80,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2024-11-11"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "\"Wings of Fate's Course Intertwined\" Wind Glider Issuance Details",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Wings_of_Fate%27s_Course_Intertwined_Wind_Glider_Issuance_Details.png/revision/latest/scale-to-width-down/250?cb=20241108162952",
@@ -127,6 +113,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/5.2"
             },
             {
+                "event": "Iktomi Spiritseeking Scrolls",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Iktomi_Spiritseeking_Scrolls.png/revision/latest/scale-to-width-down/250?cb=20241108145840",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
+            },
+            {
                 "event": "Exercise Surging Storm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
                 "duration": [
@@ -137,18 +136,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
-            },
-            {
-                "event": "Claw Convoy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241108145834",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Claw_Convoy"
             },
             {
                 "event": "Adventurer's Trials: Metamorphosis",
@@ -163,17 +150,16 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
             },
             {
-                "event": "Iktomi Spiritseeking Scrolls",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Iktomi_Spiritseeking_Scrolls.png/revision/latest/scale-to-width-down/250?cb=20241108145840",
+                "event": "Claw Convoy",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241108145834",
                 "duration": [
                     "TBA"
                 ],
                 "type": [
-                    "In-Game",
-                    "Flagship"
+                    "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
+                "page": "https://genshin-impact.fandom.com/wiki/Claw_Convoy"
             },
             {
                 "event": "Ley Line Overflow 5.2",
