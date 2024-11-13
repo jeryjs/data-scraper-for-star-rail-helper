@@ -318,6 +318,42 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "genshin52x8399",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "30,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Guide to Kindling",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest/scale-to-width-down/20?cb=20240830210955"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    },
+                    {
+                        "name": "Vayuda Turquoise Sliver",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074904"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 11, 2024",
+                    "Valid until: November 21, 2024"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "PAGG9M78TJBQ",
                 "server": "All",
                 "rewards": [
