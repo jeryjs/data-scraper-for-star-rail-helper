@@ -58,19 +58,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
             },
             {
-                "event": "Feast of Pursuit",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Feast_of_Pursuit.png/revision/latest/scale-to-width-down/250?cb=20241030043234",
-                "duration": [
-                    "November 01, 2024",
-                    "November 15, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Feast_of_Pursuit"
-            },
-            {
                 "event": "Marvelous Merchandise 2024-11-11",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
                 "duration": [
@@ -82,6 +69,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2024-11-11"
+            },
+            {
+                "event": "The Meaning of Flight",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/The_Meaning_of_Flight.png/revision/latest/scale-to-width-down/250?cb=20241115051450",
+                "duration": [
+                    "November 15, 2024",
+                    "November 21, 2024"
+                ],
+                "type": [
+                    "Web",
+                    "Character Release"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Flight"
             }
         ],
         "Upcoming": [
@@ -318,6 +319,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "WAM5UWWU28NV",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "60",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 15, 2024",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "genshin52x8399",
                 "server": "All",
                 "rewards": [
@@ -385,37 +407,6 @@
                 ],
                 "duration": [
                     "Discovered: November 2, 2024",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "MTLF6DKA7PQZ",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "30,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Tatacos",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Tatacos.png/revision/latest/scale-to-width-down/20?cb=20240828114910"
-                    },
-                    {
-                        "name": "Grainfruit Chips",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Grainfruit_Chips.png/revision/latest/scale-to-width-down/20?cb=20240828172053"
-                    },
-                    {
-                        "name": "Cup O' Grainfruit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Cup_O%27_Grainfruit.png/revision/latest/scale-to-width-down/20?cb=20240828115017"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 1, 2024",
                     "Valid: (indefinite)"
                 ],
                 "isExpired": false
