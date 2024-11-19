@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Sabzeruz",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Battle_Pass_Sabzeruz.png/revision/latest/scale-to-width-down/250?cb=20241007041340",
-                "duration": [
-                    "October 09, 2024",
-                    "November 18, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Sabzeruz"
-            },
-            {
                 "event": "\"The Rainbow Destined to Burn\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/The_Rainbow_Destined_to_Burn_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041039",
                 "duration": [
@@ -58,19 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
             },
             {
-                "event": "Marvelous Merchandise 2024-11-11",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Marvelous_Merchandise_2022-11-28.png/revision/latest/scale-to-width-down/250?cb=20221126042952",
-                "duration": [
-                    "November 11, 2024",
-                    "November 18, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2024-11-11"
-            },
-            {
                 "event": "The Meaning of Flight",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/The_Meaning_of_Flight.png/revision/latest/scale-to-width-down/250?cb=20241115051450",
                 "duration": [
@@ -87,6 +60,62 @@
         ],
         "Upcoming": [
             {
+                "event": "\"Of Fading Flowers and Falling Feathers\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
+                "duration": [
+                    "November 20, 2024",
+                    "December 10, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Of_Fading_Flowers_and_Falling_Feathers%22_Event"
+            },
+            {
+                "event": "Spiritweaver",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Battle_Pass_Spiritweaver.png/revision/latest/scale-to-width-down/250?cb=20241118042229",
+                "duration": [
+                    "November 20, 2024",
+                    "December 30, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Spiritweaver"
+            },
+            {
+                "event": "The Forge Realm's Temper: Endless Swarm",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/The_Forge_Realm%27s_Temper_Endless_Swarm_2024-11-20.png/revision/latest/scale-to-width-down/250?cb=20241118040747",
+                "duration": [
+                    "November 20, 2024",
+                    "January 01, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-11-20"
+            },
+            {
+                "event": "\"Facing the Windborne Cliff and City of Flowing Ash\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Facing_the_Windborne_Cliff_and_City_of_Flowing_Ash_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040745",
+                "duration": [
+                    "November 20, 2024",
+                    "February 11, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Exploration Mission"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Facing_the_Windborne_Cliff_and_City_of_Flowing_Ash%22_Event"
+            },
+            {
                 "event": "\"Wings of Fate's Course Intertwined\" Wind Glider Issuance Details",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Wings_of_Fate%27s_Course_Intertwined_Wind_Glider_Issuance_Details.png/revision/latest/scale-to-width-down/250?cb=20241108162952",
                 "duration": [
@@ -101,23 +130,38 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
+                "event": "Claw Convoy",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241108145834",
+                "duration": [
+                    "November 22, 2024",
+                    "December 02, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Claw_Convoy"
+            },
+            {
                 "event": "Heated Battle Mode: Automatic Artistry",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Heated_Battle_Mode_Automatic_Artistry.png/revision/latest/scale-to-width-down/250?cb=20241108145838",
                 "duration": [
-                    "TBA"
+                    "November 22, 2024",
+                    "December 16, 2024"
                 ],
                 "type": [
                     "In-Game",
                     "Heated Battle Mode"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/5.2"
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-11-22"
             },
             {
                 "event": "Iktomi Spiritseeking Scrolls",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Iktomi_Spiritseeking_Scrolls.png/revision/latest/scale-to-width-down/250?cb=20241108145840",
                 "duration": [
-                    "TBA"
+                    "November 28, 2024",
+                    "December 16, 2024"
                 ],
                 "type": [
                     "In-Game",
@@ -149,18 +193,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
-            },
-            {
-                "event": "Claw Convoy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241108145834",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Claw_Convoy"
             },
             {
                 "event": "Ley Line Overflow 5.2",
