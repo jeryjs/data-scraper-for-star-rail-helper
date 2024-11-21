@@ -2,34 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "\"The Rainbow Destined to Burn\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/The_Rainbow_Destined_to_Burn_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041039",
-                "duration": [
-                    "October 09, 2024",
-                    "November 19, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22The_Rainbow_Destined_to_Burn%22_Event"
-            },
-            {
-                "event": "The Forge Realm's Temper: Clever Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/The_Forge_Realm%27s_Temper_Clever_Stratagems_2024-10-09.png/revision/latest/scale-to-width-down/250?cb=20241007041045",
-                "duration": [
-                    "October 09, 2024",
-                    "November 20, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-10-09"
-            },
-            {
                 "event": "\"Land of Vibrant Stone and Flaming Springs\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Land_of_Vibrant_Stone_and_Flaming_Springs_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041043",
                 "duration": [
@@ -56,9 +28,21 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Flight"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Test Run - Chasca, Lyney, Ororon, Sucrose",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Test_Run_-_Chasca%2C_Lyney%2C_Ororon%2C_Sucrose.png/revision/latest/scale-to-width-down/250?cb=20241120161721",
+                "duration": [
+                    "November 20, 2024",
+                    "December 10, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-11-20"
+            },
             {
                 "event": "\"Of Fading Flowers and Falling Feathers\" Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
@@ -70,7 +54,7 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Of_Fading_Flowers_and_Falling_Feathers%22_Event"
             },
             {
@@ -84,7 +68,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Spiritweaver"
             },
             {
@@ -98,7 +82,7 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-11-20"
             },
             {
@@ -112,7 +96,7 @@
                     "In-Game",
                     "Exploration Mission"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Facing_the_Windborne_Cliff_and_City_of_Flowing_Ash%22_Event"
             },
             {
@@ -126,12 +110,14 @@
                     "In-Game",
                     "Mail"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Claw Convoy",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241108145834",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241120132520",
                 "duration": [
                     "November 22, 2024",
                     "December 02, 2024"
@@ -144,7 +130,7 @@
             },
             {
                 "event": "Heated Battle Mode: Automatic Artistry",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Heated_Battle_Mode_Automatic_Artistry.png/revision/latest/scale-to-width-down/250?cb=20241108145838",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Heated_Battle_Mode_Automatic_Artistry.png/revision/latest/scale-to-width-down/250?cb=20241120132811",
                 "duration": [
                     "November 22, 2024",
                     "December 16, 2024"
@@ -171,18 +157,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
             },
             {
-                "event": "Exercise Surging Storm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
-            },
-            {
                 "event": "Adventurer's Trials: Metamorphosis",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241108145830",
                 "duration": [
@@ -193,6 +167,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
+            },
+            {
+                "event": "Exercise Surging Storm",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
             },
             {
                 "event": "Ley Line Overflow 5.2",
