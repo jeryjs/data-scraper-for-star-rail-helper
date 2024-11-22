@@ -16,18 +16,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
             },
             {
-                "event": "The Meaning of Flight",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/The_Meaning_of_Flight.png/revision/latest/scale-to-width-down/250?cb=20241115051450",
+                "event": "\"Of Fading Flowers and Falling Feathers\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
                 "duration": [
-                    "November 15, 2024",
-                    "November 21, 2024"
+                    "November 20, 2024",
+                    "December 10, 2024"
                 ],
                 "type": [
-                    "Web",
-                    "Character Release"
+                    "In-Game",
+                    "Story Quest"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Flight"
+                "page": "https://genshin-impact.fandom.com/wiki/%22Of_Fading_Flowers_and_Falling_Feathers%22_Event"
             },
             {
                 "event": "Test Run - Chasca, Lyney, Ororon, Sucrose",
@@ -42,20 +42,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-11-20"
-            },
-            {
-                "event": "\"Of Fading Flowers and Falling Feathers\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
-                "duration": [
-                    "November 20, 2024",
-                    "December 10, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Of_Fading_Flowers_and_Falling_Feathers%22_Event"
             },
             {
                 "event": "Spiritweaver",
