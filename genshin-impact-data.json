@@ -16,20 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Land_of_Vibrant_Stone_and_Flaming_Springs%22_Event"
             },
             {
-                "event": "\"Of Fading Flowers and Falling Feathers\" Event",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
-                "duration": [
-                    "November 20, 2024",
-                    "December 10, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Of_Fading_Flowers_and_Falling_Feathers%22_Event"
-            },
-            {
                 "event": "Test Run - Chasca, Lyney, Ororon, Sucrose",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Test_Run_-_Chasca%2C_Lyney%2C_Ororon%2C_Sucrose.png/revision/latest/scale-to-width-down/250?cb=20241120161721",
                 "duration": [
@@ -42,6 +28,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-11-20"
+            },
+            {
+                "event": "\"Of Fading Flowers and Falling Feathers\" Event",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
+                "duration": [
+                    "November 20, 2024",
+                    "December 10, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/%22Of_Fading_Flowers_and_Falling_Feathers%22_Event"
             },
             {
                 "event": "Spiritweaver",
@@ -98,9 +98,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Claw Convoy",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Claw_Convoy.png/revision/latest/scale-to-width-down/250?cb=20241120132520",
@@ -111,7 +109,7 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Claw_Convoy"
             },
             {
@@ -125,9 +123,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-11-22"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Iktomi Spiritseeking Scrolls",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Iktomi_Spiritseeking_Scrolls.png/revision/latest/scale-to-width-down/250?cb=20241108145840",
@@ -143,18 +143,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
             },
             {
-                "event": "Adventurer's Trials: Metamorphosis",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241108145830",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
-            },
-            {
                 "event": "Exercise Surging Storm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
                 "duration": [
@@ -165,6 +153,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
+            },
+            {
+                "event": "Adventurer's Trials: Metamorphosis",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241108145830",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
             },
             {
                 "event": "Ley Line Overflow 5.2",
