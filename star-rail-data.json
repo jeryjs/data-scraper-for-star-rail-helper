@@ -67,9 +67,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-11-18"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Garden of Plenty 2024-11-22",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
@@ -80,9 +78,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2024-11-22"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "HonkaixHonkai",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/HonkaixHonkai_Version_Announcement.png/revision/latest/scale-to-width-down/250?cb=20241026142657",
@@ -96,6 +96,32 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/HonkaixHonkai_Collaboration"
             },
             {
+                "event": "Gift of Odyssey 2024-12-04",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Event_Gift_of_Odyssey_2024-12-04.png/revision/latest/scale-to-width-down/250?cb=20241122215818",
+                "duration": [
+                    "December 04, 2024",
+                    "January 15, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-12-04"
+            },
+            {
+                "event": "Express Gift",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Express_Gift.png/revision/latest/scale-to-width-down/250?cb=20241122220254",
+                "duration": [
+                    "December 04, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Express_Gift"
+            },
+            {
                 "event": "Traveling Mimo",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Event_Traveling_Mimo.jpeg/revision/latest/scale-to-width-down/250?cb=20241031205309",
                 "duration": [
@@ -106,6 +132,30 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Traveling_Mimo"
+            },
+            {
+                "event": "Cosmic Home D\u00e9cor Guide",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Event_Cosmic_Home_D%C3%A9cor_Guide.png/revision/latest/scale-to-width-down/250?cb=20241122221722",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
+            },
+            {
+                "event": "Between the Frames...",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Event_Between_the_Frames....png/revision/latest/scale-to-width-down/250?cb=20241122225434",
+                "duration": [
+                    " TBA "
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Between_the_Frames..."
             }
         ],
         "Permanent": [
