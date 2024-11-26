@@ -56,19 +56,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Shadow_of_the_Ranger"
             },
             {
-                "event": "Cyclical Extrapolation: Prolonged Rumination",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Event_Cyclical_Extrapolation_Prolonged_Rumination.png/revision/latest/scale-to-width-down/250?cb=20241117200008",
-                "duration": [
-                    "November 18, 2024",
-                    "November 25, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-11-18"
-            },
-            {
                 "event": "Garden of Plenty 2024-11-22",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
                 "duration": [
@@ -80,6 +67,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2024-11-22"
+            },
+            {
+                "event": "Cyclical Extrapolation: Galaxy Vending",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Event_Cyclical_Extrapolation_Galaxy_Vending.png/revision/latest/scale-to-width-down/250?cb=20241124200006",
+                "duration": [
+                    "November 25, 2024",
+                    "December 02, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-11-25"
             }
         ],
         "Upcoming": [
