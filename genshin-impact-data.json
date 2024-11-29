@@ -126,9 +126,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-11-22"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Iktomi Spiritseeking Scrolls",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Iktomi_Spiritseeking_Scrolls.png/revision/latest/scale-to-width-down/250?cb=20241126135205",
@@ -140,8 +138,22 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Adventurer's Trials: Metamorphosis",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241108145830",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
             },
             {
                 "event": "Exercise Surging Storm",
@@ -154,18 +166,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
-            },
-            {
-                "event": "Adventurer's Trials: Metamorphosis",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241108145830",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/5.2"
             },
             {
                 "event": "Ley Line Overflow 5.2",
