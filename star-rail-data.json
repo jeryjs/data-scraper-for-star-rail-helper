@@ -56,19 +56,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Shadow_of_the_Ranger"
             },
             {
-                "event": "Garden of Plenty 2024-11-22",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
-                "duration": [
-                    "November 22, 2024",
-                    "November 29, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2024-11-22"
-            },
-            {
                 "event": "Cyclical Extrapolation: Galaxy Vending",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Event_Cyclical_Extrapolation_Galaxy_Vending.png/revision/latest/scale-to-width-down/250?cb=20241124200006",
                 "duration": [
@@ -80,27 +67,55 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-11-25"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "HonkaixHonkai",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Honkai_Impact_3rd_Splash_Screen_Stars_Derailed.png/revision/latest/scale-to-width-down/250?cb=20241128052953",
                 "duration": [
-                    "November 28, 2024"
+                    "November 28, 2024",
+                    "January 09, 2025"
                 ],
                 "type": [
                     "Collaboration"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/HonkaixHonkai_Collaboration"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Nameless Honor 2024-12-04",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "December 04, 2024",
+                    "January 13, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-12-04"
+            },
+            {
+                "event": "Cosmic Home D\u00e9cor Guide",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Event_Cosmic_Home_D%C3%A9cor_Guide.png/revision/latest/scale-to-width-down/250?cb=20241122221722",
+                "duration": [
+                    "December 04, 2024",
+                    "January 13, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
             },
             {
                 "event": "Gift of Odyssey 2024-12-04",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Event_Gift_of_Odyssey_2024-12-04.png/revision/latest/scale-to-width-down/250?cb=20241122215818",
                 "duration": [
                     "December 04, 2024",
-                    "January 15, 2025"
+                    "January 14, 2025"
                 ],
                 "type": [
                     "In-Game",
@@ -122,6 +137,32 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Express_Gift"
             },
             {
+                "event": "Planar Fissure 2024-12-18",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
+                "duration": [
+                    "December 18, 2024",
+                    "December 25, 2024"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-12-18"
+            },
+            {
+                "event": "Between the Frames...",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Event_Between_the_Frames....png/revision/latest/scale-to-width-down/250?cb=20241122225434",
+                "duration": [
+                    "December 25, 2024",
+                    "January 06, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Between_the_Frames..."
+            },
+            {
                 "event": "Traveling Mimo",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Event_Traveling_Mimo.jpeg/revision/latest/scale-to-width-down/250?cb=20241031205309",
                 "duration": [
@@ -134,28 +175,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Traveling_Mimo"
             },
             {
-                "event": "Cosmic Home D\u00e9cor Guide",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Event_Cosmic_Home_D%C3%A9cor_Guide.png/revision/latest/scale-to-width-down/250?cb=20241122221722",
+                "event": "Realm of the Strange 2025-01-01",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20231119173725",
                 "duration": [
-                    " TBA "
+                    "January 01, 2025",
+                    "January 08, 2025"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
-            },
-            {
-                "event": "Between the Frames...",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Event_Between_the_Frames....png/revision/latest/scale-to-width-down/250?cb=20241122225434",
-                "duration": [
-                    " TBA "
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Between_the_Frames..."
+                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2025-01-01"
             }
         ],
         "Permanent": [
