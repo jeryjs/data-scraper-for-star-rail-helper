@@ -2,73 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Nameless Honor 2024-10-23",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "October 23, 2024",
-                    "December 02, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-10-23"
-            },
-            {
-                "event": "Gift of Odyssey 2024-10-23",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Event_Gift_of_Odyssey_2024-10-23.png/revision/latest/scale-to-width-down/250?cb=20241011183606",
-                "duration": [
-                    "October 23, 2024",
-                    "December 03, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-10-23"
-            },
-            {
-                "event": "Sound Hunt Ninjutsu Inscription",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Event_Sound_Hunt_Ninjutsu_Inscription.png/revision/latest/scale-to-width-down/250?cb=20241026125915",
-                "duration": [
-                    "October 25, 2024",
-                    "December 02, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Sound_Hunt_Ninjutsu_Inscription"
-            },
-            {
-                "event": "Shadow of the Ranger",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Event_Shadow_of_the_Ranger.png/revision/latest/scale-to-width-down/250?cb=20241113203453",
-                "duration": [
-                    "November 13, 2024",
-                    "December 02, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Shadow_of_the_Ranger"
-            },
-            {
-                "event": "Cyclical Extrapolation: Galaxy Vending",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Event_Cyclical_Extrapolation_Galaxy_Vending.png/revision/latest/scale-to-width-down/250?cb=20241124200006",
-                "duration": [
-                    "November 25, 2024",
-                    "December 02, 2024"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-11-25"
-            },
-            {
                 "event": "HonkaixHonkai",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Honkai_Impact_3rd_Splash_Screen_Stars_Derailed.png/revision/latest/scale-to-width-down/250?cb=20241128052953",
                 "duration": [
@@ -80,6 +13,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/HonkaixHonkai_Collaboration"
+            },
+            {
+                "event": "Cyclical Extrapolation: Promising Future",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Event_Cyclical_Extrapolation_Promising_Future.png/revision/latest/scale-to-width-down/250?cb=20241201200005",
+                "duration": [
+                    "December 02, 2024",
+                    "December 09, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2024-12-02"
             }
         ],
         "Upcoming": [
@@ -126,7 +72,7 @@
             },
             {
                 "event": "Express Gift",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Express_Gift.png/revision/latest/scale-to-width-down/250?cb=20241122220254",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Express_Gift.png/revision/latest/scale-to-width-down/250?cb=20241202185257",
                 "duration": [
                     "December 04, 2024"
                 ],
