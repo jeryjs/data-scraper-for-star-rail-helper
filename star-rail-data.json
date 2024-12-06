@@ -301,6 +301,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "TINGYUNISBACK",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Immortal's Delight",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest/scale-to-width-down/30?cb=20230506203917"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"13 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "HAPPYSUNDAY",
                 "server": "All",
                 "rewards": [
@@ -316,7 +337,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"16 hours ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 day ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -337,7 +358,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"16 hours ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 day ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -363,7 +384,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -389,7 +410,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -433,7 +454,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 weeks ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1777,7 +1798,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1798,7 +1819,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1819,7 +1840,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1840,7 +1861,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -1861,7 +1882,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2165,7 +2186,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"11 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
