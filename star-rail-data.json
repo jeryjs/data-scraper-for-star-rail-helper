@@ -30,17 +30,18 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/HonkaixHonkai_Collaboration"
             },
             {
-                "event": "Cyclical Extrapolation: Promising Future",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Event_Cyclical_Extrapolation_Promising_Future.png/revision/latest/scale-to-width-down/250?cb=20241201200005",
+                "event": "Nameless Honor 2024-12-04",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
-                    "December 02, 2024",
-                    "December 09, 2024"
+                    "December 04, 2024",
+                    "January 13, 2025"
                 ],
                 "type": [
-                    "Cyclical Extrapolation"
+                    "In-Game",
+                    "Nameless Honor"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2024-12-02"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-12-04"
             },
             {
                 "event": "Cosmic Home D\u00e9cor Guide",
@@ -54,20 +55,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
-            },
-            {
-                "event": "Nameless Honor 2024-12-04",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "December 04, 2024",
-                    "January 13, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-12-04"
             },
             {
                 "event": "Gift of Odyssey 2024-12-04",
@@ -95,9 +82,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Express_Gift"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Cyclical Extrapolation: Joyful Prince",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Event_Cyclical_Extrapolation_Joyful_Prince.png/revision/latest/scale-to-width-down/250?cb=20241208200947",
@@ -108,9 +93,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2024-12-09"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 2024-12-18",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
