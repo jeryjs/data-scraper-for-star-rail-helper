@@ -140,6 +140,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
+            },
+            {
+                "event": "Test Run - Neuvillette, Zhongli, Shikanoin Heizou, Fischl, Yaoyao",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Test_Run_-_Neuvillette%2C_Zhongli%2C_Shikanoin_Heizou%2C_Fischl%2C_Yaoyao.png/revision/latest/scale-to-width-down/250?cb=20241210140325",
+                "duration": [
+                    "December 10, 2024",
+                    "December 31, 2024"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-12-10"
             }
         ],
         "Upcoming": [
