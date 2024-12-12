@@ -30,34 +30,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Land_of_Vibrant_Stone_and_Flaming_Springs_(Event)"
             },
             {
-                "event": "Test Run - Chasca, Lyney, Ororon, Sucrose",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Test_Run_-_Chasca%2C_Lyney%2C_Ororon%2C_Sucrose.png/revision/latest/scale-to-width-down/250?cb=20241120161721",
-                "duration": [
-                    "November 20, 2024",
-                    "December 10, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-11-20"
-            },
-            {
-                "event": "Of Fading Flowers and Falling Feathers",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Of_Fading_Flowers_and_Falling_Feathers_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040743",
-                "duration": [
-                    "November 20, 2024",
-                    "December 10, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Of_Fading_Flowers_and_Falling_Feathers_(Event)"
-            },
-            {
                 "event": "Spiritweaver",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Battle_Pass_Spiritweaver.png/revision/latest/scale-to-width-down/250?cb=20241118042229",
                 "duration": [
@@ -154,9 +126,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-12-10"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Adventurer's Trials: Metamorphosis",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Adventurer%27s_Trials_Metamorphosis.png/revision/latest/scale-to-width-down/250?cb=20241209131554",
@@ -168,9 +138,11 @@
                     "In-Game",
                     "Trial"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/2024-12-11"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Exercise Surging Storm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
@@ -342,6 +314,42 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "EAOL18BJ8S64",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    },
+                    {
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 11, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "ACUI96V85FCK",
                 "server": "All",
                 "rewards": [
@@ -461,27 +469,6 @@
                 "isExpired": false
             },
             {
-                "code": "LA5E77CLZX5V",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "60",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: September 27, 2024",
-                    "Valid until: December 11, 2024"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "GENSHINGIFT",
                 "server": "All",
                 "rewards": [
@@ -503,6 +490,28 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": []
+        "expiredCodes": [
+            {
+                "code": "LA5E77CLZX5V",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "60",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: September 27, 2024",
+                    "Expired: December 11, 2024"
+                ],
+                "isExpired": true
+            }
+        ]
     }
 }
