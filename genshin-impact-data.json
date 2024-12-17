@@ -86,34 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
-                "event": "Heated Battle Mode: Automatic Artistry",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Heated_Battle_Mode_Automatic_Artistry.png/revision/latest/scale-to-width-down/250?cb=20241120132811",
-                "duration": [
-                    "November 22, 2024",
-                    "December 16, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2024-11-22"
-            },
-            {
-                "event": "Iktomi Spiritseeking Scrolls",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Iktomi_Spiritseeking_Scrolls.png/revision/latest/scale-to-width-down/250?cb=20241126135205",
-                "duration": [
-                    "November 28, 2024",
-                    "December 16, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Iktomi_Spiritseeking_Scrolls"
-            },
-            {
                 "event": "Test Run - Neuvillette, Zhongli, Shikanoin Heizou, Fischl, Yaoyao",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Test_Run_-_Neuvillette%2C_Zhongli%2C_Shikanoin_Heizou%2C_Fischl%2C_Yaoyao.png/revision/latest/scale-to-width-down/250?cb=20241210140325",
                 "duration": [
@@ -145,7 +117,7 @@
         "Upcoming": [
             {
                 "event": "Exercise Surging Storm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241108145836",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241216051616",
                 "duration": [
                     "December 18, 2024",
                     "December 30, 2024"
