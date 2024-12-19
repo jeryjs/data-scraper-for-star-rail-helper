@@ -95,9 +95,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2024-12-16"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Planar Fissure 2024-12-18",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20230622230007",
@@ -108,9 +106,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2024-12-18"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Between the Frames...",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Event_Between_the_Frames....png/revision/latest/scale-to-width-down/250?cb=20241122225434",

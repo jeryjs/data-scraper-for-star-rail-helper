@@ -112,9 +112,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Trials/2024-12-11"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Exercise Surging Storm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241216051616",
@@ -125,9 +123,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Ley Line Overflow 2024-12-23",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
