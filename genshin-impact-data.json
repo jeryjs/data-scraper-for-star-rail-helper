@@ -140,6 +140,82 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-12-23"
+            },
+            {
+                "event": "Overflowing Abundance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20241220134304",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance"
+            },
+            {
+                "event": "Shuyu's Baffling Beetle Battle Bowl",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Shuyu%27s_Baffling_Beetle_Battle_Bowl.png/revision/latest/scale-to-width-down/250?cb=20241220131759",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Shuyu%27s_Baffling_Beetle_Battle_Bowl"
+            },
+            {
+                "event": "On the Trail of Behemoths",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/On_the_Trail_of_Behemoths.png/revision/latest/scale-to-width-down/250?cb=20241220131757",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Challenge"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/On_the_Trail_of_Behemoths"
+            },
+            {
+                "event": "Emblem of Steadfast Valor",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Emblem_of_Steadfast_Valor.png/revision/latest/scale-to-width-down/250?cb=20241220131755",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Emblem_of_Steadfast_Valor"
+            },
+            {
+                "event": "May Fortune Find You: Spring's Premonition",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/May_Fortune_Find_You_Spring%27s_Premonition.png/revision/latest/scale-to-width-down/250?cb=20241220131751",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/5.3"
+            },
+            {
+                "event": "Springtime Charms",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Springtime_Charms.png/revision/latest/scale-to-width-down/250?cb=20241220131746",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Springtime_Charms"
             }
         ],
         "Permanent": [
@@ -285,6 +361,69 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "4SLPH3BSFVH9",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "50,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 20, 2024",
+                    "Valid until: December 23, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "LT5NH2TTXUHM",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 20, 2024",
+                    "Valid until: December 23, 2024"
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "UAMPGJASECZH",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 20, 2024",
+                    "Valid until: December 23, 2024"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "EAOL18BJ8S64",
                 "server": "All",
