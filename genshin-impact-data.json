@@ -125,6 +125,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
+            },
+            {
+                "event": "Stand With Mavuika",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Stand_With_Mavuika.png/revision/latest/scale-to-width-down/250?cb=20241221021547",
+                "duration": [
+                    "December 20, 2024",
+                    "January 08, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Stand_With_Mavuika"
             }
         ],
         "Upcoming": [
@@ -361,6 +374,22 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "STANDWITHMAVUIKA",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "30",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 20, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
             {
                 "code": "4SLPH3BSFVH9",
                 "server": "All",
