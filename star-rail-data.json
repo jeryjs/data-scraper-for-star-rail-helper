@@ -112,6 +112,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Fictitious Log",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Event_Cyclical_Extrapolation_Fictitious_Log.png/revision/latest/scale-to-width-down/250?cb=20241222200006",
+                "duration": [
+                    "December 23, 2024",
+                    "December 30, 2024"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2024-12-23"
+            },
+            {
                 "event": "Between the Frames...",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Event_Between_the_Frames....png/revision/latest/scale-to-width-down/250?cb=20241122225434",
                 "duration": [
