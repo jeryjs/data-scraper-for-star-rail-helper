@@ -30,20 +30,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Land_of_Vibrant_Stone_and_Flaming_Springs_(Event)"
             },
             {
-                "event": "Spiritweaver",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Battle_Pass_Spiritweaver.png/revision/latest/scale-to-width-down/250?cb=20241118042229",
-                "duration": [
-                    "November 20, 2024",
-                    "December 30, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Spiritweaver"
-            },
-            {
                 "event": "The Forge Realm's Temper: Endless Swarm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/The_Forge_Realm%27s_Temper_Endless_Swarm_2024-11-20.png/revision/latest/scale-to-width-down/250?cb=20241118040747",
                 "duration": [
@@ -100,19 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-12-10"
             },
             {
-                "event": "Exercise Surging Storm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Exercise_Surging_Storm.png/revision/latest/scale-to-width-down/250?cb=20241216051616",
-                "duration": [
-                    "December 18, 2024",
-                    "December 30, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Exercise_Surging_Storm"
-            },
-            {
                 "event": "Stand With Mavuika",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Stand_With_Mavuika.png/revision/latest/scale-to-width-down/250?cb=20241221021547",
                 "duration": [
@@ -124,19 +97,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stand_With_Mavuika"
-            },
-            {
-                "event": "Ley Line Overflow 2024-12-23",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "December 23, 2024",
-                    "December 30, 2024"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2024-12-23"
             },
             {
                 "event": "When the Mists Fade",
@@ -169,34 +129,95 @@
         ],
         "Upcoming": [
             {
-                "event": "Emblem of Steadfast Valor",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Emblem_of_Steadfast_Valor.png/revision/latest/scale-to-width-down/250?cb=20241220131755",
+                "event": "As the Blazing Sun",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/As_the_Blazing_Sun_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043045",
                 "duration": [
-                    "TBA"
+                    "January 01, 2025",
+                    "January 21, 2025"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Story Quest"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Emblem_of_Steadfast_Valor"
+                "page": "https://genshin-impact.fandom.com/wiki/As_the_Blazing_Sun_(Event)"
             },
             {
-                "event": "Overflowing Abundance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20241220134304",
+                "event": "Memories Flowing With Color",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Memories_Flowing_With_Color_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043043",
                 "duration": [
-                    "TBA"
+                    "January 01, 2025",
+                    "January 21, 2025"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Story Quest"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance"
+                "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
+            },
+            {
+                "event": "Cherries Snow-Laden Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
+            },
+            {
+                "event": "Soulblaze",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
+            },
+            {
+                "event": "Incandescent Ode of Resurrection",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Incandescent_Ode_of_Resurrection_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043041",
+                "duration": [
+                    "January 01, 2025",
+                    "February 11, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Incandescent_Ode_of_Resurrection_(Event)"
+            },
+            {
+                "event": "The Forge Realm's Temper: Game of Wits",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-01-01.png/revision/latest/scale-to-width-down/250?cb=20241230043049",
+                "duration": [
+                    "January 01, 2025",
+                    "February 12, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
             },
             {
                 "event": "Shuyu's Baffling Beetle Battle Bowl",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Shuyu%27s_Baffling_Beetle_Battle_Bowl.png/revision/latest/scale-to-width-down/250?cb=20241220131759",
                 "duration": [
-                    "TBA"
+                    "January 03, 2025",
+                    "January 13, 2025"
                 ],
                 "type": [
                     "In-Game"
@@ -205,14 +226,29 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Shuyu%27s_Baffling_Beetle_Battle_Bowl"
             },
             {
+                "event": "Emblem of Steadfast Valor",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Emblem_of_Steadfast_Valor.png/revision/latest/scale-to-width-down/250?cb=20241220131755",
+                "duration": [
+                    "January 09, 2025",
+                    "January 20, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Emblem_of_Steadfast_Valor"
+            },
+            {
                 "event": "On the Trail of Behemoths",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/On_the_Trail_of_Behemoths.png/revision/latest/scale-to-width-down/250?cb=20241220131757",
                 "duration": [
-                    "TBA"
+                    "January 14, 2025",
+                    "January 27, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Challenge"
+                    "Challenge",
+                    "Co-Op"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/On_the_Trail_of_Behemoths"
@@ -230,6 +266,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/5.3"
+            },
+            {
+                "event": "Overflowing Abundance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20241220134304",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance"
             },
             {
                 "event": "Springtime Charms",
