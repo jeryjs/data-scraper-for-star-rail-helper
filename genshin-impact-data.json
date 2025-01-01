@@ -16,34 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Concert/GENSHIN_CONCERT_2024_%22Melodies_of_an_Endless_Journey%22"
             },
             {
-                "event": "Land of Vibrant Stone and Flaming Springs",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Land_of_Vibrant_Stone_and_Flaming_Springs_Event.png/revision/latest/scale-to-width-down/250?cb=20241007041043",
-                "duration": [
-                    "October 09, 2024",
-                    "December 31, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Exploration Mission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Land_of_Vibrant_Stone_and_Flaming_Springs_(Event)"
-            },
-            {
-                "event": "The Forge Realm's Temper: Endless Swarm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/The_Forge_Realm%27s_Temper_Endless_Swarm_2024-11-20.png/revision/latest/scale-to-width-down/250?cb=20241118040747",
-                "duration": [
-                    "November 20, 2024",
-                    "January 01, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-11-20"
-            },
-            {
                 "event": "Facing the Windborne Cliff and City of Flowing Ash",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Facing_the_Windborne_Cliff_and_City_of_Flowing_Ash_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040745",
                 "duration": [
@@ -72,20 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
-                "event": "Test Run - Neuvillette, Zhongli, Shikanoin Heizou, Fischl, Yaoyao",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Test_Run_-_Neuvillette%2C_Zhongli%2C_Shikanoin_Heizou%2C_Fischl%2C_Yaoyao.png/revision/latest/scale-to-width-down/250?cb=20241210140325",
-                "duration": [
-                    "December 10, 2024",
-                    "December 31, 2024"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2024-12-10"
-            },
-            {
                 "event": "Stand With Mavuika",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Stand_With_Mavuika.png/revision/latest/scale-to-width-down/250?cb=20241221021547",
                 "duration": [
@@ -97,20 +55,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stand_With_Mavuika"
-            },
-            {
-                "event": "When the Mists Fade",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/When_the_Mists_Fade.png/revision/latest/scale-to-width-down/250?cb=20241225041534",
-                "duration": [
-                    "December 25, 2024",
-                    "December 31, 2024"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/When_the_Mists_Fade"
             },
             {
                 "event": "Mavuika: Training Day",
@@ -125,6 +69,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mavuika:_Training_Day"
+            },
+            {
+                "event": "Gifts of Encounter 2025-01-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Gifts_of_Encounter_2025-01-01.png/revision/latest/scale-to-width-down/250?cb=20241231171819",
+                "duration": [
+                    "January 01, 2025",
+                    "January 10, 2025"
+                ],
+                "type": [
+                    "Web",
+                    "Login"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2025-01-01"
             }
         ],
         "Upcoming": [
@@ -257,7 +215,8 @@
                 "event": "May Fortune Find You: Spring's Premonition",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/May_Fortune_Find_You_Spring%27s_Premonition.png/revision/latest/scale-to-width-down/250?cb=20241220131751",
                 "duration": [
-                    "TBA"
+                    "January 22, 2025",
+                    "February 11, 2025"
                 ],
                 "type": [
                     "In-Game",
@@ -265,7 +224,7 @@
                     "Mail"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/5.3"
+                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2025-01-22"
             },
             {
                 "event": "Overflowing Abundance",
@@ -436,6 +395,42 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "WEAV365PI953",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Withering Purpurbloom",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest/scale-to-width-down/20?cb=20241118063118"
+                    },
+                    {
+                        "name": "Quenepa Berry",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Quenepa_Berry.png/revision/latest/scale-to-width-down/20?cb=20240826125020"
+                    },
+                    {
+                        "name": "Mora",
+                        "amount": "10,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    },
+                    {
+                        "name": "Fine Enhancement Ore",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
+                    }
+                ],
+                "duration": [
+                    "Discovered: December 31, 2024",
+                    ""
+                ],
+                "isExpired": false
+            },
             {
                 "code": "GSXB7OA",
                 "server": "All",
