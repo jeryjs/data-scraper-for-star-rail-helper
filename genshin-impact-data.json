@@ -72,7 +72,7 @@
             },
             {
                 "event": "Gifts of Encounter 2025-01-01",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Gifts_of_Encounter_2025-01-01.png/revision/latest/scale-to-width-down/250?cb=20241231171819",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Gifts_of_Encounter_2025-01-01.png/revision/latest/scale-to-width-down/250?cb=20250101080106",
                 "duration": [
                     "January 01, 2025",
                     "January 10, 2025"
@@ -83,22 +83,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2025-01-01"
-            }
-        ],
-        "Upcoming": [
-            {
-                "event": "As the Blazing Sun",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/As_the_Blazing_Sun_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043045",
-                "duration": [
-                    "January 01, 2025",
-                    "January 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/As_the_Blazing_Sun_(Event)"
             },
             {
                 "event": "Memories Flowing With Color",
@@ -111,22 +95,36 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
-                "event": "Cherries Snow-Laden Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
+                "event": "As the Blazing Sun",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/As_the_Blazing_Sun_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043045",
                 "duration": [
                     "January 01, 2025",
-                    "February 10, 2025"
+                    "January 21, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Discount"
+                    "Story Quest"
                 ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/As_the_Blazing_Sun_(Event)"
+            },
+            {
+                "event": "Test Run - Mavuika, Citlali, Bennett, Diona",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Test_Run_-_Mavuika%2C_Citlali%2C_Bennett%2C_Diona.png/revision/latest/scale-to-width-down/250?cb=20250101214931",
+                "duration": [
+                    "January 01, 2025",
+                    "January 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-01-01"
             },
             {
                 "event": "Soulblaze",
@@ -139,8 +137,22 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
+            },
+            {
+                "event": "Cherries Snow-Laden Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -153,7 +165,7 @@
                     "In-Game",
                     "Archon Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Incandescent_Ode_of_Resurrection_(Event)"
             },
             {
@@ -167,12 +179,14 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Shuyu's Baffling Beetle Battle Bowl",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Shuyu%27s_Baffling_Beetle_Battle_Bowl.png/revision/latest/scale-to-width-down/250?cb=20241220131759",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Shuyu%27s_Baffling_Beetle_Battle_Bowl.png/revision/latest/scale-to-width-down/250?cb=20250101080054",
                 "duration": [
                     "January 03, 2025",
                     "January 13, 2025"
@@ -396,6 +410,27 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "MAVUIKAWISHES",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "30",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hymn of Gathered Flame",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Hymn_of_Gathered_Flame.png/revision/latest/scale-to-width-down/20?cb=20250101145038"
+                    }
+                ],
+                "duration": [
+                    "Discovered: January 1, 2025",
+                    "Valid until: January 7, 2025"
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "WEAV365PI953",
                 "server": "All",
                 "rewards": [
@@ -428,176 +463,6 @@
                 "duration": [
                     "Discovered: December 31, 2024",
                     ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "GSXB7OA",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "30,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    },
-                    {
-                        "name": "Guide to Contention",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Guide_to_Contention.png/revision/latest/scale-to-width-down/20?cb=20240830210948"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    },
-                    {
-                        "name": "Agnidus Agate Sliver",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074509"
-                    }
-                ],
-                "duration": [
-                    "Discovered: December 23, 2024",
-                    "Notes: Found in ads located on X and YouTube."
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "EAOL18BJ8S64",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: December 11, 2024",
-                    ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "ACUI96V85FCK",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Seasoned Fang",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Seasoned_Fang.png/revision/latest/scale-to-width-down/20?cb=20240828080031"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 28, 2024",
-                    ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "FIBE54PL5995",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Stir-Fried Fish Noodles",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
-                    },
-                    {
-                        "name": "Jueyun Chili Chicken",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 28, 2024",
-                    ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "SDKLSK67TZ1X",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    },
-                    {
-                        "name": "Seasoned Fang",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Seasoned_Fang.png/revision/latest/scale-to-width-down/20?cb=20240828080031"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 28, 2024",
-                    "Notes: Using any of the codes will render the other(s) unusable."
                 ],
                 "isExpired": false
             },
