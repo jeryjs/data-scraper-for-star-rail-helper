@@ -57,20 +57,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Stand_With_Mavuika"
             },
             {
-                "event": "Mavuika: Training Day",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Mavuika_Training_Day.png/revision/latest/scale-to-width-down/250?cb=20241227041148",
-                "duration": [
-                    "December 27, 2024",
-                    "January 02, 2025"
-                ],
-                "type": [
-                    "Web",
-                    "Character Release"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Mavuika:_Training_Day"
-            },
-            {
                 "event": "Gifts of Encounter 2025-01-01",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Gifts_of_Encounter_2025-01-01.png/revision/latest/scale-to-width-down/250?cb=20250101080106",
                 "duration": [
@@ -85,18 +71,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2025-01-01"
             },
             {
-                "event": "Memories Flowing With Color",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Memories_Flowing_With_Color_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043043",
+                "event": "Test Run - Mavuika, Citlali, Bennett, Diona",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Test_Run_-_Mavuika%2C_Citlali%2C_Bennett%2C_Diona.png/revision/latest/scale-to-width-down/250?cb=20250101214931",
                 "duration": [
                     "January 01, 2025",
                     "January 21, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Story Quest"
+                    "Test Run"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-01-01"
             },
             {
                 "event": "As the Blazing Sun",
@@ -113,18 +99,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/As_the_Blazing_Sun_(Event)"
             },
             {
-                "event": "Test Run - Mavuika, Citlali, Bennett, Diona",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Test_Run_-_Mavuika%2C_Citlali%2C_Bennett%2C_Diona.png/revision/latest/scale-to-width-down/250?cb=20250101214931",
+                "event": "Memories Flowing With Color",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Memories_Flowing_With_Color_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043043",
                 "duration": [
                     "January 01, 2025",
                     "January 21, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Test Run"
+                    "Story Quest"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-01-01"
+                "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
                 "event": "Soulblaze",
@@ -181,9 +167,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Shuyu's Baffling Beetle Battle Bowl",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Shuyu%27s_Baffling_Beetle_Battle_Bowl.png/revision/latest/scale-to-width-down/250?cb=20250101080054",
@@ -192,11 +176,14 @@
                     "January 13, 2025"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Beetle Battle"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Shuyu%27s_Baffling_Beetle_Battle_Bowl"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Emblem of Steadfast Valor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Emblem_of_Steadfast_Valor.png/revision/latest/scale-to-width-down/250?cb=20241220131755",
