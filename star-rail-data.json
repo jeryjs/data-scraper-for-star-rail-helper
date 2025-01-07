@@ -30,19 +30,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/HonkaixHonkai_Collaboration"
             },
             {
-                "event": "Cosmic Home D\u00e9cor Guide",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Event_Cosmic_Home_D%C3%A9cor_Guide.png/revision/latest/scale-to-width-down/250?cb=20241122221722",
-                "duration": [
-                    "December 04, 2024",
-                    "January 13, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
-            },
-            {
                 "event": "Nameless Honor 2024-12-04",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -55,6 +42,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-12-04"
+            },
+            {
+                "event": "Cosmic Home D\u00e9cor Guide",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Event_Cosmic_Home_D%C3%A9cor_Guide.png/revision/latest/scale-to-width-down/250?cb=20241122221722",
+                "duration": [
+                    "December 04, 2024",
+                    "January 13, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
             },
             {
                 "event": "Gift of Odyssey 2024-12-04",
@@ -84,32 +84,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Express_Gift"
             },
             {
-                "event": "Between the Frames...",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Event_Between_the_Frames....png/revision/latest/scale-to-width-down/250?cb=20241122225434",
-                "duration": [
-                    "December 25, 2024",
-                    "January 06, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Between_the_Frames..."
-            },
-            {
-                "event": "Cyclical Extrapolation: Ash Reignition",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Event_Cyclical_Extrapolation_Ash_Reignition.png/revision/latest/scale-to-width-down/250?cb=20241229200006",
-                "duration": [
-                    "December 30, 2024",
-                    "January 06, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2024-12-30"
-            },
-            {
                 "event": "Realm of the Strange 2025-01-01",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20231119173725",
                 "duration": [
@@ -134,6 +108,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/%22Heroes,_Assemble!_Let_the_Paean_of_Era_Nova_Resound%22"
+            },
+            {
+                "event": "Cyclical Extrapolation: Redundant Bounty",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Event_Cyclical_Extrapolation_Redundant_Bounty.png/revision/latest/scale-to-width-down/250?cb=20250105200005",
+                "duration": [
+                    "January 06, 2025",
+                    "January 13, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2025-01-06"
             }
         ],
         "Upcoming": [],
