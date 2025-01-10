@@ -100,20 +100,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
-                "event": "Soulblaze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
-            },
-            {
                 "event": "Cherries Snow-Laden Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
                 "duration": [
@@ -126,6 +112,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
+            },
+            {
+                "event": "Soulblaze",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -168,9 +168,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Shuyu%27s_Baffling_Beetle_Battle_Bowl"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Emblem of Steadfast Valor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Emblem_of_Steadfast_Valor.png/revision/latest/scale-to-width-down/250?cb=20250107041848",
@@ -181,8 +179,24 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Emblem_of_Steadfast_Valor"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Heated Battle Mode: Sprinting Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Heated_Battle_Mode_Sprinting_Stratagems_2025-01-11.png/revision/latest/scale-to-width-down/250?cb=20250109134823",
+                "duration": [
+                    "January 11, 2025",
+                    "January 27, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-01-11"
             },
             {
                 "event": "On the Trail of Behemoths",
@@ -383,6 +397,32 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "FORNATLAN",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "40",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Withering Purpurbloom",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest/scale-to-width-down/20?cb=20241118063118"
+                    },
+                    {
+                        "name": "Warrior's Metal Whistle",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Item_Warrior%27s_Metal_Whistle.png/revision/latest/scale-to-width-down/20?cb=20241010044824"
+                    }
+                ],
+                "duration": [
+                    "Discovered: January 7, 2025",
+                    "Valid until: January 14, 2025"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "HNYM49IX9PDS",
                 "server": "All",
