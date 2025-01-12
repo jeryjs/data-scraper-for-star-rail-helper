@@ -86,20 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
-                "event": "Cherries Snow-Laden Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
-            },
-            {
                 "event": "Soulblaze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
                 "duration": [
@@ -112,6 +98,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
+            },
+            {
+                "event": "Cherries Snow-Laden Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -167,9 +167,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Emblem_of_Steadfast_Valor"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Heated_Battle_Mode_Sprinting_Stratagems_2025-01-11.png/revision/latest/scale-to-width-down/250?cb=20250109134823",
@@ -181,9 +179,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-01-11"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "On the Trail of Behemoths",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/On_the_Trail_of_Behemoths.png/revision/latest/scale-to-width-down/250?cb=20241220131757",
