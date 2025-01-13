@@ -186,7 +186,7 @@
         "Upcoming": [
             {
                 "event": "On the Trail of Behemoths",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/On_the_Trail_of_Behemoths.png/revision/latest/scale-to-width-down/250?cb=20241220131757",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/On_the_Trail_of_Behemoths.png/revision/latest/scale-to-width-down/250?cb=20250112040800",
                 "duration": [
                     "January 14, 2025",
                     "January 27, 2025"
@@ -383,6 +383,52 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "KAM7UKZGVRXZ",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "20,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Stuffed N' Mashed Potatoes",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Stuffed_N%27_Mashed_Potatoes.png/revision/latest/scale-to-width-down/20?cb=20240828154716"
+                    },
+                    {
+                        "name": "Fruity Trio",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Item_Fruity_Trio.png/revision/latest/scale-to-width-down/20?cb=20230816113726"
+                    },
+                    {
+                        "name": "Chocolate",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Item_Chocolate.png/revision/latest/scale-to-width-down/20?cb=20240829033955"
+                    },
+                    {
+                        "name": "Goulash",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Goulash.png/revision/latest/scale-to-width-down/20?cb=20210416223513"
+                    },
+                    {
+                        "name": "Sweet Madame",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sweet_Madame.png/revision/latest/scale-to-width-down/20?cb=20210415134415"
+                    },
+                    {
+                        "name": "Chenyu Brew",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Chenyu_Brew.png/revision/latest/scale-to-width-down/20?cb=20240131020055"
+                    }
+                ],
+                "duration": [
+                    "Discovered: January 12, 2025",
+                    ""
+                ],
+                "isExpired": false
+            },
             {
                 "code": "FORNATLAN",
                 "server": "All",
