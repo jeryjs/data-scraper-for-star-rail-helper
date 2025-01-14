@@ -17,33 +17,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy"
             },
             {
-                "event": "Nameless Honor 2024-12-04",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "December 04, 2024",
-                    "January 13, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2024-12-04"
-            },
-            {
-                "event": "Cosmic Home D\u00e9cor Guide",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Event_Cosmic_Home_D%C3%A9cor_Guide.png/revision/latest/scale-to-width-down/250?cb=20241122221722",
-                "duration": [
-                    "December 04, 2024",
-                    "January 13, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Cosmic_Home_D%C3%A9cor_Guide"
-            },
-            {
                 "event": "Gift of Odyssey 2024-12-04",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Event_Gift_of_Odyssey_2024-12-04.png/revision/latest/scale-to-width-down/250?cb=20241122215818",
                 "duration": [
@@ -84,17 +57,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/%22Heroes,_Assemble!_Let_the_Paean_of_Era_Nova_Resound%22"
             },
             {
-                "event": "Cyclical Extrapolation: Redundant Bounty",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Event_Cyclical_Extrapolation_Redundant_Bounty.png/revision/latest/scale-to-width-down/250?cb=20250105200005",
+                "event": "Cyclical Extrapolation: Journey's End",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Cyclical_Extrapolation_Journey%27s_End.png/revision/latest/scale-to-width-down/250?cb=20250112200005",
                 "duration": [
-                    "January 06, 2025",
-                    "January 13, 2025"
+                    "January 13, 2025",
+                    "January 20, 2025"
                 ],
                 "type": [
                     "Cyclical Extrapolation"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2025-01-06"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2025-01-13"
             }
         ],
         "Upcoming": [],

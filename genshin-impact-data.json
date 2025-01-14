@@ -86,20 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
-                "event": "Soulblaze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
-            },
-            {
                 "event": "Cherries Snow-Laden Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
                 "duration": [
@@ -112,6 +98,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
+            },
+            {
+                "event": "Soulblaze",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -140,20 +140,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
-            },
-            {
-                "event": "Shuyu's Baffling Beetle Battle Bowl",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Shuyu%27s_Baffling_Beetle_Battle_Bowl.png/revision/latest/scale-to-width-down/250?cb=20250101080054",
-                "duration": [
-                    "January 03, 2025",
-                    "January 13, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Beetle Battle"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Shuyu%27s_Baffling_Beetle_Battle_Bowl"
             },
             {
                 "event": "Emblem of Steadfast Valor",
@@ -555,28 +541,6 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": [
-            {
-                "code": "MAVUIKAWISHES",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "30",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hymn of Gathered Flame",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Hymn_of_Gathered_Flame.png/revision/latest/scale-to-width-down/20?cb=20250101145038"
-                    }
-                ],
-                "duration": [
-                    "Discovered: January 1, 2025",
-                    "Expired: January 7, 2025"
-                ],
-                "isExpired": true
-            }
-        ]
+        "expiredCodes": []
     }
 }
