@@ -17,20 +17,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy"
             },
             {
-                "event": "Gift of Odyssey 2024-12-04",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Event_Gift_of_Odyssey_2024-12-04.png/revision/latest/scale-to-width-down/250?cb=20241122215818",
-                "duration": [
-                    "December 04, 2024",
-                    "January 14, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2024-12-04"
-            },
-            {
                 "event": "Express Gift",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Express_Gift.png/revision/latest/scale-to-width-down/250?cb=20241202185257",
                 "duration": [
@@ -249,6 +235,153 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "EAJJPMN3DDE3",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20241004165349"
+                    },
+                    {
+                        "name": "Refined Aether",
+                        "amount": "4",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest/scale-to-width-down/30?cb=20230428030941"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "BS3265PKCVXT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20241004165349"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "50000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "RTKJPM6JVCFF",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Stellar Jade",
+                        "amount": "100",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest/scale-to-width-down/30?cb=20241004165349"
+                    },
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "HELLOAMPHOREUS",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "High-Tech Protective Gear",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest/scale-to-width-down/30?cb=20230512012501"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "AMPHOREUS0115",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Clockie Pizza (Whole)",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Clockie_Pizza_%28Whole%29.png/revision/latest/scale-to-width-down/30?cb=20240206082346"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "LIGHTTHEWAY",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Odd Gummy Candy",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Odd_Gummy_Candy.png/revision/latest/scale-to-width-down/30?cb=20240327044208"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "THISISTHEHERTA",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Life Transmitter",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Item_Life_Transmitter.png/revision/latest/scale-to-width-down/30?cb=20230502175129"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "10000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"22 hours ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "REMEMBRANCE",
                 "server": "All",
                 "rewards": [
@@ -264,7 +397,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"39 minutes ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 day ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -285,7 +418,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 day ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -306,7 +439,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -332,7 +465,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -354,48 +487,6 @@
                 ],
                 "duration": [
                     "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
-                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "HSRFUGUE1225",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Traveler's Guide",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
-                    },
-                    {
-                        "name": "Immortal's Delight",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest/scale-to-width-down/30?cb=20230506203917"
-                    }
-                ],
-                "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
-                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "SUNDAYCALENDAR",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Traveler's Guide",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
-                    },
-                    {
-                        "name": "Classic SoulGlad",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest/scale-to-width-down/30?cb=20240206081354"
-                    }
-                ],
-                "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -490,48 +581,6 @@
                 "isExpired": false
             },
             {
-                "code": "TINGYUNISBACK",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Immortal's Delight",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest/scale-to-width-down/30?cb=20230506203917"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "5000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
-                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "HAPPYSUNDAY",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Halovian Winged Burger",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Item_Halovian_Winged_Burger.png/revision/latest/scale-to-width-down/30?cb=20240508194959"
-                    },
-                    {
-                        "name": "Credit",
-                        "amount": "5000",
-                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
-                    }
-                ],
-                "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
-                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "WOVPRK19JGM41",
                 "server": "All",
                 "rewards": [
@@ -580,6 +629,90 @@
             }
         ],
         "expiredCodes": [
+            {
+                "code": "HSRFUGUE1225",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "Immortal's Delight",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest/scale-to-width-down/30?cb=20230506203917"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "SUNDAYCALENDAR",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Traveler's Guide",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest/scale-to-width-down/30?cb=20230428024319"
+                    },
+                    {
+                        "name": "Classic SoulGlad",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest/scale-to-width-down/30?cb=20240206081354"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "TINGYUNISBACK",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Immortal's Delight",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest/scale-to-width-down/30?cb=20230506203917"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": true
+            },
+            {
+                "code": "HAPPYSUNDAY",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Halovian Winged Burger",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Item_Halovian_Winged_Burger.png/revision/latest/scale-to-width-down/30?cb=20240508194959"
+                    },
+                    {
+                        "name": "Credit",
+                        "amount": "5000",
+                        "imageURL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest/scale-to-width-down/30?cb=20230722075044"
+                    }
+                ],
+                "duration": [
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 month ago\"",
+                    "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
+                ],
+                "isExpired": true
+            },
             {
                 "code": "HSRHOYOFAIR2025",
                 "server": "All",
@@ -759,7 +892,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 weeks ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2473,7 +2606,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2494,7 +2627,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2515,7 +2648,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -2536,7 +2669,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"9 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"10 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3029,7 +3162,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3109,7 +3242,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3188,7 +3321,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3209,7 +3342,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3230,7 +3363,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3261,7 +3394,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3292,7 +3425,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3308,7 +3441,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3339,7 +3472,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 1 month ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 2 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3737,7 +3870,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 6 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 7 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
@@ -3852,7 +3985,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 7 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 8 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true
