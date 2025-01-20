@@ -43,6 +43,33 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2025-01-13"
             },
             {
+                "event": "Illia Travelogue",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Event_Illia_Travelogue.png/revision/latest/scale-to-width-down/250?cb=20250119184030",
+                "duration": [
+                    "January 15, 2025",
+                    "February 24, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Illia_Travelogue"
+            },
+            {
+                "event": "Nameless Honor 2025-01-15",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "January 15, 2025",
+                    "February 24, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-01-15"
+            },
+            {
                 "event": "Mem's Gift",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Event_Mem%27s_Gift.png/revision/latest/scale-to-width-down/250?cb=20250115234124",
                 "duration": [
@@ -56,7 +83,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Mem%27s_Gift"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Mirrored Universe",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Event_Cyclical_Extrapolation_Mirrored_Universe.png/revision/latest/scale-to-width-down/250?cb=20250119200007",
+                "duration": [
+                    "January 20, 2025",
+                    "January 27, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2025-01-20"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
