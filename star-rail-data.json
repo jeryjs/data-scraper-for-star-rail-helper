@@ -30,19 +30,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Express_Gift"
             },
             {
-                "event": "Cyclical Extrapolation: Journey's End",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Cyclical_Extrapolation_Journey%27s_End.png/revision/latest/scale-to-width-down/250?cb=20250112200005",
-                "duration": [
-                    "January 13, 2025",
-                    "January 20, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_The_Human_Comedy/Extrapolation/2025-01-13"
-            },
-            {
                 "event": "Illia Travelogue",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Event_Illia_Travelogue.png/revision/latest/scale-to-width-down/250?cb=20250119184030",
                 "duration": [
@@ -81,9 +68,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Mem%27s_Gift"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Cyclical Extrapolation: Mirrored Universe",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Event_Cyclical_Extrapolation_Mirrored_Universe.png/revision/latest/scale-to-width-down/250?cb=20250119200007",
@@ -94,10 +79,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2025-01-20"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
@@ -291,7 +277,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"2 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -322,7 +308,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -343,7 +329,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"3 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -364,7 +350,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -385,7 +371,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -406,7 +392,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -427,7 +413,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -448,7 +434,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -469,7 +455,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -490,7 +476,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"4 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -511,7 +497,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"5 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -532,7 +518,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"6 days ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 week ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": false
@@ -3764,7 +3750,7 @@
                     }
                 ],
                 "duration": [
-                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 3 months ago\"",
+                    "Discovered: <span class=\"text-tooltip hover-tooltip\" title=\"1 year, 4 months ago\"",
                     "<span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\""
                 ],
                 "isExpired": true

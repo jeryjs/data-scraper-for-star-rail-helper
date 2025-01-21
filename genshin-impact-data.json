@@ -86,20 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
-                "event": "Soulblaze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
-            },
-            {
                 "event": "Cherries Snow-Laden Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
                 "duration": [
@@ -112,6 +98,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
+            },
+            {
+                "event": "Soulblaze",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -140,19 +140,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
-            },
-            {
-                "event": "Emblem of Steadfast Valor",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Emblem_of_Steadfast_Valor.png/revision/latest/scale-to-width-down/250?cb=20250107041848",
-                "duration": [
-                    "January 09, 2025",
-                    "January 20, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Emblem_of_Steadfast_Valor"
             },
             {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
@@ -187,7 +174,7 @@
         "Upcoming": [
             {
                 "event": "May Fortune Find You: Spring's Premonition",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/May_Fortune_Find_You_Spring%27s_Premonition.png/revision/latest/scale-to-width-down/250?cb=20241220131751",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/May_Fortune_Find_You_Spring%27s_Premonition.png/revision/latest/scale-to-width-down/250?cb=20250120040122",
                 "duration": [
                     "January 22, 2025",
                     "February 11, 2025"
