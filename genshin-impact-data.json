@@ -86,20 +86,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
             },
             {
-                "event": "Cherries Snow-Laden Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
-            },
-            {
                 "event": "Soulblaze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
                 "duration": [
@@ -112,6 +98,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
+            },
+            {
+                "event": "Cherries Snow-Laden Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -169,9 +169,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/On_the_Trail_of_Behemoths"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "May Fortune Find You: Spring's Premonition",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/May_Fortune_Find_You_Spring%27s_Premonition.png/revision/latest/scale-to-width-down/250?cb=20250120040122",
@@ -184,9 +182,11 @@
                     "Login",
                     "Mail"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2025-01-22"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Springtime Charms",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Springtime_Charms.png/revision/latest/scale-to-width-down/250?cb=20241220131746",
