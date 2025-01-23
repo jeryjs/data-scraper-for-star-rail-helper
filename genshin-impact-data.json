@@ -44,48 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
-                "event": "Test Run - Mavuika, Citlali, Bennett, Diona",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Test_Run_-_Mavuika%2C_Citlali%2C_Bennett%2C_Diona.png/revision/latest/scale-to-width-down/250?cb=20250101214931",
-                "duration": [
-                    "January 01, 2025",
-                    "January 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-01-01"
-            },
-            {
-                "event": "As the Blazing Sun",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/As_the_Blazing_Sun_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043045",
-                "duration": [
-                    "January 01, 2025",
-                    "January 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/As_the_Blazing_Sun_(Event)"
-            },
-            {
-                "event": "Memories Flowing With Color",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Memories_Flowing_With_Color_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043043",
-                "duration": [
-                    "January 01, 2025",
-                    "January 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Memories_Flowing_With_Color_(Event)"
-            },
-            {
                 "event": "Soulblaze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
                 "duration": [
@@ -189,7 +147,7 @@
         "Upcoming": [
             {
                 "event": "Springtime Charms",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Springtime_Charms.png/revision/latest/scale-to-width-down/250?cb=20241220131746",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Springtime_Charms.png/revision/latest/scale-to-width-down/250?cb=20250122040721",
                 "duration": [
                     "January 24, 2025",
                     "February 09, 2025"

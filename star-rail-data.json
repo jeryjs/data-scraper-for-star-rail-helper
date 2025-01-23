@@ -70,6 +70,20 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Mem%27s_Gift"
             },
             {
+                "event": "Gift of Odyssey 2025-01-15",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Event_Gift_of_Odyssey_2025-01-15.png/revision/latest/scale-to-width-down/250?cb=20250122225659",
+                "duration": [
+                    "January 15, 2025",
+                    "February 25, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-01-15"
+            },
+            {
                 "event": "Cyclical Extrapolation: Mirrored Universe",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Event_Cyclical_Extrapolation_Mirrored_Universe.png/revision/latest/scale-to-width-down/250?cb=20250119200007",
                 "duration": [
@@ -81,6 +95,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Extrapolation/2025-01-20"
+            },
+            {
+                "event": "Hypogeum Enigma",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Event_Hypogeum_Enigma.png/revision/latest/scale-to-width-down/250?cb=20250122215345",
+                "duration": [
+                    "January 22, 2025",
+                    "February 24, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Hypogeum_Enigma"
             }
         ],
         "Upcoming": [],
