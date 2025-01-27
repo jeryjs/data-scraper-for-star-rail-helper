@@ -44,20 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
-                "event": "Soulblaze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
-            },
-            {
                 "event": "Cherries Snow-Laden Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
                 "duration": [
@@ -70,6 +56,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
+            },
+            {
+                "event": "Soulblaze",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -170,6 +170,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Springtime_Charms"
+            },
+            {
+                "event": "Rattan Immortals",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Rattan_Immortals.png/revision/latest/scale-to-width-down/250?cb=20250126112446",
+                "duration": [
+                    "January 26, 2025",
+                    "February 09, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Rattan_Immortals"
             }
         ],
         "Upcoming": [
