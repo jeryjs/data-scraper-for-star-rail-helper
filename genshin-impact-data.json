@@ -44,20 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
-                "event": "Cherries Snow-Laden Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
-            },
-            {
                 "event": "Soulblaze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
                 "duration": [
@@ -70,6 +56,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
+            },
+            {
+                "event": "Cherries Snow-Laden Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
+                "duration": [
+                    "January 01, 2025",
+                    "February 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
             },
             {
                 "event": "Incandescent Ode of Resurrection",
@@ -98,35 +98,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
-            },
-            {
-                "event": "Heated Battle Mode: Sprinting Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Heated_Battle_Mode_Sprinting_Stratagems_2025-01-11.png/revision/latest/scale-to-width-down/250?cb=20250109134823",
-                "duration": [
-                    "January 11, 2025",
-                    "January 27, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-01-11"
-            },
-            {
-                "event": "On the Trail of Behemoths",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/On_the_Trail_of_Behemoths.png/revision/latest/scale-to-width-down/250?cb=20250112040800",
-                "duration": [
-                    "January 14, 2025",
-                    "January 27, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Challenge",
-                    "Co-Op"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/On_the_Trail_of_Behemoths"
             },
             {
                 "event": "Test Run - Arlecchino, Clorinde, Lan Yan, Chevreuse, Rosaria",
