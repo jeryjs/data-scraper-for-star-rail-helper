@@ -389,69 +389,6 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "GISpecialProgram54",
-                "server": "America, Europe, Asia, TW/HK/Macao",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mystic Enhancement Ore",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
-                    }
-                ],
-                "duration": [
-                    "Discovered: January 24, 2025",
-                    "Valid until: January 27, 2025"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "Mizuki0212Mizuki",
-                "server": "America, Europe, Asia, TW/HK/Macao",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: January 24, 2025",
-                    "Valid until: January 27, 2025"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "AisaBathhouse",
-                "server": "America, Europe, Asia, TW/HK/Macao",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "100",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "50,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    }
-                ],
-                "duration": [
-                    "Discovered: January 24, 2025",
-                    "Valid until: January 27, 2025"
-                ],
-                "isExpired": false
-            },
-            {
                 "code": "HNYM49IX9PDS",
                 "server": "All",
                 "rewards": [
@@ -468,7 +405,7 @@
                 ],
                 "duration": [
                     "Discovered: January 5, 2025",
-                    "Notes: Using any of the codes will render the other(s) unusable."
+                    "Valid until: March 6, 2025"
                 ],
                 "isExpired": false
             },
