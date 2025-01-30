@@ -389,6 +389,42 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "GS54MTX685",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "30,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Guide to Transience",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Guide_to_Transience.png/revision/latest/scale-to-width-down/20?cb=20210721030109"
+                    },
+                    {
+                        "name": "Mystic Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073921"
+                    },
+                    {
+                        "name": "Vayuda Turquoise Sliver",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png/revision/latest/scale-to-width-down/20?cb=20210106074904"
+                    }
+                ],
+                "duration": [
+                    "Discovered: January 28, 2025",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "HNYM49IX9PDS",
                 "server": "All",
                 "rewards": [
