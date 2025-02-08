@@ -171,10 +171,24 @@
         ],
         "Upcoming": [
             {
+                "event": "Travelers' Tales: Anthology Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Travelers%27_Tales_Anthology_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250124132014",
+                "duration": [
+                    "February 11, 2025",
+                    "March 25, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales:_Anthology_Chapter"
+            },
+            {
                 "event": "Enchanted Tales of the Mikawa Festival",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Enchanted_Tales_of_the_Mikawa_Festival.png/revision/latest/scale-to-width-down/250?cb=20250124132006",
                 "duration": [
-                    "TBA"
+                    "February 14, 2025",
+                    "March 03, 2025"
                 ],
                 "type": [
                     "In-Game",
@@ -187,7 +201,8 @@
                 "event": "Realm of Tempered Valor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Realm_of_Tempered_Valor.png/revision/latest/scale-to-width-down/250?cb=20250124132010",
                 "duration": [
-                    "TBA"
+                    "February 24, 2025",
+                    "March 10, 2025"
                 ],
                 "type": [
                     "In-Game"
@@ -196,34 +211,11 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Realm_of_Tempered_Valor"
             },
             {
-                "event": "Reel Ad-Venture",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Reel_Ad-Venture.png/revision/latest/scale-to-width-down/250?cb=20250124132012",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Reel_Ad-Venture"
-            },
-            {
-                "event": "Ley Line Overflow 2024-12-23",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/5.4"
-            },
-            {
                 "event": "Invasive Fish Wrangler",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Invasive_Fish_Wrangler.png/revision/latest/scale-to-width-down/250?cb=20250124132008",
                 "duration": [
-                    "TBA"
+                    "March 05, 2025",
+                    "March 17, 2025"
                 ],
                 "type": [
                     "In-Game",
@@ -233,16 +225,30 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Invasive_Fish_Wrangler"
             },
             {
-                "event": "Travelers' Tales: Anthology Chapter",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Travelers%27_Tales_Anthology_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250124132014",
+                "event": "Reel Ad-Venture",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Reel_Ad-Venture.png/revision/latest/scale-to-width-down/250?cb=20250124132012",
                 "duration": [
-                    "TBA"
+                    "March 12, 2025",
+                    "March 24, 2025"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales:_Anthology_Chapter"
+                "page": "https://genshin-impact.fandom.com/wiki/Reel_Ad-Venture"
+            },
+            {
+                "event": "Ley Line Overflow 2025-03-17",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "March 17, 2025",
+                    "March 24, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-03-17"
             }
         ],
         "Permanent": [
@@ -388,6 +394,27 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "11KU0MNDK2RG",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "60",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 7, 2025",
+                    ""
+                ],
+                "isExpired": false
+            },
             {
                 "code": "GS54MTX685",
                 "server": "All",
