@@ -44,34 +44,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
             },
             {
-                "event": "Soulblaze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Battle_Pass_Soulblaze.png/revision/latest/scale-to-width-down/250?cb=20241230043331",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Soulblaze"
-            },
-            {
-                "event": "Cherries Snow-Laden Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Cherries_Snow-Laden_Discount.png/revision/latest/scale-to-width-down/250?cb=20241230043047",
-                "duration": [
-                    "January 01, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Cherries_Snow-Laden_Discount"
-            },
-            {
                 "event": "Incandescent Ode of Resurrection",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Incandescent_Ode_of_Resurrection_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043041",
                 "duration": [
@@ -127,54 +99,42 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2025-01-22"
-            },
-            {
-                "event": "Springtime Charms",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Springtime_Charms.png/revision/latest/scale-to-width-down/250?cb=20250122040721",
-                "duration": [
-                    "January 24, 2025",
-                    "February 09, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Springtime_Charms"
-            },
-            {
-                "event": "Rattan Immortals",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Rattan_Immortals.png/revision/latest/scale-to-width-down/250?cb=20250126112446",
-                "duration": [
-                    "January 26, 2025",
-                    "February 09, 2025"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Rattan_Immortals"
-            },
-            {
-                "event": "Overflowing Abundance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20250201041900",
-                "duration": [
-                    "February 03, 2025",
-                    "February 10, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance"
             }
         ],
         "Upcoming": [
             {
-                "event": "Travelers' Tales: Anthology Chapter",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Travelers%27_Tales_Anthology_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250124132014",
+                "event": "Tapirus Somniator Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
                 "duration": [
-                    "February 11, 2025",
+                    "February 12, 2025",
+                    "March 04, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Tapirus_Somniator_Chapter_(Event)"
+            },
+            {
+                "event": "Wondrous Reverie",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Battle_Pass_Wondrous_Reverie.png/revision/latest/scale-to-width-down/250?cb=20250210040901",
+                "duration": [
+                    "February 12, 2025",
+                    "March 24, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Wondrous_Reverie"
+            },
+            {
+                "event": "Travelers' Tales: Anthology Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Travelers%27_Tales_Anthology_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250210040842",
+                "duration": [
+                    "February 12, 2025",
                     "March 25, 2025"
                 ],
                 "type": [
@@ -182,6 +142,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales:_Anthology_Chapter"
+            },
+            {
+                "event": "The Forge Realm's Temper: Clever Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/The_Forge_Realm%27s_Temper_Clever_Stratagems_2025-02-12.png/revision/latest/scale-to-width-down/250?cb=20250210040858",
+                "duration": [
+                    "February 12, 2025",
+                    "March 26, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-02-12"
             },
             {
                 "event": "Enchanted Tales of the Mikawa Festival",
