@@ -16,89 +16,17 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Concert/GENSHIN_CONCERT_2024_%22Melodies_of_an_Endless_Journey%22"
             },
             {
-                "event": "Facing the Windborne Cliff and City of Flowing Ash",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Facing_the_Windborne_Cliff_and_City_of_Flowing_Ash_Event.png/revision/latest/scale-to-width-down/250?cb=20241118040745",
+                "event": "Version 5.4 \"Event Calendar\"",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Version_5.4_Event_Calendar_Event.png/revision/latest/scale-to-width-down/250?cb=20250210203957",
                 "duration": [
-                    "November 20, 2024",
-                    "February 11, 2025"
+                    "February 07, 2025",
+                    "February 19, 2025"
                 ],
                 "type": [
-                    "In-Game",
-                    "Exploration Mission"
+                    "Web"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Facing_the_Windborne_Cliff_and_City_of_Flowing_Ash_(Event)"
-            },
-            {
-                "event": "\"Wings of Fate's Course Intertwined\" Wind Glider Issuance Details",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Wings_of_Fate%27s_Course_Intertwined_Wind_Glider_Issuance_Details.png/revision/latest/scale-to-width-down/250?cb=20241108162952",
-                "duration": [
-                    "November 20, 2024",
-                    "February 12, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Mail"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Wings_of_Fate%27s_Course_Intertwined%22_Wind_Glider_Issuance_Details"
-            },
-            {
-                "event": "Incandescent Ode of Resurrection",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Incandescent_Ode_of_Resurrection_Event.png/revision/latest/scale-to-width-down/250?cb=20241230043041",
-                "duration": [
-                    "January 01, 2025",
-                    "February 11, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Incandescent_Ode_of_Resurrection_(Event)"
-            },
-            {
-                "event": "The Forge Realm's Temper: Game of Wits",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-01-01.png/revision/latest/scale-to-width-down/250?cb=20241230043049",
-                "duration": [
-                    "January 01, 2025",
-                    "February 12, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-01-01"
-            },
-            {
-                "event": "Test Run - Arlecchino, Clorinde, Lan Yan, Chevreuse, Rosaria",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Test_Run_-_Arlecchino%2C_Clorinde%2C_Lan_Yan%2C_Chevreuse%2C_Rosaria.png/revision/latest/scale-to-width-down/250?cb=20250124104135",
-                "duration": [
-                    "January 21, 2025",
-                    "February 11, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-01-21"
-            },
-            {
-                "event": "May Fortune Find You: Spring's Premonition",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/May_Fortune_Find_You_Spring%27s_Premonition.png/revision/latest/scale-to-width-down/250?cb=20250120040122",
-                "duration": [
-                    "January 22, 2025",
-                    "February 11, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login",
-                    "Mail"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2025-01-22"
+                "page": "https://genshin-impact.fandom.com/wiki/Version_5.4_%22Event_Calendar%22"
             }
         ],
         "Upcoming": [
