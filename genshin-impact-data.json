@@ -27,9 +27,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Version_5.4_%22Event_Calendar%22"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Tapirus Somniator Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
@@ -41,7 +39,7 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Tapirus_Somniator_Chapter_(Event)"
             },
             {
@@ -55,7 +53,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Wondrous_Reverie"
             },
             {
@@ -68,7 +66,7 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales:_Anthology_Chapter"
             },
             {
@@ -82,12 +80,28 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-02-12"
             },
             {
+                "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Test_Run_-_Yumemizuki_Mizuki%2C_Sigewinne%2C_Gorou%2C_Sayu.png/revision/latest/scale-to-width-down/250?cb=20250212085107",
+                "duration": [
+                    "February 11, 2025",
+                    "March 04, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
+            }
+        ],
+        "Upcoming": [
+            {
                 "event": "Enchanted Tales of the Mikawa Festival",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Enchanted_Tales_of_the_Mikawa_Festival.png/revision/latest/scale-to-width-down/250?cb=20250124132006",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Enchanted_Tales_of_the_Mikawa_Festival.png/revision/latest/scale-to-width-down/250?cb=20250212062753",
                 "duration": [
                     "February 14, 2025",
                     "March 03, 2025"
@@ -371,42 +385,6 @@
                 "duration": [
                     "Discovered: January 5, 2025",
                     "Valid until: March 6, 2025"
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "WEAV365PI953",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Withering Purpurbloom",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest/scale-to-width-down/20?cb=20241118063118"
-                    },
-                    {
-                        "name": "Quenepa Berry",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Quenepa_Berry.png/revision/latest/scale-to-width-down/20?cb=20240826125020"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "10,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "10",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    },
-                    {
-                        "name": "Fine Enhancement Ore",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
-                    }
-                ],
-                "duration": [
-                    "Discovered: December 31, 2024",
-                    ""
                 ],
                 "isExpired": false
             },
