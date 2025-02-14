@@ -29,6 +29,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Version_5.4_%22Event_Calendar%22"
             },
             {
+                "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Test_Run_-_Yumemizuki_Mizuki%2C_Sigewinne%2C_Gorou%2C_Sayu.png/revision/latest/scale-to-width-down/250?cb=20250212085107",
+                "duration": [
+                    "February 12, 2025",
+                    "March 04, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
+            },
+            {
                 "event": "Tapirus Somniator Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
                 "duration": [
@@ -81,21 +95,7 @@
                     "The Forge Realm's Temper"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2024-02-12"
-            },
-            {
-                "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Test_Run_-_Yumemizuki_Mizuki%2C_Sigewinne%2C_Gorou%2C_Sayu.png/revision/latest/scale-to-width-down/250?cb=20250212085107",
-                "duration": [
-                    "February 11, 2025",
-                    "March 04, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-02-12"
             }
         ],
         "Upcoming": [
