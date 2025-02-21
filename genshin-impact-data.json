@@ -16,17 +16,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Concert/GENSHIN_CONCERT_2024_%22Melodies_of_an_Endless_Journey%22"
             },
             {
-                "event": "Version 5.4 \"Event Calendar\"",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Version_5.4_Event_Calendar_Event.png/revision/latest/scale-to-width-down/250?cb=20250210203957",
+                "event": "Tapirus Somniator Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
                 "duration": [
-                    "February 07, 2025",
-                    "February 19, 2025"
+                    "February 12, 2025",
+                    "March 04, 2025"
                 ],
                 "type": [
-                    "Web"
+                    "In-Game",
+                    "Story Quest"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Version_5.4_%22Event_Calendar%22"
+                "page": "https://genshin-impact.fandom.com/wiki/Tapirus_Somniator_Chapter_(Event)"
             },
             {
                 "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
@@ -41,20 +42,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
-            },
-            {
-                "event": "Tapirus Somniator Chapter",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
-                "duration": [
-                    "February 12, 2025",
-                    "March 04, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Tapirus_Somniator_Chapter_(Event)"
             },
             {
                 "event": "Wondrous Reverie",
