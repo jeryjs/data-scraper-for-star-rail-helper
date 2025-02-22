@@ -97,9 +97,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Enchanted_Tales_of_the_Mikawa_Festival"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Automatic Artistry",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Heated_Battle_Mode_Automatic_Artistry_2025-02-21.png/revision/latest/scale-to-width-down/250?cb=20250218050043",
@@ -111,9 +109,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-02-21"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Realm of Tempered Valor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Realm_of_Tempered_Valor.png/revision/latest/scale-to-width-down/250?cb=20250124132010",
