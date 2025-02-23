@@ -116,7 +116,7 @@
         "Upcoming": [
             {
                 "event": "Realm of Tempered Valor",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Realm_of_Tempered_Valor.png/revision/latest/scale-to-width-down/250?cb=20250124132010",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Realm_of_Tempered_Valor.png/revision/latest/scale-to-width-down/250?cb=20250222040213",
                 "duration": [
                     "February 24, 2025",
                     "March 10, 2025"
@@ -311,6 +311,37 @@
     },
     "Codes": {
         "activeCodes": [
+            {
+                "code": "POKAPOKAGENSHIN",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Sea Ganoderma",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png/revision/latest/scale-to-width-down/20?cb=20210610205502"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    },
+                    {
+                        "name": "Dreams of Healing",
+                        "amount": "",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Dreams_of_Healing.png/revision/latest/scale-to-width-down/20?cb=20250212073921"
+                    },
+                    {
+                        "name": "Kageuchi Handguard",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png/revision/latest/scale-to-width-down/20?cb=20210721030121"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 21, 2025",
+                    "Valid until: March 23, 2025"
+                ],
+                "isExpired": false
+            },
             {
                 "code": "RB5PPN4BV355",
                 "server": "All",
