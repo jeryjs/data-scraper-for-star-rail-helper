@@ -312,6 +312,83 @@
     "Codes": {
         "activeCodes": [
             {
+                "code": "XA4N66LAC349",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "20,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Fruit-Flavored Milk Candies",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Fruit-Flavored_Milk_Candies.png/revision/latest/scale-to-width-down/20?cb=20241009022753"
+                    },
+                    {
+                        "name": "Dreams of Healing",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Dreams_of_Healing.png/revision/latest/scale-to-width-down/20?cb=20250212073921"
+                    },
+                    {
+                        "name": "Impeccably Organized",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Impeccably_Organized.png/revision/latest/scale-to-width-down/20?cb=20240828173142"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 26, 2025",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "7B476N4TDJ6V",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Mora",
+                        "amount": "20,000",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
+                    },
+                    {
+                        "name": "Crepes Suzette",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Crepes_Suzette.png/revision/latest/scale-to-width-down/20?cb=20231002072041"
+                    },
+                    {
+                        "name": "Cold Cut Platter",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Cold_Cut_Platter.png/revision/latest/scale-to-width-down/20?cb=20210416221537"
+                    },
+                    {
+                        "name": "Tea Break Pancake",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Tea_Break_Pancake.png/revision/latest/scale-to-width-down/20?cb=20210417154511"
+                    },
+                    {
+                        "name": "Matsutake Meat Rolls",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Item_Matsutake_Meat_Rolls.png/revision/latest/scale-to-width-down/20?cb=20210415135143"
+                    },
+                    {
+                        "name": "Sparkling Berry Juice",
+                        "amount": "1",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Sparkling_Berry_Juice.png/revision/latest/scale-to-width-down/20?cb=20220929193634"
+                    },
+                    {
+                        "name": "Teyvat Fried Egg",
+                        "amount": "2",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Teyvat_Fried_Egg.png/revision/latest/scale-to-width-down/20?cb=20210416223215"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 25, 2025",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
                 "code": "POKAPOKAGENSHIN",
                 "server": "All",
                 "rewards": [
@@ -327,7 +404,7 @@
                     },
                     {
                         "name": "Dreams of Healing",
-                        "amount": "",
+                        "amount": "1",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Dreams_of_Healing.png/revision/latest/scale-to-width-down/20?cb=20250212073921"
                     },
                     {
@@ -363,7 +440,7 @@
                     },
                     {
                         "name": "Adventurer's Experience",
-                        "amount": "",
+                        "amount": "1",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
                     }
                 ],
