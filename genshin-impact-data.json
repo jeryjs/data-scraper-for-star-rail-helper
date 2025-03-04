@@ -16,20 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Concert/GENSHIN_CONCERT_2024_%22Melodies_of_an_Endless_Journey%22"
             },
             {
-                "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Test_Run_-_Yumemizuki_Mizuki%2C_Sigewinne%2C_Gorou%2C_Sayu.png/revision/latest/scale-to-width-down/250?cb=20250212085107",
-                "duration": [
-                    "February 12, 2025",
-                    "March 04, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
-            },
-            {
                 "event": "Tapirus Somniator Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
                 "duration": [
@@ -42,6 +28,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Tapirus_Somniator_Chapter_(Event)"
+            },
+            {
+                "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Test_Run_-_Yumemizuki_Mizuki%2C_Sigewinne%2C_Gorou%2C_Sayu.png/revision/latest/scale-to-width-down/250?cb=20250212085107",
+                "duration": [
+                    "February 12, 2025",
+                    "March 04, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
             },
             {
                 "event": "Wondrous Reverie",
@@ -85,20 +85,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-02-12"
             },
             {
-                "event": "Enchanted Tales of the Mikawa Festival",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Enchanted_Tales_of_the_Mikawa_Festival.png/revision/latest/scale-to-width-down/250?cb=20250212062753",
-                "duration": [
-                    "February 14, 2025",
-                    "March 03, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Enchanted_Tales_of_the_Mikawa_Festival"
-            },
-            {
                 "event": "Heated Battle Mode: Automatic Artistry",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Heated_Battle_Mode_Automatic_Artistry_2025-02-21.png/revision/latest/scale-to-width-down/250?cb=20250218050043",
                 "duration": [
@@ -129,7 +115,7 @@
         "Upcoming": [
             {
                 "event": "Invasive Fish Wrangler",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Invasive_Fish_Wrangler.png/revision/latest/scale-to-width-down/250?cb=20250124132008",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Invasive_Fish_Wrangler.png/revision/latest/scale-to-width-down/250?cb=20250303040141",
                 "duration": [
                     "March 05, 2025",
                     "March 17, 2025"
