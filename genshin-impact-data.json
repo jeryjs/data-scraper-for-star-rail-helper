@@ -16,34 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Concert/GENSHIN_CONCERT_2024_%22Melodies_of_an_Endless_Journey%22"
             },
             {
-                "event": "Tapirus Somniator Chapter",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Tapirus_Somniator_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250210040856",
-                "duration": [
-                    "February 12, 2025",
-                    "March 04, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Tapirus_Somniator_Chapter_(Event)"
-            },
-            {
-                "event": "Test Run - Yumemizuki Mizuki, Sigewinne, Gorou, Sayu",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Test_Run_-_Yumemizuki_Mizuki%2C_Sigewinne%2C_Gorou%2C_Sayu.png/revision/latest/scale-to-width-down/250?cb=20250212085107",
-                "duration": [
-                    "February 12, 2025",
-                    "March 04, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-02-12"
-            },
-            {
                 "event": "Wondrous Reverie",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Battle_Pass_Wondrous_Reverie.png/revision/latest/scale-to-width-down/250?cb=20250210040901",
                 "duration": [
@@ -110,9 +82,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Realm_of_Tempered_Valor"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Invasive Fish Wrangler",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Invasive_Fish_Wrangler.png/revision/latest/scale-to-width-down/250?cb=20250303040141",
@@ -124,9 +94,11 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Invasive_Fish_Wrangler"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Reel Ad-Venture",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Reel_Ad-Venture.png/revision/latest/scale-to-width-down/250?cb=20250124132012",
