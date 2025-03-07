@@ -378,6 +378,50 @@
                 "isExpired": false
             },
             {
+                "code": "11KU0MNDK2RG",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "60",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Adventurer's Experience",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
+                    }
+                ],
+                "duration": [
+                    "Discovered: February 7, 2025",
+                    ""
+                ],
+                "isExpired": false
+            },
+            {
+                "code": "GENSHINGIFT",
+                "server": "All",
+                "rewards": [
+                    {
+                        "name": "Primogem",
+                        "amount": "50",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
+                    },
+                    {
+                        "name": "Hero's Wit",
+                        "amount": "3",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
+                    }
+                ],
+                "duration": [
+                    "Discovered: November 10, 2020",
+                    "Valid: (indefinite)"
+                ],
+                "isExpired": false
+            }
+        ],
+        "expiredCodes": [
+            {
                 "code": "RB5PPN4BV355",
                 "server": "All",
                 "rewards": [
@@ -404,30 +448,9 @@
                 ],
                 "duration": [
                     "Discovered: February 17, 2025",
-                    ""
+                    "Expired: March 3, 2025"
                 ],
-                "isExpired": false
-            },
-            {
-                "code": "11KU0MNDK2RG",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "60",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: February 7, 2025",
-                    ""
-                ],
-                "isExpired": false
+                "isExpired": true
             },
             {
                 "code": "HNYM49IX9PDS",
@@ -446,32 +469,10 @@
                 ],
                 "duration": [
                     "Discovered: January 5, 2025",
-                    "Valid until: March 6, 2025"
+                    "Expired: March 5, 2025"
                 ],
-                "isExpired": false
-            },
-            {
-                "code": "GENSHINGIFT",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "50",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Hero's Wit",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/20?cb=20201116222208"
-                    }
-                ],
-                "duration": [
-                    "Discovered: November 10, 2020",
-                    "Valid: (indefinite)"
-                ],
-                "isExpired": false
+                "isExpired": true
             }
-        ],
-        "expiredCodes": []
+        ]
     }
 }
