@@ -270,79 +270,38 @@
     "Codes": {
         "activeCodes": [
             {
-                "code": "XA4N66LAC349",
+                "code": "JRCB867O8KT3",
                 "server": "All",
                 "rewards": [
                     {
                         "name": "Mora",
-                        "amount": "20,000",
+                        "amount": "10,000",
                         "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
                     },
                     {
-                        "name": "Fruit-Flavored Milk Candies",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Fruit-Flavored_Milk_Candies.png/revision/latest/scale-to-width-down/20?cb=20241009022753"
+                        "name": "Adventurer's Experience",
+                        "amount": "10",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
                     },
                     {
-                        "name": "Dreams of Healing",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Dreams_of_Healing.png/revision/latest/scale-to-width-down/20?cb=20250212073921"
+                        "name": "Fine Enhancement Ore",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest/scale-to-width-down/20?cb=20210106073916"
                     },
                     {
-                        "name": "Impeccably Organized",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Impeccably_Organized.png/revision/latest/scale-to-width-down/20?cb=20240828173142"
+                        "name": "Stir-Fried Fish Noodles",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest/scale-to-width-down/20?cb=20210428163030"
+                    },
+                    {
+                        "name": "Jueyun Chili Chicken",
+                        "amount": "5",
+                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/20?cb=20210415134823"
                     }
                 ],
                 "duration": [
-                    "Discovered: February 26, 2025",
-                    ""
-                ],
-                "isExpired": false
-            },
-            {
-                "code": "7B476N4TDJ6V",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Mora",
-                        "amount": "20,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Crepes Suzette",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Crepes_Suzette.png/revision/latest/scale-to-width-down/20?cb=20231002072041"
-                    },
-                    {
-                        "name": "Cold Cut Platter",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Cold_Cut_Platter.png/revision/latest/scale-to-width-down/20?cb=20210416221537"
-                    },
-                    {
-                        "name": "Tea Break Pancake",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Tea_Break_Pancake.png/revision/latest/scale-to-width-down/20?cb=20210417154511"
-                    },
-                    {
-                        "name": "Matsutake Meat Rolls",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Item_Matsutake_Meat_Rolls.png/revision/latest/scale-to-width-down/20?cb=20210415135143"
-                    },
-                    {
-                        "name": "Sparkling Berry Juice",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Sparkling_Berry_Juice.png/revision/latest/scale-to-width-down/20?cb=20220929193634"
-                    },
-                    {
-                        "name": "Teyvat Fried Egg",
-                        "amount": "2",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Teyvat_Fried_Egg.png/revision/latest/scale-to-width-down/20?cb=20210416223215"
-                    }
-                ],
-                "duration": [
-                    "Discovered: February 25, 2025",
-                    ""
+                    "Discovered: March 8, 2025",
+                    "Valid: (indefinite)"
                 ],
                 "isExpired": false
             },
@@ -420,59 +379,6 @@
                 "isExpired": false
             }
         ],
-        "expiredCodes": [
-            {
-                "code": "RB5PPN4BV355",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "30",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Sea Ganoderma",
-                        "amount": "3",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png/revision/latest/scale-to-width-down/20?cb=20210610205502"
-                    },
-                    {
-                        "name": "Mora",
-                        "amount": "20,000",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/20?cb=20210106073715"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "1",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: February 17, 2025",
-                    "Expired: March 3, 2025"
-                ],
-                "isExpired": true
-            },
-            {
-                "code": "HNYM49IX9PDS",
-                "server": "All",
-                "rewards": [
-                    {
-                        "name": "Primogem",
-                        "amount": "60",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/20?cb=20201117071158"
-                    },
-                    {
-                        "name": "Adventurer's Experience",
-                        "amount": "5",
-                        "imageURL": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/20?cb=20201116222310"
-                    }
-                ],
-                "duration": [
-                    "Discovered: January 5, 2025",
-                    "Expired: March 5, 2025"
-                ],
-                "isExpired": true
-            }
-        ]
+        "expiredCodes": []
     }
 }
