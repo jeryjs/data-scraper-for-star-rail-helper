@@ -71,19 +71,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-02-21"
             },
             {
-                "event": "Realm of Tempered Valor",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Realm_of_Tempered_Valor.png/revision/latest/scale-to-width-down/250?cb=20250222040213",
-                "duration": [
-                    "February 24, 2025",
-                    "March 10, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Realm_of_Tempered_Valor"
-            },
-            {
                 "event": "Invasive Fish Wrangler",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Invasive_Fish_Wrangler.png/revision/latest/scale-to-width-down/250?cb=20250303040141",
                 "duration": [
@@ -96,12 +83,25 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Invasive_Fish_Wrangler"
+            },
+            {
+                "event": "Song of the Welkin Moon",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Song_of_the_Welkin_Moon.png/revision/latest/scale-to-width-down/250?cb=20250310011823",
+                "duration": [
+                    "March 10, 2025",
+                    "May 10, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Song_of_the_Welkin_Moon"
             }
         ],
         "Upcoming": [
             {
                 "event": "Reel Ad-Venture",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Reel_Ad-Venture.png/revision/latest/scale-to-width-down/250?cb=20250124132012",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Reel_Ad-Venture.png/revision/latest/scale-to-width-down/250?cb=20250310040120",
                 "duration": [
                     "March 12, 2025",
                     "March 24, 2025"
