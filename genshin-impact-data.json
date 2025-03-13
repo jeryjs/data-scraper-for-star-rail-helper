@@ -96,9 +96,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Song_of_the_Welkin_Moon"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Reel Ad-Venture",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Reel_Ad-Venture.png/revision/latest/scale-to-width-down/250?cb=20250310040120",
@@ -109,9 +107,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Reel_Ad-Venture"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Ley Line Overflow 2025-03-17",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
