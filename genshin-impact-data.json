@@ -124,6 +124,87 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-03-17"
+            },
+            {
+                "event": "Tournament of Glory in Bloom",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Tournament_of_Glory_in_Bloom.png/revision/latest/scale-to-width-down/250?cb=20250314124459",
+                "duration": [
+                    "March 28, 2025",
+                    "April 14, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Tournament_of_Glory_in_Bloom"
+            },
+            {
+                "event": "Unlimited Fighting Championship",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Unlimited_Fighting_Championship.png/revision/latest/scale-to-width-down/250?cb=20250314124501",
+                "duration": [
+                    "April 07, 2025",
+                    "April 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Challenge"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Unlimited_Fighting_Championship"
+            },
+            {
+                "event": "Overflowing Favor",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250314124451",
+                "duration": [
+                    "April 14, 2025",
+                    "April 21, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor"
+            },
+            {
+                "event": "Quirky Quacking Arena",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Quirky_Quacking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250314124453",
+                "duration": [
+                    "April 21, 2025",
+                    "May 02, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Quirky_Quacking_Arena"
+            },
+            {
+                "event": "Rhythm Ball Meztli",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Rhythm_Ball_Meztli.png/revision/latest/scale-to-width-down/250?cb=20250314124455",
+                "duration": [
+                    "April 28, 2025",
+                    "May 06, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Rhythm_Ball_Meztli"
+            },
+            {
+                "event": "The Sacred Mountain and Sanctified Land",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/The_Sacred_Mountain_and_Sanctified_Land.png/revision/latest/scale-to-width-down/250?cb=20250314124457",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Exploration Mission"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
             }
         ],
         "Permanent": [
