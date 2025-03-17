@@ -71,6 +71,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-02-21"
             },
             {
+                "event": "Test Run - Furina, Wriothesley, Charlotte, Chongyun, Mika",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Test_Run_-_Furina%2C_Wriothesley%2C_Charlotte%2C_Chongyun%2C_Mika.png/revision/latest/scale-to-width-down/250?cb=20250316213149",
+                "duration": [
+                    "March 04, 2025",
+                    "March 25, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-03-04"
+            },
+            {
                 "event": "Invasive Fish Wrangler",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Invasive_Fish_Wrangler.png/revision/latest/scale-to-width-down/250?cb=20250303040141",
                 "duration": [
@@ -109,9 +123,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Reel_Ad-Venture"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Ley Line Overflow 2025-03-17",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
@@ -122,9 +134,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-03-17"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Tournament of Glory in Bloom",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Tournament_of_Glory_in_Bloom.png/revision/latest/scale-to-width-down/250?cb=20250314124459",
