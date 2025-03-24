@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "GENSHIN CONCERT 2024 \"Melodies of an Endless Journey\"",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/GENSHIN_CONCERT_2024_-_Melodies_of_an_Endless_Journey.png/revision/latest/scale-to-width-down/250?cb=20241209091755",
-                "duration": [
-                    "September 05, 2024",
-                    "March 22, 2025"
-                ],
-                "type": [
-                    "In-Person",
-                    "Live"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Genshin_Concert/GENSHIN_CONCERT_2024_%22Melodies_of_an_Endless_Journey%22"
-            },
-            {
                 "event": "Wondrous Reverie",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Battle_Pass_Wondrous_Reverie.png/revision/latest/scale-to-width-down/250?cb=20250210040901",
                 "duration": [
