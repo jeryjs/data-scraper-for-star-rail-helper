@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Travelers' Tales: Anthology Chapter",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Travelers%27_Tales_Anthology_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250210040842",
-                "duration": [
-                    "February 12, 2025",
-                    "March 25, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales:_Anthology_Chapter"
-            },
-            {
                 "event": "The Forge Realm's Temper: Clever Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/The_Forge_Realm%27s_Temper_Clever_Stratagems_2025-02-12.png/revision/latest/scale-to-width-down/250?cb=20250210040858",
                 "duration": [
@@ -27,20 +14,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-02-12"
-            },
-            {
-                "event": "Test Run - Furina, Wriothesley, Charlotte, Chongyun, Mika",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Test_Run_-_Furina%2C_Wriothesley%2C_Charlotte%2C_Chongyun%2C_Mika.png/revision/latest/scale-to-width-down/250?cb=20250316213149",
-                "duration": [
-                    "March 04, 2025",
-                    "March 25, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-03-04"
             },
             {
                 "event": "Song of the Welkin Moon",
