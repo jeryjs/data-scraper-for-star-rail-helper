@@ -2,20 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "The Forge Realm's Temper: Clever Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/The_Forge_Realm%27s_Temper_Clever_Stratagems_2025-02-12.png/revision/latest/scale-to-width-down/250?cb=20250210040858",
-                "duration": [
-                    "February 12, 2025",
-                    "March 26, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-02-12"
-            },
-            {
                 "event": "Song of the Welkin Moon",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Song_of_the_Welkin_Moon.png/revision/latest/scale-to-width-down/250?cb=20250310011823",
                 "duration": [
@@ -27,9 +13,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Song_of_the_Welkin_Moon"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Mushroom Realm Mystery",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Mushroom_Realm_Mystery_Event.png/revision/latest/scale-to-width-down/250?cb=20250324041121",
@@ -41,8 +25,22 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mushroom_Realm_Mystery_(Event)"
+            },
+            {
+                "event": "Test Run - Varesa, Xianyun, Iansan, Chevreuse, Gaming",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Test_Run_-_Varesa%2C_Xianyun%2C_Iansan%2C_Chevreuse%2C_Gaming.png/revision/latest/scale-to-width-down/250?cb=20250326020802",
+                "duration": [
+                    "March 26, 2025",
+                    "April 15, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-03-26"
             },
             {
                 "event": "Floral Odyssey",
@@ -55,7 +53,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Floral_Odyssey"
             },
             {
@@ -69,7 +67,7 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-03-26"
             },
             {
@@ -83,9 +81,25 @@
                     "In-Game",
                     "Exploration Mission"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
             },
+            {
+                "event": "A \"Tranquil\" Day",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/A_Tranquil_Day.png/revision/latest/scale-to-width-down/250?cb=20250326165754",
+                "duration": [
+                    "March 26, 2025",
+                    "April 08, 2025"
+                ],
+                "type": [
+                    "Web",
+                    "Character Release"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_%22Tranquil%22_Day"
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Tournament of Glory in Bloom",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Tournament_of_Glory_in_Bloom.png/revision/latest/scale-to-width-down/250?cb=20250314124459",
