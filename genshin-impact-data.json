@@ -97,12 +97,10 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_%22Tranquil%22_Day"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Tournament of Glory in Bloom",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Tournament_of_Glory_in_Bloom.png/revision/latest/scale-to-width-down/250?cb=20250314124459",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Tournament_of_Glory_in_Bloom.png/revision/latest/scale-to-width-down/250?cb=20250328134840",
                 "duration": [
                     "March 28, 2025",
                     "April 14, 2025"
@@ -111,9 +109,11 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Tournament_of_Glory_in_Bloom"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Unlimited Fighting Championship",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Unlimited_Fighting_Championship.png/revision/latest/scale-to-width-down/250?cb=20250314124501",
@@ -142,8 +142,8 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor"
             },
             {
-                "event": "Quirky Quacking Arena",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Quirky_Quacking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250314124453",
+                "event": "Quirky Quaking Arena",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Quirky_Quaking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250314124453",
                 "duration": [
                     "April 21, 2025",
                     "May 02, 2025"
@@ -153,7 +153,7 @@
                     "Co-Op"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Quirky_Quacking_Arena"
+                "page": "https://genshin-impact.fandom.com/wiki/Quirky_Quaking_Arena"
             },
             {
                 "event": "Rhythm Ball Meztli",
