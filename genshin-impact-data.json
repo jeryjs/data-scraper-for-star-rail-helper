@@ -111,9 +111,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Tournament_of_Glory_in_Bloom"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Heated_Battle_Mode_Tactical_Formation_2025-04-05.png/revision/latest/scale-to-width-down/250?cb=20250403205819",
@@ -125,12 +123,14 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-04-05"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Unlimited Fighting Championship",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Unlimited_Fighting_Championship.png/revision/latest/scale-to-width-down/250?cb=20250314124501",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Unlimited_Fighting_Championship.png/revision/latest/scale-to-width-down/250?cb=20250406005014",
                 "duration": [
                     "April 07, 2025",
                     "April 21, 2025"
