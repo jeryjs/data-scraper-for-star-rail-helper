@@ -125,9 +125,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-04-05"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Unlimited Fighting Championship",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Unlimited_Fighting_Championship.png/revision/latest/scale-to-width-down/250?cb=20250406005014",
@@ -139,9 +137,11 @@
                     "In-Game",
                     "Challenge"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Unlimited_Fighting_Championship"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Overflowing Favor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250314124451",
