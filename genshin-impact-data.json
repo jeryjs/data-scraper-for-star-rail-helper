@@ -85,20 +85,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
             },
             {
-                "event": "Tournament of Glory in Bloom",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Tournament_of_Glory_in_Bloom.png/revision/latest/scale-to-width-down/250?cb=20250328134840",
-                "duration": [
-                    "March 28, 2025",
-                    "April 14, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Tournament_of_Glory_in_Bloom"
-            },
-            {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Heated_Battle_Mode_Tactical_Formation_2025-04-05.png/revision/latest/scale-to-width-down/250?cb=20250403205819",
                 "duration": [
@@ -125,9 +111,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Unlimited_Fighting_Championship"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Overflowing Favor",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250412222200",
@@ -138,9 +122,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Quirky Quaking Arena",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Quirky_Quaking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250314124453",
