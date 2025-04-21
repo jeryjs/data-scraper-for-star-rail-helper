@@ -101,14 +101,15 @@
         "Upcoming": [
             {
                 "event": "Quirky Quaking Arena",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Quirky_Quaking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250314124453",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Quirky_Quaking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250420064735",
                 "duration": [
                     "April 21, 2025",
                     "May 02, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Co-Op"
+                    "Co-Op",
+                    "Trial"
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Quirky_Quaking_Arena"
