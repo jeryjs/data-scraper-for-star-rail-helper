@@ -57,48 +57,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
             },
             {
-                "event": "Heated Battle Mode: Tactical Formation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Heated_Battle_Mode_Tactical_Formation_2025-04-05.png/revision/latest/scale-to-width-down/250?cb=20250403205819",
+                "event": "Test Run - Xilonen, Venti, Faruzan, Yanfei, Beidou",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Test_Run_2025-04-15.png/revision/latest/scale-to-width-down/250?cb=20250421204303",
                 "duration": [
-                    "April 05, 2025",
-                    "April 21, 2025"
+                    "April 15, 2025",
+                    "May 06, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Heated Battle Mode"
+                    "Test Run"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-04-05"
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-04-15"
             },
-            {
-                "event": "Unlimited Fighting Championship",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Unlimited_Fighting_Championship.png/revision/latest/scale-to-width-down/250?cb=20250406005014",
-                "duration": [
-                    "April 07, 2025",
-                    "April 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Challenge"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Unlimited_Fighting_Championship"
-            },
-            {
-                "event": "Overflowing Favor",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250412222200",
-                "duration": [
-                    "April 14, 2025",
-                    "April 21, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor"
-            }
-        ],
-        "Upcoming": [
             {
                 "event": "Quirky Quaking Arena",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Quirky_Quaking_Arena.png/revision/latest/scale-to-width-down/250?cb=20250420064735",
@@ -111,9 +82,11 @@
                     "Co-Op",
                     "Trial"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Quirky_Quaking_Arena"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Rhythm Ball Meztli",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Rhythm_Ball_Meztli.png/revision/latest/scale-to-width-down/250?cb=20250314124455",
