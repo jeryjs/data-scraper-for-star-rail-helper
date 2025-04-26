@@ -99,6 +99,72 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Rhythm_Ball_Meztli"
+            },
+            {
+                "event": "Whirling Waltz",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Whirling_Waltz.png/revision/latest/scale-to-width-down/250?cb=20250425124708",
+                "duration": [
+                    "May 09, 2025",
+                    "May 26, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Whirling_Waltz"
+            },
+            {
+                "event": "Operation Downpour Simulation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Operation_Downpour_Simulation.png/revision/latest/scale-to-width-down/250?cb=20250425124705",
+                "duration": [
+                    "May 19, 2025",
+                    "June 03, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Operation_Downpour_Simulation"
+            },
+            {
+                "event": "Chronicle of Shifting Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Chronicle_of_Shifting_Stratagems.png/revision/latest/scale-to-width-down/250?cb=20250425124701",
+                "duration": [
+                    "May 27, 2025",
+                    "June 09, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Chronicle_of_Shifting_Stratagems"
+            },
+            {
+                "event": "Legends Ablaze: Cross-Border Brawl",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Legends_Ablaze_Cross-Border_Brawl.png/revision/latest/scale-to-width-down/250?cb=20250425124703",
+                "duration": [
+                    "June 05, 2025",
+                    "June 16, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Legends_Ablaze:_Cross-Border_Brawl"
+            },
+            {
+                "event": "Ley Line Overflow 2025-06-09",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "June 09, 2025",
+                    "June 16, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-06-09"
             }
         ],
         "Permanent": [
