@@ -84,9 +84,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Quirky_Quaking_Arena"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Rhythm Ball Meztli",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Rhythm_Ball_Meztli.png/revision/latest/scale-to-width-down/250?cb=20250426075333",
@@ -97,9 +95,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Rhythm_Ball_Meztli"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Whirling Waltz",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Whirling_Waltz.png/revision/latest/scale-to-width-down/250?cb=20250425124708",
