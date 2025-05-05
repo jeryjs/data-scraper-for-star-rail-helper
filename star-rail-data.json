@@ -145,9 +145,36 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Morning_Starlight"
+            },
+            {
+                "event": "Star Rail LIVE 2025",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Star_Rail_LIVE_2025_Artwork.png/revision/latest/scale-to-width-down/250?cb=20250328213939",
+                "duration": [
+                    "May 03, 2025",
+                    "May 17, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Concert/Star_Rail_LIVE_2025"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Sowing Seeds of Wisdom",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Event_Cyclical_Extrapolation_Sowing_Seeds_of_Wisdom.png/revision/latest/scale-to-width-down/250?cb=20250504200010",
+                "duration": [
+                    "May 05, 2025",
+                    "May 12, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-05"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
