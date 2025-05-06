@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Song_of_the_Welkin_Moon"
             },
             {
-                "event": "Floral Odyssey",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Battle_Pass_Floral_Odyssey.png/revision/latest/scale-to-width-down/250?cb=20250324041126",
-                "duration": [
-                    "March 26, 2025",
-                    "May 05, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Floral_Odyssey"
-            },
-            {
                 "event": "The Forge Realm's Temper: Endless Swarm",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/The_Forge_Realm%27s_Temper_Endless_Swarm_2025-03-26.png/revision/latest/scale-to-width-down/250?cb=20250324041124",
                 "duration": [
@@ -86,6 +72,48 @@
         ],
         "Upcoming": [
             {
+                "event": "Treasured Above All",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Treasured_Above_All_Event.png/revision/latest/scale-to-width-down/250?cb=20250505040817",
+                "duration": [
+                    "May 07, 2025",
+                    "May 27, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Treasured_Above_All_(Event)"
+            },
+            {
+                "event": "Balletica",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Battle_Pass_Balletica.png/revision/latest/scale-to-width-down/250?cb=20250505040820",
+                "duration": [
+                    "May 07, 2025",
+                    "June 16, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Balletica"
+            },
+            {
+                "event": "The Forge Realm's Temper: Clever Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/The_Forge_Realm%27s_Temper_Clever_Stratagems_2025-05-07.png/revision/latest/scale-to-width-down/250?cb=20250505040845",
+                "duration": [
+                    "May 07, 2025",
+                    "June 18, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-05-07"
+            },
+            {
                 "event": "Whirling Waltz",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Whirling_Waltz.png/revision/latest/scale-to-width-down/250?cb=20250425124708",
                 "duration": [
@@ -98,6 +126,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Whirling_Waltz"
+            },
+            {
+                "event": "Heated Battle Mode: Automatic Artistry",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Heated_Battle_Mode_Automatic_Artistry_2025-02-21.png/revision/latest/scale-to-width-down/250?cb=20250218050043",
+                "duration": [
+                    "May 17, 2025",
+                    "June 02, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-05-17"
             },
             {
                 "event": "Operation Downpour Simulation",
