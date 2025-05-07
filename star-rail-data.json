@@ -95,19 +95,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Seal_Slammers"
             },
             {
-                "event": "Planar Fissure 300% 2025-04-23",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Planar_Fissure_300.png/revision/latest/scale-to-width-down/250?cb=20250422043859",
-                "duration": [
-                    "April 23, 2025",
-                    "May 05, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure_300%25/2025-04-23"
-            },
-            {
                 "event": "Astral Express Annual Trailblaze Report 2025-04-26",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Event_Astral_Express_Annual_Trailblaze_Report_2025-04-26.png/revision/latest/scale-to-width-down/250?cb=20250426065341",
                 "duration": [
@@ -119,19 +106,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Astral_Express_Annual_Trailblaze_Report/2025-04-26"
-            },
-            {
-                "event": "Cyclical Extrapolation: Momentary Windfall",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Event_Cyclical_Extrapolation_Momentary_Windfall.png/revision/latest/scale-to-width-down/250?cb=20250427200010",
-                "duration": [
-                    "April 28, 2025",
-                    "May 05, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-04-28"
             },
             {
                 "event": "Morning Starlight",
@@ -158,9 +132,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Concert/Star_Rail_LIVE_2025"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Cyclical Extrapolation: Sowing Seeds of Wisdom",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Event_Cyclical_Extrapolation_Sowing_Seeds_of_Wisdom.png/revision/latest/scale-to-width-down/250?cb=20250504200010",
@@ -171,10 +143,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-05"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
