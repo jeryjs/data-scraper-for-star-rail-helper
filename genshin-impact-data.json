@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Song_of_the_Welkin_Moon"
             },
             {
-                "event": "The Forge Realm's Temper: Endless Swarm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/The_Forge_Realm%27s_Temper_Endless_Swarm_2025-03-26.png/revision/latest/scale-to-width-down/250?cb=20250324041124",
-                "duration": [
-                    "March 26, 2025",
-                    "May 07, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-03-26"
-            },
-            {
                 "event": "The Sacred Mountain and Sanctified Land",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/The_Sacred_Mountain_and_Sanctified_Land.png/revision/latest/scale-to-width-down/250?cb=20250324041131",
                 "duration": [
@@ -43,21 +29,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
             },
             {
-                "event": "Test Run - Xilonen, Venti, Faruzan, Yanfei, Beidou",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Test_Run_2025-04-15.png/revision/latest/scale-to-width-down/250?cb=20250421204303",
+                "event": "Test Run - Escoffier, Navia, Ifa, Ororon, Layla",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Test_Run_2025-05-07.png/revision/latest/scale-to-width-down/250?cb=20250507085546",
                 "duration": [
-                    "April 15, 2025",
-                    "May 06, 2025"
+                    "May 07, 2025",
+                    "May 27, 2025"
                 ],
                 "type": [
                     "In-Game",
                     "Test Run"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-04-15"
-            }
-        ],
-        "Upcoming": [
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-05-07"
+            },
             {
                 "event": "Treasured Above All",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Treasured_Above_All_Event.png/revision/latest/scale-to-width-down/250?cb=20250505040817",
@@ -69,7 +53,7 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Treasured_Above_All_(Event)"
             },
             {
@@ -83,7 +67,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Balletica"
             },
             {
@@ -97,12 +81,14 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-05-07"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Whirling Waltz",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Whirling_Waltz.png/revision/latest/scale-to-width-down/250?cb=20250425124708",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Whirling_Waltz.png/revision/latest/scale-to-width-down/250?cb=20250507045424",
                 "duration": [
                     "May 09, 2025",
                     "May 26, 2025"
