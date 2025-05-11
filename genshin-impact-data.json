@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Song of the Welkin Moon",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Song_of_the_Welkin_Moon.png/revision/latest/scale-to-width-down/250?cb=20250310011823",
-                "duration": [
-                    "March 10, 2025",
-                    "May 10, 2025"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Song_of_the_Welkin_Moon"
-            },
-            {
                 "event": "The Sacred Mountain and Sanctified Land",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/The_Sacred_Mountain_and_Sanctified_Land.png/revision/latest/scale-to-width-down/250?cb=20250324041131",
                 "duration": [

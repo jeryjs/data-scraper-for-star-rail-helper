@@ -132,9 +132,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-05"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Realm of the Strange 300% 2025-05-09",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Event_Realm_of_the_Strange_300.png/revision/latest/scale-to-width-down/250?cb=20250509000626",
@@ -145,10 +143,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange_300%25/2025-05-09"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
