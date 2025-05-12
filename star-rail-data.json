@@ -147,7 +147,35 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange_300%25/2025-05-09"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Romance is Dead",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Event_Cyclical_Extrapolation_Romance_is_Dead.png/revision/latest/scale-to-width-down/250?cb=20250511200010",
+                "duration": [
+                    "May 12, 2025",
+                    "May 19, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-12"
+            },
+            {
+                "event": "Nameless Honor 2025-05-21",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "May 21, 2025",
+                    "June 30, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-05-21"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
