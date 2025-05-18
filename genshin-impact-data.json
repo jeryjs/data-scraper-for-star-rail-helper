@@ -16,20 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
             },
             {
-                "event": "Treasured Above All",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Treasured_Above_All_Event.png/revision/latest/scale-to-width-down/250?cb=20250505040817",
-                "duration": [
-                    "May 07, 2025",
-                    "May 27, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Story Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Treasured_Above_All_(Event)"
-            },
-            {
                 "event": "Test Run - Escoffier, Navia, Ifa, Ororon, Layla",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Test_Run_2025-05-07.png/revision/latest/scale-to-width-down/250?cb=20250507085546",
                 "duration": [
@@ -42,6 +28,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-05-07"
+            },
+            {
+                "event": "Treasured Above All",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Treasured_Above_All_Event.png/revision/latest/scale-to-width-down/250?cb=20250505040817",
+                "duration": [
+                    "May 07, 2025",
+                    "May 27, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Treasured_Above_All_(Event)"
             },
             {
                 "event": "Balletica",
@@ -84,9 +84,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Whirling_Waltz"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Automatic Artistry",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Heated_Battle_Mode_Automatic_Artistry_2025-02-21.png/revision/latest/scale-to-width-down/250?cb=20250218050043",
@@ -98,12 +96,14 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-05-17"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Operation Downpour Simulation",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Operation_Downpour_Simulation.png/revision/latest/scale-to-width-down/250?cb=20250425124705",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Operation_Downpour_Simulation.png/revision/latest/scale-to-width-down/250?cb=20250517191657",
                 "duration": [
                     "May 19, 2025",
                     "June 03, 2025"
