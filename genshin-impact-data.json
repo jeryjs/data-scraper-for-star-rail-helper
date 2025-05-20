@@ -98,9 +98,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-05-17"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Operation Downpour Simulation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Operation_Downpour_Simulation.png/revision/latest/scale-to-width-down/250?cb=20250517191657",
@@ -111,9 +109,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Operation_Downpour_Simulation"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Chronicle of Shifting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Chronicle_of_Shifting_Stratagems.png/revision/latest/scale-to-width-down/250?cb=20250425124701",
