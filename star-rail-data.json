@@ -2,46 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Express Gift",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Event_Express_Gift.png/revision/latest/scale-to-width-down/250?cb=20241202185257",
-                "duration": [
-                    "December 04, 2024",
-                    "May 21, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Express_Gift"
-            },
-            {
-                "event": "Festive Gifts 2025-04-09",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Event_Festive_Gifts_2025-04-09.png/revision/latest/scale-to-width-down/250?cb=20250409040054",
-                "duration": [
-                    "April 09, 2025",
-                    "May 20, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Festive_Gifts/2025-04-09"
-            },
-            {
-                "event": "Cherished Recollection",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Event_Cherished_Recollection.png/revision/latest/scale-to-width-down/250?cb=20250412143643",
-                "duration": [
-                    "April 09, 2025",
-                    "May 20, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Cherished_Recollection"
-            },
-            {
                 "event": "To The Ones That Blaze",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Event_To_The_Ones_That_Blaze.png/revision/latest/scale-to-width-down/250?cb=20250409032947",
                 "duration": [
@@ -53,19 +13,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/To_The_Ones_That_Blaze"
-            },
-            {
-                "event": "Aptitude Showcase - Anaxa, Dr. Ratio, Moze, Serval, Dan Heng",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Aptitude_Showcase_-_Anaxa%2C_Dr._Ratio%2C_Moze%2C_Serval%2C_Dan_Heng.png/revision/latest/scale-to-width-down/250?cb=20250501023046",
-                "duration": [
-                    "April 30, 2025",
-                    "May 20, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-04-30"
             },
             {
                 "event": "Cyclical Extrapolation: Peaceful Slumber",
