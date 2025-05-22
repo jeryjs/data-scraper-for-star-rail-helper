@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "To The Ones That Blaze",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Event_To_The_Ones_That_Blaze.png/revision/latest/scale-to-width-down/250?cb=20250409032947",
-                "duration": [
-                    "April 09, 2025",
-                    "May 21, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/To_The_Ones_That_Blaze"
-            },
-            {
                 "event": "Cyclical Extrapolation: Peaceful Slumber",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Event_Cyclical_Extrapolation_Peaceful_Slumber.png/revision/latest/scale-to-width-down/250?cb=20250518200013",
                 "duration": [
@@ -26,9 +13,20 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-19"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Legend of the Galactic Baseballer: Demon King",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Event_Legend_of_the_Galactic_Baseballer_Demon_King.png/revision/latest/scale-to-width-down/250?cb=20250521110744",
+                "duration": [
+                    "May 21, 2025",
+                    "June 30, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Legend_of_the_Galactic_Baseballer:_Demon_King"
+            },
             {
                 "event": "Nameless Honor 2025-05-21",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
@@ -40,10 +38,25 @@
                     "In-Game",
                     "Nameless Honor"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-05-21"
+            },
+            {
+                "event": "Gift of Odyssey 2025-05-21",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Event_Gift_of_Odyssey_2025-05-21.png/revision/latest/scale-to-width-down/250?cb=20250521111445",
+                "duration": [
+                    "May 21, 2025",
+                    "July 02, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-05-21"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
