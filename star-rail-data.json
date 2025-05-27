@@ -56,7 +56,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-05-21"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Tragedy Record",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Event_Cyclical_Extrapolation_Tragedy_Record.png/revision/latest/scale-to-width-down/250?cb=20250525200017",
+                "duration": [
+                    "May 26, 2025",
+                    "June 02, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-26"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
