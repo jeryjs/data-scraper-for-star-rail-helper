@@ -2,17 +2,17 @@
     "Events": {
         "Current": [
             {
-                "event": "Cyclical Extrapolation: Peaceful Slumber",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Event_Cyclical_Extrapolation_Peaceful_Slumber.png/revision/latest/scale-to-width-down/250?cb=20250518200013",
+                "event": "Aptitude Showcase - Hyacine, The Herta, Misha, Serval, Natasha",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Aptitude_Showcase_-_Hyacine%2C_The_Herta%2C_Misha%2C_Serval%2C_Natasha.png/revision/latest/scale-to-width-down/250?cb=20250526092433",
                 "duration": [
-                    "May 19, 2025",
-                    "May 26, 2025"
+                    "May 21, 2025",
+                    "June 11, 2025"
                 ],
                 "type": [
-                    "Cyclical Extrapolation"
+                    "In-Game"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-19"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-05-21"
             },
             {
                 "event": "Legend of the Galactic Baseballer: Demon King",
@@ -54,9 +54,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-05-21"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Cyclical Extrapolation: Tragedy Record",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Event_Cyclical_Extrapolation_Tragedy_Record.png/revision/latest/scale-to-width-down/250?cb=20250525200017",
@@ -67,10 +65,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-26"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",

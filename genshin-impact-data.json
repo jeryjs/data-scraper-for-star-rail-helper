@@ -97,9 +97,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Operation_Downpour_Simulation"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Chronicle of Shifting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Chronicle_of_Shifting_Stratagems.png/revision/latest/scale-to-width-down/250?cb=20250525054055",
@@ -110,9 +108,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Chronicle_of_Shifting_Stratagems"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Legends Ablaze: Cross-Border Brawl",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Legends_Ablaze_Cross-Border_Brawl.png/revision/latest/scale-to-width-down/250?cb=20250425124703",
