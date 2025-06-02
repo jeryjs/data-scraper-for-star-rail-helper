@@ -69,7 +69,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-05-26"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Thief's Honor",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Event_Cyclical_Extrapolation_Thief%27s_Honor.png/revision/latest/scale-to-width-down/250?cb=20250601200015",
+                "duration": [
+                    "June 02, 2025",
+                    "June 09, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-02"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",

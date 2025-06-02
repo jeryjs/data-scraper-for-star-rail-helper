@@ -82,6 +82,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Chronicle_of_Shifting_Stratagems"
+            },
+            {
+                "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Test_Run_2025-05-27.png/revision/latest/scale-to-width-down/250?cb=20250601092421",
+                "duration": [
+                    "May 27, 2025",
+                    "June 17, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-05-27"
             }
         ],
         "Upcoming": [
