@@ -69,9 +69,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-05-27"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Legends Ablaze: Cross-Border Brawl",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Legends_Ablaze_Cross-Border_Brawl.png/revision/latest/scale-to-width-down/250?cb=20250603042346",
@@ -83,9 +81,11 @@
                     "In-Game",
                     "Co-Op Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Legends_Ablaze:_Cross-Border_Brawl"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Ley Line Overflow 2025-06-09",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
