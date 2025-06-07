@@ -98,6 +98,74 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-06-09"
+            },
+            {
+                "event": "Travelers' Tales: Gilded Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Travelers%27_Tales_Gilded_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250606125442",
+                "duration": [
+                    "June 18, 2025",
+                    "July 29, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales/2025-06-18"
+            },
+            {
+                "event": "Battle of Imagined Arrays",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Battle_of_Imagined_Arrays.png/revision/latest/scale-to-width-down/250?cb=20250606125436",
+                "duration": [
+                    "June 20, 2025",
+                    "July 07, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_of_Imagined_Arrays"
+            },
+            {
+                "event": "Overflowing Abundance 2025-07-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20250201041900",
+                "duration": [
+                    "July 07, 2025",
+                    "July 14, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance/2025-07-07"
+            },
+            {
+                "event": "Reminiscent Regimen: Frenzy",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Reminiscent_Regimen_Frenzy.png/revision/latest/scale-to-width-down/250?cb=20250606125440",
+                "duration": [
+                    "July 14, 2025",
+                    "July 24, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2025-07-14"
+            },
+            {
+                "event": "Fearsome Ferocious Firepower",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Fearsome_Ferocious_Firepower.png/revision/latest/scale-to-width-down/250?cb=20250606125438",
+                "duration": [
+                    "July 21, 2025",
+                    "July 29, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Fearsome_Ferocious_Firepower"
             }
         ],
         "Permanent": [
