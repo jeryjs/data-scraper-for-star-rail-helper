@@ -56,19 +56,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-05-21"
             },
             {
-                "event": "Cyclical Extrapolation: Thief's Honor",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Event_Cyclical_Extrapolation_Thief%27s_Honor.png/revision/latest/scale-to-width-down/250?cb=20250601200015",
-                "duration": [
-                    "June 02, 2025",
-                    "June 09, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-02"
-            },
-            {
                 "event": "Planar Fissure 2025-06-03",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
                 "duration": [
@@ -80,9 +67,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-06-03"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Cyclical Extrapolation: Give And Take",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Event_Cyclical_Extrapolation_Give_And_Take.png/revision/latest/scale-to-width-down/250?cb=20250608200011",
@@ -93,10 +78,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-09"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
