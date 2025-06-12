@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Aptitude Showcase - Hyacine, The Herta, Misha, Serval, Natasha",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Aptitude_Showcase_-_Hyacine%2C_The_Herta%2C_Misha%2C_Serval%2C_Natasha.png/revision/latest/scale-to-width-down/250?cb=20250526092433",
-                "duration": [
-                    "May 21, 2025",
-                    "June 11, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-05-21"
-            },
-            {
                 "event": "Legend of the Galactic Baseballer: Demon King",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Event_Legend_of_the_Galactic_Baseballer_Demon_King.png/revision/latest/scale-to-width-down/250?cb=20250521110744",
                 "duration": [
@@ -80,6 +67,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-09"
+            },
+            {
+                "event": "Trace 'n' Drift",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Event_Trace_%27n%27_Drift.png/revision/latest/scale-to-width-down/250?cb=20250611081551",
+                "duration": [
+                    "June 11, 2025",
+                    "June 30, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Trace_%27n%27_Drift"
             }
         ],
         "Upcoming": [],
