@@ -43,32 +43,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-05-21"
             },
             {
-                "event": "Planar Fissure 2025-06-03",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
-                "duration": [
-                    "June 03, 2025",
-                    "June 16, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-06-03"
-            },
-            {
-                "event": "Cyclical Extrapolation: Give And Take",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Event_Cyclical_Extrapolation_Give_And_Take.png/revision/latest/scale-to-width-down/250?cb=20250608200011",
-                "duration": [
-                    "June 09, 2025",
-                    "June 16, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-09"
-            },
-            {
                 "event": "Trace 'n' Drift",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Event_Trace_%27n%27_Drift.png/revision/latest/scale-to-width-down/250?cb=20250611081551",
                 "duration": [
@@ -80,6 +54,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Trace_%27n%27_Drift"
+            },
+            {
+                "event": "Cyclical Extrapolation: Godslaying Journey",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Event_Cyclical_Extrapolation_Godslaying_Journey.png/revision/latest/scale-to-width-down/250?cb=20250615200024",
+                "duration": [
+                    "June 16, 2025",
+                    "June 23, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-16"
             }
         ],
         "Upcoming": [],
