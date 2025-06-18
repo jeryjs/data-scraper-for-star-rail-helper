@@ -2,77 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "The Sacred Mountain and Sanctified Land",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/The_Sacred_Mountain_and_Sanctified_Land.png/revision/latest/scale-to-width-down/250?cb=20250324041131",
-                "duration": [
-                    "March 26, 2025",
-                    "June 17, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Exploration Mission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Sacred_Mountain_and_Sanctified_Land"
-            },
-            {
-                "event": "Balletica",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Battle_Pass_Balletica.png/revision/latest/scale-to-width-down/250?cb=20250505040820",
-                "duration": [
-                    "May 07, 2025",
-                    "June 16, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Balletica"
-            },
-            {
-                "event": "The Forge Realm's Temper: Clever Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/The_Forge_Realm%27s_Temper_Clever_Stratagems_2025-05-07.png/revision/latest/scale-to-width-down/250?cb=20250505040845",
-                "duration": [
-                    "May 07, 2025",
-                    "June 18, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-05-07"
-            },
-            {
-                "event": "Test Run - Kinich, Raiden Shogun, Thoma, Kujou Sara",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Test_Run_2025-05-27.png/revision/latest/scale-to-width-down/250?cb=20250601092421",
-                "duration": [
-                    "May 27, 2025",
-                    "June 17, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-05-27"
-            },
-            {
-                "event": "Legends Ablaze: Cross-Border Brawl",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Legends_Ablaze_Cross-Border_Brawl.png/revision/latest/scale-to-width-down/250?cb=20250603042346",
-                "duration": [
-                    "June 05, 2025",
-                    "June 16, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Trial",
-                    "Co-Op"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Legends_Ablaze:_Cross-Border_Brawl"
-            },
-            {
                 "event": "Version 5.7 Pre-Registration Event",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Version_5.7_Pre-Registration_Event.png/revision/latest/scale-to-width-down/250?cb=20250607204516",
                 "duration": [
@@ -84,19 +13,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Version_5.7_Pre-Registration_Event"
-            },
-            {
-                "event": "Ley Line Overflow 2025-06-09",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
-                "duration": [
-                    "June 09, 2025",
-                    "June 16, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-06-09"
             }
         ],
         "Upcoming": [
