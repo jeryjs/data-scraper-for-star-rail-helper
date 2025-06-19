@@ -13,9 +13,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Version_5.7_Pre-Registration_Event"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Travelers' Tales: Gilded Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Travelers%27_Tales_Gilded_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250616041106",
@@ -27,8 +25,22 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales/2025-06-18"
+            },
+            {
+                "event": "Test Run - Skirk, Shenhe, Dahlia, Candace, Diona",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Test_Run_2025-06-18.png/revision/latest/scale-to-width-down/250?cb=20250618125036",
+                "duration": [
+                    "June 18, 2025",
+                    "July 08, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-06-18"
             },
             {
                 "event": "Crystallina Chapter",
@@ -41,7 +53,7 @@
                     "In-Game",
                     "Story Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Crystallina_Chapter_(Event)"
             },
             {
@@ -55,7 +67,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Speculation"
             },
             {
@@ -69,12 +81,27 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-06-18"
             },
             {
+                "event": "Through Yesterdays, to Today",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Through_Yesterdays%2C_to_Today.png/revision/latest/scale-to-width-down/250?cb=20250618055707",
+                "duration": [
+                    "June 18, 2025",
+                    "July 02, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Through_Yesterdays,_to_Today"
+            }
+        ],
+        "Upcoming": [
+            {
                 "event": "Battle of Imagined Arrays",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Battle_of_Imagined_Arrays.png/revision/latest/scale-to-width-down/250?cb=20250606125436",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Battle_of_Imagined_Arrays.png/revision/latest/scale-to-width-down/250?cb=20250618055712",
                 "duration": [
                     "June 20, 2025",
                     "July 07, 2025"
