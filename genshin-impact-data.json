@@ -16,20 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales/2025-06-18"
             },
             {
-                "event": "Test Run - Skirk, Shenhe, Dahlia, Candace, Diona",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Test_Run_2025-06-18.png/revision/latest/scale-to-width-down/250?cb=20250618125036",
-                "duration": [
-                    "June 18, 2025",
-                    "July 08, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-06-18"
-            },
-            {
                 "event": "Crystallina Chapter",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Crystallina_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20250616041058",
                 "duration": [
@@ -42,6 +28,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Crystallina_Chapter_(Event)"
+            },
+            {
+                "event": "Test Run - Skirk, Shenhe, Dahlia, Candace, Diona",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Test_Run_2025-06-18.png/revision/latest/scale-to-width-down/250?cb=20250618125036",
+                "duration": [
+                    "June 18, 2025",
+                    "July 08, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-06-18"
             },
             {
                 "event": "Speculation",
@@ -83,9 +83,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Through_Yesterdays,_to_Today"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Battle of Imagined Arrays",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Battle_of_Imagined_Arrays.png/revision/latest/scale-to-width-down/250?cb=20250618055712",
@@ -97,9 +95,25 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_of_Imagined_Arrays"
             },
+            {
+                "event": "Unlimited Throwing Simulation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Unlimited_Throwing_Simulation.png/revision/latest/scale-to-width-down/250?cb=20250621003041",
+                "duration": [
+                    "June 20, 2025",
+                    "June 27, 2025"
+                ],
+                "type": [
+                    "Web",
+                    "Character Release"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Unlimited_Throwing_Simulation"
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Stygian Onslaught",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250606125418",
