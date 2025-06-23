@@ -82,7 +82,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2025-06-20"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Cyclical Extrapolation: Adrift In Sea of Souls",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Event_Cyclical_Extrapolation_Adrift_In_Sea_of_Souls.png/revision/latest/scale-to-width-down/250?cb=20250622200010",
+                "duration": [
+                    "June 23, 2025",
+                    "June 30, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-23"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
