@@ -56,19 +56,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Trace_%27n%27_Drift"
             },
             {
-                "event": "Cyclical Extrapolation: Godslaying Journey",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Event_Cyclical_Extrapolation_Godslaying_Journey.png/revision/latest/scale-to-width-down/250?cb=20250615200024",
-                "duration": [
-                    "June 16, 2025",
-                    "June 23, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-16"
-            },
-            {
                 "event": "Garden of Plenty 2025-06-20",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
                 "duration": [
@@ -80,9 +67,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2025-06-20"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Cyclical Extrapolation: Adrift In Sea of Souls",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Event_Cyclical_Extrapolation_Adrift_In_Sea_of_Souls.png/revision/latest/scale-to-width-down/250?cb=20250622200010",
@@ -93,10 +78,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-23"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
