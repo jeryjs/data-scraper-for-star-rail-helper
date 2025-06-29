@@ -95,7 +95,21 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-23"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Origami Bird Clash: Official Edition",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Event_Origami_Bird_Clash_Official_Edition.png/revision/latest/scale-to-width-down/250?cb=20250628045158",
+                "duration": [
+                    "July 02, 2025",
+                    "August 11, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash:_Official_Edition"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
