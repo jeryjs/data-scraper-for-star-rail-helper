@@ -2,33 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Legend of the Galactic Baseballer: Demon King",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Event_Legend_of_the_Galactic_Baseballer_Demon_King.png/revision/latest/scale-to-width-down/250?cb=20250521110744",
-                "duration": [
-                    "May 21, 2025",
-                    "June 30, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Legend_of_the_Galactic_Baseballer:_Demon_King"
-            },
-            {
-                "event": "Nameless Honor 2025-05-21",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "May 21, 2025",
-                    "June 30, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-05-21"
-            },
-            {
                 "event": "Gift of Odyssey 2025-05-21",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Event_Gift_of_Odyssey_2025-05-21.png/revision/latest/scale-to-width-down/250?cb=20250521111445",
                 "duration": [
@@ -41,19 +14,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-05-21"
-            },
-            {
-                "event": "Trace 'n' Drift",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Event_Trace_%27n%27_Drift.png/revision/latest/scale-to-width-down/250?cb=20250611081551",
-                "duration": [
-                    "June 11, 2025",
-                    "June 30, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Trace_%27n%27_Drift"
             },
             {
                 "event": "Aptitude Showcase - Cipher, Aglaea, Xueyi, Sushang, Qingque",
@@ -69,30 +29,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-06-11"
             },
             {
-                "event": "Garden of Plenty 2025-06-20",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "event": "Cyclical Extrapolation: Scientific Trials",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Event_Cyclical_Extrapolation_Scientific_Trials.png/revision/latest/scale-to-width-down/250?cb=20250629200013",
                 "duration": [
-                    "June 20, 2025",
-                    "June 30, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2025-06-20"
-            },
-            {
-                "event": "Cyclical Extrapolation: Adrift In Sea of Souls",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Event_Cyclical_Extrapolation_Adrift_In_Sea_of_Souls.png/revision/latest/scale-to-width-down/250?cb=20250622200010",
-                "duration": [
-                    "June 23, 2025",
-                    "June 30, 2025"
+                    "June 30, 2025",
+                    "July 07, 2025"
                 ],
                 "type": [
                     "Cyclical Extrapolation"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-23"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-30"
             }
         ],
         "Upcoming": [
