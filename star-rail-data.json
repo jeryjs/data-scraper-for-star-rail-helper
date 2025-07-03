@@ -13,9 +13,21 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-30"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Nameless Honor 2025-07-02",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "July 02, 2025",
+                    "August 11, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-07-02"
+            },
             {
                 "event": "Origami Bird Clash: Official Edition",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Event_Origami_Bird_Clash_Official_Edition.png/revision/latest/scale-to-width-down/250?cb=20250628045158",
@@ -26,10 +38,24 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash:_Official_Edition"
+            },
+            {
+                "event": "Novaflare",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Event_Novaflare.png/revision/latest/scale-to-width-down/250?cb=20250625180000",
+                "duration": [
+                    "July 02, 2025",
+                    "September 23, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
             }
         ],
+        "Upcoming": [],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
@@ -216,18 +242,6 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_Protean_Hero"
-            },
-            {
-                "event": "Novaflare",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Event_Novaflare.png/revision/latest/scale-to-width-down/250?cb=20250625180000",
-                "duration": [
-                    "July 02, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Permanent",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
             }
         ]
     },
