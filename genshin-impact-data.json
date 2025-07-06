@@ -98,9 +98,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-06-25"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Heated_Battle_Mode_Sprinting_Stratagems_2025-07-05.png/revision/latest/scale-to-width-down/250?cb=20250703062118",
@@ -112,9 +110,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-07-05"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Overflowing Abundance 2025-07-07",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20250201041900",
