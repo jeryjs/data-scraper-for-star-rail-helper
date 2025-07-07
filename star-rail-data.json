@@ -15,6 +15,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-06-30"
             },
             {
+                "event": "Aptitude Showcase - Phainon, Tribbie, Sunday, Sparkle, Yukong, Tingyun, March 7th (Preservation)",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Aptitude_Showcase_-_Phainon%2C_Tribbie%2C_Sunday%2C_Sparkle%2C_Yukong%2C_Tingyun%2C_March_7th_%28Preservation%29.png/revision/latest/scale-to-width-down/250?cb=20250706073959",
+                "duration": [
+                    "July 02, 2025",
+                    "July 23, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-07-02"
+            },
+            {
                 "event": "Nameless Honor 2025-07-02",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -40,6 +53,20 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash:_Official_Edition"
+            },
+            {
+                "event": "Gift of Odyssey 2025-07-02",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Event_Gift_of_Odyssey_2025-07-02.png/revision/latest/scale-to-width-down/250?cb=20250706040922",
+                "duration": [
+                    "July 02, 2025",
+                    "August 12, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-07-02"
             },
             {
                 "event": "Novaflare",
