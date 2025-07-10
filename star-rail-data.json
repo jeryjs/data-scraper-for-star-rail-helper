@@ -15,6 +15,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-07-02"
             },
             {
+                "event": "Origami Bird Clash: Official Edition",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Event_Origami_Bird_Clash_Official_Edition.png/revision/latest/scale-to-width-down/250?cb=20250628045158",
+                "duration": [
+                    "July 02, 2025",
+                    "August 11, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash:_Official_Edition"
+            },
+            {
                 "event": "Nameless Honor 2025-07-02",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -27,19 +40,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-07-02"
-            },
-            {
-                "event": "Origami Bird Clash: Official Edition",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Event_Origami_Bird_Clash_Official_Edition.png/revision/latest/scale-to-width-down/250?cb=20250628045158",
-                "duration": [
-                    "July 02, 2025",
-                    "August 11, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash:_Official_Edition"
             },
             {
                 "event": "Gift of Odyssey 2025-07-02",
@@ -56,6 +56,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-07-02"
             },
             {
+                "event": "Fashion Guide of the Cosmos: Travel Edition",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Event_Fashion_Guide_of_the_Cosmos-_Travel_Edition.png/revision/latest/scale-to-width-down/250?cb=20250709072011",
+                "duration": [
+                    "July 02, 2025",
+                    "August 13, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Fashion_Guide_of_the_Cosmos:_Travel_Edition"
+            },
+            {
                 "event": "Novaflare",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Event_Novaflare.png/revision/latest/scale-to-width-down/250?cb=20250625180000",
                 "duration": [
@@ -69,7 +82,20 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
             }
         ],
-        "Upcoming": [],
+        "Upcoming": [
+            {
+                "event": "Sweet Dreams and the Holy Grail",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Event_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250709035620",
+                "duration": [
+                    "July 11, 2025"
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Sweet_Dreams_and_the_Holy_Grail"
+            }
+        ],
         "Permanent": [
             {
                 "event": "Honkai: Star Rail Daily Check-in",
