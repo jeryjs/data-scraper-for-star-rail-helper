@@ -2,6 +2,19 @@
     "Events": {
         "Current": [
             {
+                "event": "Stellar Companions",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Event_Stellar_Companions.png/revision/latest/scale-to-width-down/250?cb=20250409032926",
+                "duration": [
+                    "April 09, 2025",
+                    "August 12, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Companions"
+            },
+            {
                 "event": "Aptitude Showcase - Phainon, Tribbie, Sunday, Sparkle, Yukong, Tingyun, March 7th (Preservation)",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Aptitude_Showcase_-_Phainon%2C_Tribbie%2C_Sunday%2C_Sparkle%2C_Yukong%2C_Tingyun%2C_March_7th_%28Preservation%29.png/revision/latest/scale-to-width-down/250?cb=20250706073959",
                 "duration": [
@@ -69,6 +82,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fashion_Guide_of_the_Cosmos:_Travel_Edition"
             },
             {
+                "event": "Fate Gift",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Event_Fate_Gift.png/revision/latest/scale-to-width-down/250?cb=20250711123241",
+                "duration": [
+                    "July 02, 2025",
+                    "August 13, 2025"
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Gift"
+            },
+            {
                 "event": "Novaflare",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Event_Novaflare.png/revision/latest/scale-to-width-down/250?cb=20250625180000",
                 "duration": [
@@ -80,12 +106,25 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
+            },
+            {
+                "event": "Fate/stay night",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Event_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250709035620",
+                "duration": [
+                    "July 11, 2025",
+                    "August 11, 2025"
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Fate/stay_night"
             }
         ],
         "Upcoming": [
             {
                 "event": "Sweet Dreams and the Holy Grail",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Event_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250709035620",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Splash_Screen_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250711050304",
                 "duration": [
                     "July 11, 2025"
                 ],
@@ -94,6 +133,18 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Sweet_Dreams_and_the_Holy_Grail"
+            },
+            {
+                "event": "Fate Contract",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Event_Fate_Contract.png/revision/latest/scale-to-width-down/250?cb=20250711123159",
+                "duration": [
+                    "July 11, 2025"
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
             }
         ],
         "Permanent": [
