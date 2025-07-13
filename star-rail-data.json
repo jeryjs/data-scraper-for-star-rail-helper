@@ -119,21 +119,22 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate/stay_night"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Sweet Dreams and the Holy Grail",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Splash_Screen_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250711050304",
                 "duration": [
-                    "July 11, 2025"
+                    "July 11, 2025",
+                    "August 12, 2025"
                 ],
                 "type": [
                     "Collaboration"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Sweet_Dreams_and_the_Holy_Grail"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Fate Contract",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Event_Fate_Contract.png/revision/latest/scale-to-width-down/250?cb=20250711123159",
@@ -333,6 +334,18 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe:_Protean_Hero"
+            },
+            {
+                "event": "Along With Heroic Spirits",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Event_Along_With_Heroic_Spirits.png/revision/latest/scale-to-width-down/250?cb=20250712011617",
+                "duration": [
+                    "July 11, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Along_With_Heroic_Spirits"
             }
         ]
     },
