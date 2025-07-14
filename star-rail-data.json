@@ -89,6 +89,7 @@
                     "August 13, 2025"
                 ],
                 "type": [
+                    "In-Game",
                     "Collaboration"
                 ],
                 "status": "Current",
@@ -115,6 +116,7 @@
                     "August 11, 2025"
                 ],
                 "type": [
+                    "In-Game",
                     "Collaboration"
                 ],
                 "status": "Current",
@@ -128,6 +130,7 @@
                     "August 12, 2025"
                 ],
                 "type": [
+                    "In-Game",
                     "Collaboration"
                 ],
                 "status": "Current",
@@ -142,10 +145,24 @@
                     "July 11, 2025"
                 ],
                 "type": [
+                    "In-Game",
                     "Collaboration"
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Cyclical Extrapolation: Fallen Dream",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Event_Cyclical_Extrapolation_Fallen_Dream.png/revision/latest/scale-to-width-down/250?cb=20250713200010",
+                "duration": [
+                    "July 14, 2025",
+                    "July 21, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-07-14"
             }
         ],
         "Permanent": [
