@@ -72,20 +72,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-07-05"
             },
             {
-                "event": "Overflowing Abundance 2025-07-07",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Overflowing_Abundance.png/revision/latest/scale-to-width-down/250?cb=20250201041900",
+                "event": "Test Run - Mavuika, Emilie, Iansan, Yaoyao",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Test_Run_-_2025-07-08.png/revision/latest/scale-to-width-down/250?cb=20250714102256",
                 "duration": [
-                    "July 07, 2025",
-                    "July 14, 2025"
+                    "July 08, 2025",
+                    "July 29, 2025"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Test Run"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance/2025-07-07"
-            }
-        ],
-        "Upcoming": [
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-07-08"
+            },
             {
                 "event": "Reminiscent Regimen: Frenzy",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Reminiscent_Regimen_Frenzy.png/revision/latest/scale-to-width-down/250?cb=20250713170013",
@@ -97,9 +96,11 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2025-07-14"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Fearsome Ferocious Firepower",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Fearsome_Ferocious_Firepower.png/revision/latest/scale-to-width-down/250?cb=20250606125438",
