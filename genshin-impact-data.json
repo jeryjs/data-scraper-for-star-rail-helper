@@ -58,20 +58,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-06-25"
             },
             {
-                "event": "Heated Battle Mode: Sprinting Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Heated_Battle_Mode_Sprinting_Stratagems_2025-07-05.png/revision/latest/scale-to-width-down/250?cb=20250703062118",
-                "duration": [
-                    "July 05, 2025",
-                    "July 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-07-05"
-            },
-            {
                 "event": "Test Run - Mavuika, Emilie, Iansan, Yaoyao",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Test_Run_-_2025-07-08.png/revision/latest/scale-to-width-down/250?cb=20250714102256",
                 "duration": [
@@ -98,9 +84,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Reminiscent_Regimen/2025-07-14"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Fearsome Ferocious Firepower",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Fearsome_Ferocious_Firepower.png/revision/latest/scale-to-width-down/250?cb=20250719040706",
@@ -111,9 +95,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Fearsome_Ferocious_Firepower"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Sunspray Summer Resort",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Sunspray_Summer_Resort_Event.png/revision/latest/scale-to-width-down/250?cb=20250718125425",
@@ -127,6 +113,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Sunspray_Summer_Resort_(Event)"
+            },
+            {
+                "event": "Stygian Onslaught",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
+                "duration": [
+                    "August 06, 2025",
+                    "September 09, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Stygian Onslaught"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-08-06"
             },
             {
                 "event": "Tracing Vanishing Trails",
