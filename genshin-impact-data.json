@@ -100,8 +100,22 @@
         ],
         "Upcoming": [
             {
+                "event": "Natlan: Plains of Flowing Flames",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Natlan_Plains_of_Flowing_Flames.png/revision/latest/scale-to-width-down/250?cb=20250727044903",
+                "duration": [
+                    "July 30, 2025",
+                    "September 09, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Repertoire of Myriad Melodies Update"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Natlan:_Plains_of_Flowing_Flames_(Event)"
+            },
+            {
                 "event": "Sunspray Summer Resort",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Sunspray_Summer_Resort_Event.png/revision/latest/scale-to-width-down/250?cb=20250718125425",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Sunspray_Summer_Resort_Event.png/revision/latest/scale-to-width-down/250?cb=20250727041152",
                 "duration": [
                     "July 30, 2025",
                     "August 18, 2025"
@@ -112,6 +126,76 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Sunspray_Summer_Resort_(Event)"
+            },
+            {
+                "event": "Easy Breezy Holidays",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Battle_Pass_Easy_Breezy_Holidays.png/revision/latest/scale-to-width-down/250?cb=20250727090659",
+                "duration": [
+                    "July 30, 2025",
+                    "September 08, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Easy_Breezy_Holidays"
+            },
+            {
+                "event": "Tranquil Banquet Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Tranquil_Banquet_Discount.png/revision/latest/scale-to-width-down/250?cb=20250727041133",
+                "duration": [
+                    "July 30, 2025",
+                    "September 08, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Tranquil_Banquet_Discount"
+            },
+            {
+                "event": "The Forge Realm's Temper: Game of Wits",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-07-30.png/revision/latest/scale-to-width-down/250?cb=20250727045137",
+                "duration": [
+                    "July 30, 2025",
+                    "September 09, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-07-30"
+            },
+            {
+                "event": "The Journey Home",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/The_Journey_Home_Event.png/revision/latest/scale-to-width-down/250?cb=20250727041137",
+                "duration": [
+                    "July 30, 2025",
+                    "September 09, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Journey_Home_(Event)"
+            },
+            {
+                "event": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer%21.png/revision/latest/scale-to-width-down/250?cb=20250727041135",
+                "duration": [
+                    "July 30, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Exploration Mission"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer!"
             },
             {
                 "event": "Stygian Onslaught",
@@ -165,18 +249,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-09-01"
-            },
-            {
-                "event": "Natlan: Plains of Flowing Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Natlan_Plains_of_Flowing_Flames.png/revision/latest/scale-to-width-down/250?cb=20250718125423",
-                "duration": [
-                    "TBA"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Natlan:_Plains_of_Flowing_Flames_(Event)"
             }
         ],
         "Permanent": [
