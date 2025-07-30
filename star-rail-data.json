@@ -124,32 +124,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Sweet_Dreams_and_the_Holy_Grail"
             },
             {
-                "event": "Planar Fissure 2025-07-16",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
-                "duration": [
-                    "July 16, 2025",
-                    "July 28, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-07-16"
-            },
-            {
-                "event": "Cyclical Extrapolation: End of a Mournful Plea",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Event_Cyclical_Extrapolation_End_of_a_Mournful_Plea.png/revision/latest/scale-to-width-down/250?cb=20250720200012",
-                "duration": [
-                    "July 21, 2025",
-                    "July 28, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-07-21"
-            },
-            {
                 "event": "Aptitude Showcase - Firefly, Jingliu, Blade, Hanya, Lynx, Luka",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Aptitude_Showcase_-_Firefly%2C_Jingliu%2C_Blade%2C_Hanya%2C_Lynx%2C_Luka.png/revision/latest/scale-to-width-down/250?cb=20250723183812",
                 "duration": [
@@ -161,6 +135,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-07-23"
+            },
+            {
+                "event": "Cyclical Extrapolation: Art Imitates Life",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Event_Cyclical_Extrapolation_Art_Imitates_Life.png/revision/latest/scale-to-width-down/250?cb=20250727200008",
+                "duration": [
+                    "July 28, 2025",
+                    "August 04, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-07-28"
             }
         ],
         "Upcoming": [
@@ -176,19 +163,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
-            },
-            {
-                "event": "Cyclical Extrapolation: Art Imitates Life",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Event_Cyclical_Extrapolation_Art_Imitates_Life.png/revision/latest/scale-to-width-down/250?cb=20250727200008",
-                "duration": [
-                    "July 28, 2025",
-                    "August 04, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-07-28"
             }
         ],
         "Permanent": [

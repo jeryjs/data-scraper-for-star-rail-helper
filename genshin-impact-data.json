@@ -30,20 +30,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-06-18"
             },
             {
-                "event": "Stygian Onslaught: Incursion Repeller",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
-                "duration": [
-                    "June 25, 2025",
-                    "July 29, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Stygian Onslaught"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-06-25"
-            },
-            {
                 "event": "Test Run - Mavuika, Emilie, Iansan, Yaoyao",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Test_Run_-_2025-07-08.png/revision/latest/scale-to-width-down/250?cb=20250714102256",
                 "duration": [
@@ -56,19 +42,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-07-08"
-            },
-            {
-                "event": "Fearsome Ferocious Firepower",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Fearsome_Ferocious_Firepower.png/revision/latest/scale-to-width-down/250?cb=20250719040706",
-                "duration": [
-                    "July 21, 2025",
-                    "July 29, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Fearsome_Ferocious_Firepower"
             },
             {
                 "event": "\"Song of the Welkin Moon\" - Nod-Krai Concept Overview",
