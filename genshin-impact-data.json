@@ -2,48 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Travelers' Tales: Gilded Chapter",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Travelers%27_Tales_Gilded_Chapter.png/revision/latest/scale-to-width-down/250?cb=20250616041106",
-                "duration": [
-                    "June 18, 2025",
-                    "July 29, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Co-Op"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales/2025-06-18"
-            },
-            {
-                "event": "The Forge Realm's Temper: Endless Swarm",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/The_Forge_Realm%27s_Temper_Endless_Swarm_2025-06-18.png/revision/latest/scale-to-width-down/250?cb=20250616041104",
-                "duration": [
-                    "June 18, 2025",
-                    "July 30, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-06-18"
-            },
-            {
-                "event": "Test Run - Mavuika, Emilie, Iansan, Yaoyao",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Test_Run_-_2025-07-08.png/revision/latest/scale-to-width-down/250?cb=20250714102256",
-                "duration": [
-                    "July 08, 2025",
-                    "July 29, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-07-08"
-            },
-            {
                 "event": "\"Song of the Welkin Moon\" - Nod-Krai Concept Overview",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Song_of_the_Welkin_Moon_Nod-Krai_Concept_Overview.png/revision/latest/scale-to-width-down/250?cb=20250723012916",
                 "duration": [
@@ -55,22 +13,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/%22Song_of_the_Welkin_Moon%22_-_Nod-Krai_Concept_Overview"
-            }
-        ],
-        "Upcoming": [
-            {
-                "event": "Natlan: Plains of Flowing Flames",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Natlan_Plains_of_Flowing_Flames.png/revision/latest/scale-to-width-down/250?cb=20250727044903",
-                "duration": [
-                    "July 30, 2025",
-                    "September 09, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Repertoire of Myriad Melodies Update"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Natlan:_Plains_of_Flowing_Flames_(Event)"
             },
             {
                 "event": "Sunspray Summer Resort",
@@ -83,7 +25,7 @@
                     "In-Game",
                     "Flagship"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Sunspray_Summer_Resort_(Event)"
             },
             {
@@ -97,7 +39,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Easy_Breezy_Holidays"
             },
             {
@@ -111,8 +53,22 @@
                     "In-Game",
                     "Discount"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Tranquil_Banquet_Discount"
+            },
+            {
+                "event": "Natlan: Plains of Flowing Flames",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Natlan_Plains_of_Flowing_Flames.png/revision/latest/scale-to-width-down/250?cb=20250727044903",
+                "duration": [
+                    "July 30, 2025",
+                    "September 09, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Repertoire of Myriad Melodies Update"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Natlan:_Plains_of_Flowing_Flames_(Event)"
             },
             {
                 "event": "The Forge Realm's Temper: Game of Wits",
@@ -125,7 +81,7 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-07-30"
             },
             {
@@ -139,7 +95,7 @@
                     "In-Game",
                     "Archon Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Journey_Home_(Event)"
             },
             {
@@ -153,9 +109,11 @@
                     "In-Game",
                     "Exploration Mission"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer!"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Stygian Onslaught",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
