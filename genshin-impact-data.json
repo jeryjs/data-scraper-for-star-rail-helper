@@ -43,20 +43,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-07-30"
             },
             {
-                "event": "Easy Breezy Holidays",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Battle_Pass_Easy_Breezy_Holidays.png/revision/latest/scale-to-width-down/250?cb=20250727090659",
-                "duration": [
-                    "July 30, 2025",
-                    "September 08, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Easy_Breezy_Holidays"
-            },
-            {
                 "event": "Tranquil Banquet Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Tranquil_Banquet_Discount.png/revision/latest/scale-to-width-down/250?cb=20250727041133",
                 "duration": [
@@ -69,6 +55,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Tranquil_Banquet_Discount"
+            },
+            {
+                "event": "Easy Breezy Holidays",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Battle_Pass_Easy_Breezy_Holidays.png/revision/latest/scale-to-width-down/250?cb=20250727090659",
+                "duration": [
+                    "July 30, 2025",
+                    "September 08, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Easy_Breezy_Holidays"
             },
             {
                 "event": "Natlan: Plains of Flowing Flames",
@@ -125,9 +125,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer!"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Stygian Onslaught",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
@@ -139,9 +137,11 @@
                     "In-Game",
                     "Stygian Onslaught"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-08-06"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Tracing Vanishing Trails",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Tracing_Vanishing_Trails.png/revision/latest/scale-to-width-down/250?cb=20250718125427",
