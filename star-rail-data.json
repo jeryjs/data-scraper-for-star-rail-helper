@@ -114,7 +114,7 @@
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Splash_Screen_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250711050304",
                 "duration": [
                     "July 11, 2025",
-                    "August 12, 2025"
+                    "August 13, 2025"
                 ],
                 "type": [
                     "In-Game",
@@ -148,6 +148,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2025-07-31"
+            },
+            {
+                "event": "Cyclical Extrapolation: Molding Life",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Event_Cyclical_Extrapolation_Molding_Life.png/revision/latest/scale-to-width-down/250?cb=20250810200010",
+                "duration": [
+                    "August 04, 2025",
+                    "August 11, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-04"
             }
         ],
         "Upcoming": [
@@ -163,6 +176,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Cyclical Extrapolation: Unreturning Venture",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Event_Cyclical_Extrapolation_Unreturning_Venture.png/revision/latest/scale-to-width-down/250?cb=20250810200011",
+                "duration": [
+                    "August 11, 2025",
+                    "August 18, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-11"
             }
         ],
         "Permanent": [
