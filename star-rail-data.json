@@ -15,33 +15,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Companions"
             },
             {
-                "event": "Origami Bird Clash: Official Edition",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Event_Origami_Bird_Clash_Official_Edition.png/revision/latest/scale-to-width-down/250?cb=20250628045158",
-                "duration": [
-                    "July 02, 2025",
-                    "August 11, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Origami_Bird_Clash:_Official_Edition"
-            },
-            {
-                "event": "Nameless Honor 2025-07-02",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "July 02, 2025",
-                    "August 11, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-07-02"
-            },
-            {
                 "event": "Gift of Odyssey 2025-07-02",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Event_Gift_of_Odyssey_2025-07-02.png/revision/latest/scale-to-width-down/250?cb=20250706040922",
                 "duration": [
@@ -96,20 +69,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
             },
             {
-                "event": "Fate/stay night",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Event_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250709035620",
-                "duration": [
-                    "July 11, 2025",
-                    "August 11, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Collaboration"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Fate/stay_night"
-            },
-            {
                 "event": "Sweet Dreams and the Holy Grail",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Splash_Screen_Sweet_Dreams_and_the_Holy_Grail.png/revision/latest/scale-to-width-down/250?cb=20250711050304",
                 "duration": [
@@ -137,30 +96,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-07-23"
             },
             {
-                "event": "Realm of the Strange 2025-07-31",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20250509000613",
+                "event": "Cyclical Extrapolation: Unreturning Venture",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Event_Cyclical_Extrapolation_Unreturning_Venture.png/revision/latest/scale-to-width-down/250?cb=20250810200011",
                 "duration": [
-                    "July 31, 2025",
-                    "August 11, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2025-07-31"
-            },
-            {
-                "event": "Cyclical Extrapolation: Molding Life",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Event_Cyclical_Extrapolation_Molding_Life.png/revision/latest/scale-to-width-down/250?cb=20250810200010",
-                "duration": [
-                    "August 04, 2025",
-                    "August 11, 2025"
+                    "August 11, 2025",
+                    "August 18, 2025"
                 ],
                 "type": [
                     "Cyclical Extrapolation"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-04"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-11"
             }
         ],
         "Upcoming": [
@@ -176,19 +122,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
-            },
-            {
-                "event": "Cyclical Extrapolation: Unreturning Venture",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Event_Cyclical_Extrapolation_Unreturning_Venture.png/revision/latest/scale-to-width-down/250?cb=20250810200011",
-                "duration": [
-                    "August 11, 2025",
-                    "August 18, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-11"
             }
         ],
         "Permanent": [
