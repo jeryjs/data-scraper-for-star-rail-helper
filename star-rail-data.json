@@ -2,33 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Stellar Companions",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Event_Stellar_Companions.png/revision/latest/scale-to-width-down/250?cb=20250409032926",
-                "duration": [
-                    "April 09, 2025",
-                    "August 12, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Companions"
-            },
-            {
-                "event": "Gift of Odyssey 2025-07-02",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Event_Gift_of_Odyssey_2025-07-02.png/revision/latest/scale-to-width-down/250?cb=20250706040922",
-                "duration": [
-                    "July 02, 2025",
-                    "August 12, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-07-02"
-            },
-            {
                 "event": "Fashion Guide of the Cosmos: Travel Edition",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Event_Fashion_Guide_of_the_Cosmos-_Travel_Edition.png/revision/latest/scale-to-width-down/250?cb=20250709072011",
                 "duration": [
@@ -122,6 +95,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Chrysos Maze Grand Restaurant",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Event_Chrysos_Maze_Grand_Restaurant.png/revision/latest/scale-to-width-down/250?cb=20250812034853",
+                "duration": [
+                    "August 13, 2025",
+                    "September 22, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Chrysos_Maze_Grand_Restaurant"
             }
         ],
         "Permanent": [
