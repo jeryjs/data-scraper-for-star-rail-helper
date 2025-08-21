@@ -15,18 +15,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/%22Song_of_the_Welkin_Moon%22_-_Nod-Krai_Concept_Overview"
             },
             {
-                "event": "Test Run - Ineffa, Citlali, Sethos, Xingqiu, Fischl",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Test_Run_2025-07-30.png/revision/latest/scale-to-width-down/250?cb=20250730180302",
+                "event": "Tranquil Banquet Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Tranquil_Banquet_Discount.png/revision/latest/scale-to-width-down/250?cb=20250727041133",
                 "duration": [
                     "July 30, 2025",
-                    "August 19, 2025"
+                    "September 08, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Test Run"
+                    "Discount"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-07-30"
+                "page": "https://genshin-impact.fandom.com/wiki/Tranquil_Banquet_Discount"
             },
             {
                 "event": "Easy Breezy Holidays",
@@ -41,20 +41,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Easy_Breezy_Holidays"
-            },
-            {
-                "event": "Tranquil Banquet Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Tranquil_Banquet_Discount.png/revision/latest/scale-to-width-down/250?cb=20250727041133",
-                "duration": [
-                    "July 30, 2025",
-                    "September 08, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Discount"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Tranquil_Banquet_Discount"
             },
             {
                 "event": "Natlan: Plains of Flowing Flames",
