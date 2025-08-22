@@ -138,9 +138,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-08-16"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Mementos of Teyvat: Prelude of the Frozen Veil",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Mementos_of_Teyvat_Prelude_of_the_Frozen_Veil.png/revision/latest/scale-to-width-down/250?cb=20250819050118",
@@ -151,9 +149,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat/2025-08-21"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Ley Line Overflow 2025-09-01",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
