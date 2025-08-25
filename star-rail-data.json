@@ -95,6 +95,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Cyclical Extrapolation: Simulated Victory",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Event_Cyclical_Extrapolation_Simulated_Victory.png/revision/latest/scale-to-width-down/250?cb=20250824204113",
+                "duration": [
+                    "August 25, 2025",
+                    "September 01, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-25"
             }
         ],
         "Permanent": [
