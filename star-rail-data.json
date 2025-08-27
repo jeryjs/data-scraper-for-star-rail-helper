@@ -108,6 +108,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Planar Fissure 2025-08-27",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
+                "duration": [
+                    "August 27, 2025",
+                    "September 08, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-08-27"
             }
         ],
         "Permanent": [
