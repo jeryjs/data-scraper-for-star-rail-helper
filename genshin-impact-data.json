@@ -154,17 +154,17 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat/2025-08-21"
             },
             {
-                "event": "To Nod-Krai!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/To_Nod-Krai%21.png/revision/latest/scale-to-width-down/250?cb=20250822041722",
+                "event": "It Starts in Nod-Krai",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/It_Starts_in_Nod-Krai.png/revision/latest/scale-to-width-down/250?cb=20250829153901",
                 "duration": [
-                    "August 22, 2025",
-                    "August 29, 2025"
+                    "August 29, 2025",
+                    "September 24, 2025"
                 ],
                 "type": [
                     "Web"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/To_Nod-Krai!"
+                "page": "https://genshin-impact.fandom.com/wiki/It_Starts_in_Nod-Krai"
             }
         ],
         "Upcoming": [
@@ -180,6 +180,98 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-09-01"
+            },
+            {
+                "event": "To Temper Thyself and Journey Far",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250829163151",
+                "duration": [
+                    "September 10, 2025",
+                    "December 01, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far"
+            },
+            {
+                "event": "Clink Clank Clash",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Clink_Clank_Clash.png/revision/latest/scale-to-width-down/250?cb=20250829160026",
+                "duration": [
+                    "September 12, 2025",
+                    "September 29, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Clink_Clank_Clash"
+            },
+            {
+                "event": "Dodoco's Blow-Up-Erative Bomb-Nanza",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Dodoco%27s_Blow-Up-Erative_Bomb-Nanza.png/revision/latest/scale-to-width-down/250?cb=20250829160035",
+                "duration": [
+                    "September 29, 2025",
+                    "October 13, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Blow-Up-Erative_Bomb-Nanza"
+            },
+            {
+                "event": "Overflowing Favor 2025-10-06",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250412222200",
+                "duration": [
+                    "October 06, 2025",
+                    "October 13, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor/2025-10-06"
+            },
+            {
+                "event": "Lightgleaner's Journey",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Lightgleaner%27s_Journey.png/revision/latest/scale-to-width-down/250?cb=20250829160037",
+                "duration": [
+                    "October 10, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Lightgleaner%27s_Journey"
+            },
+            {
+                "event": "Rainbow's End: Silvery Flux",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Rainbow%27s_End_Silvery_Flux.png/revision/latest/scale-to-width-down/250?cb=20250829160033",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Rainbow%27s_End:_Silvery_Flux"
+            },
+            {
+                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250829160030",
+                "duration": [
+                    "TBA"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
             }
         ],
         "Permanent": [
