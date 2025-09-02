@@ -69,32 +69,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-08-13"
             },
             {
-                "event": "Space Station Task Force 2025-08-20",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Event_Space_Station_Task_Force_2025-08-20.png/revision/latest/scale-to-width-down/250?cb=20250820052515",
-                "duration": [
-                    "August 20, 2025",
-                    "September 01, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Space_Station_Task_Force/2025-08-20"
-            },
-            {
-                "event": "Cyclical Extrapolation: Simulated Victory",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Event_Cyclical_Extrapolation_Simulated_Victory.png/revision/latest/scale-to-width-down/250?cb=20250824204113",
-                "duration": [
-                    "August 25, 2025",
-                    "September 01, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-08-25"
-            },
-            {
                 "event": "Planar Fissure 2025-08-27",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
                 "duration": [
@@ -121,6 +95,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Old Brews & New Friends",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Event_Old_Brews_%26_New_Friends.png/revision/latest/scale-to-width-down/250?cb=20250901035147",
+                "duration": [
+                    "September 02, 2025",
+                    "September 22, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Old_Brews_%26_New_Friends"
             }
         ],
         "Permanent": [

@@ -113,20 +113,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-08-06"
             },
             {
-                "event": "Heated Battle Mode: Automatic Artistry",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Heated_Battle_Mode_Automatic_Artistry_2025-08-16.png/revision/latest/scale-to-width-down/250?cb=20250814124833",
-                "duration": [
-                    "August 16, 2025",
-                    "September 01, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-08-16"
-            },
-            {
                 "event": "Test Run - Mualani, Chasca, Ifa, Ororon, Bennett",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Test_Run_2025-08-19.png/revision/latest/scale-to-width-down/250?cb=20250824093648",
                 "duration": [
@@ -141,19 +127,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-08-19"
             },
             {
-                "event": "Mementos of Teyvat: Prelude of the Frozen Veil",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Mementos_of_Teyvat_Prelude_of_the_Frozen_Veil.png/revision/latest/scale-to-width-down/250?cb=20250819050118",
-                "duration": [
-                    "August 21, 2025",
-                    "September 01, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Mementos_of_Teyvat/2025-08-21"
-            },
-            {
                 "event": "It Starts in Nod-Krai",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/It_Starts_in_Nod-Krai.png/revision/latest/scale-to-width-down/250?cb=20250829153901",
                 "duration": [
@@ -165,9 +138,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/It_Starts_in_Nod-Krai"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Ley Line Overflow 2025-09-01",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
@@ -178,9 +149,24 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2025-09-01"
             },
+            {
+                "event": "A Moonlit Destined Companion",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/A_Moonlit_Destined_Companion.png/revision/latest/scale-to-width-down/250?cb=20250901030139",
+                "duration": [
+                    "September 01, 2025",
+                    "September 09, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Moonlit_Destined_Companion"
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "To Temper Thyself and Journey Far",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250829163151",
