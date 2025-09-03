@@ -15,17 +15,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
             },
             {
-                "event": "Aptitude Showcase - Hysilens, Kafka, Asta, Arlan, Hook",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Aptitude_Showcase_-_Hysilens%2C_Kafka%2C_Asta%2C_Arlan%2C_Hook.png/revision/latest/scale-to-width-down/250?cb=20250819042308",
+                "event": "The Chrysos Maze Grand Restaurant",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Event_The_Chrysos_Maze_Grand_Restaurant.png/revision/latest/scale-to-width-down/250?cb=20250812034853",
                 "duration": [
                     "August 13, 2025",
-                    "September 02, 2025"
+                    "September 22, 2025"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-08-13"
+                "page": "https://honkai-star-rail.fandom.com/wiki/The_Chrysos_Maze_Grand_Restaurant"
             },
             {
                 "event": "Nameless Honor 2025-08-13",
@@ -40,19 +40,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-08-13"
-            },
-            {
-                "event": "The Chrysos Maze Grand Restaurant",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Event_The_Chrysos_Maze_Grand_Restaurant.png/revision/latest/scale-to-width-down/250?cb=20250812034853",
-                "duration": [
-                    "August 13, 2025",
-                    "September 22, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/The_Chrysos_Maze_Grand_Restaurant"
             },
             {
                 "event": "Gift of Odyssey 2025-08-13",
@@ -80,6 +67,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-08-27"
+            },
+            {
+                "event": "Old Brews & New Friends",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Event_Old_Brews_%26_New_Friends.png/revision/latest/scale-to-width-down/250?cb=20250901035147",
+                "duration": [
+                    "September 02, 2025",
+                    "September 22, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Old_Brews_%26_New_Friends"
             }
         ],
         "Upcoming": [
@@ -95,19 +95,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
-            },
-            {
-                "event": "Old Brews & New Friends",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Event_Old_Brews_%26_New_Friends.png/revision/latest/scale-to-width-down/250?cb=20250901035147",
-                "duration": [
-                    "September 02, 2025",
-                    "September 22, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Old_Brews_%26_New_Friends"
             }
         ],
         "Permanent": [
