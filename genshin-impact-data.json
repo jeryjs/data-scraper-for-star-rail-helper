@@ -2,33 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "\"Song of the Welkin Moon\" - Nod-Krai Concept Overview",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Song_of_the_Welkin_Moon_Nod-Krai_Concept_Overview.png/revision/latest/scale-to-width-down/250?cb=20250723012916",
-                "duration": [
-                    "July 23, 2025",
-                    "September 09, 2025"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/%22Song_of_the_Welkin_Moon%22_-_Nod-Krai_Concept_Overview"
-            },
-            {
-                "event": "The Journey Home",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/The_Journey_Home_Event.png/revision/latest/scale-to-width-down/250?cb=20250727041137",
-                "duration": [
-                    "July 30, 2025",
-                    "September 09, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Journey_Home_(Event)"
-            },
-            {
                 "event": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer%21.png/revision/latest/scale-to-width-down/250?cb=20250727041135",
                 "duration": [
@@ -41,20 +14,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer!"
-            },
-            {
-                "event": "Test Run - Mualani, Chasca, Ifa, Ororon, Bennett",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Test_Run_2025-08-19.png/revision/latest/scale-to-width-down/250?cb=20250824093648",
-                "duration": [
-                    "August 19, 2025",
-                    "September 09, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-08-19"
             },
             {
                 "event": "It Starts in Nod-Krai",
@@ -70,21 +29,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/It_Starts_in_Nod-Krai"
             },
             {
-                "event": "A Moonlit Destined Companion",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/A_Moonlit_Destined_Companion.png/revision/latest/scale-to-width-down/250?cb=20250901030139",
-                "duration": [
-                    "September 01, 2025",
-                    "September 09, 2025"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Moonlit_Destined_Companion"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Glacial Moon",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Battle_Pass_Glacial_Moon.png/revision/latest/scale-to-width-down/250?cb=20250908051249",
                 "duration": [
@@ -95,7 +39,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Glacial_Moon"
             },
             {
@@ -109,7 +53,7 @@
                     "In-Game",
                     "Repertoire of Myriad Melodies Update"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Encounter:_Memories_of_a_Boundless_Journey_(Event)"
             },
             {
@@ -123,22 +67,8 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-09-10"
-            },
-            {
-                "event": "A Dance of Snowy Tides and Hoarfrost Groves",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
             },
             {
                 "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
@@ -151,8 +81,22 @@
                     "In-Game",
                     "Anniversary Standard 5-Star Character Selection"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
+            },
+            {
+                "event": "A Dance of Snowy Tides and Hoarfrost Groves",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
+                "duration": [
+                    "September 10, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
             },
             {
                 "event": "To Temper Thyself and Journey Far",
@@ -164,7 +108,7 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far"
             },
             {
@@ -178,26 +122,14 @@
                     "In-Game",
                     "Exploration Mission"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Isle_of_Cold_Moonlight"
-            },
-            {
-                "event": "The Clink Clank Whiz-Kid!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/The_Clink_Clank_Whiz-Kid%21.png/revision/latest/scale-to-width-down/250?cb=20250908040557",
-                "duration": [
-                    "September 10, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest",
-                    "Indefinite"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Clink_Clank_Whiz-Kid!"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Clink Clank Clash",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Clink_Clank_Clash.png/revision/latest/scale-to-width-down/250?cb=20250829160026",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Clink_Clank_Clash.png/revision/latest/scale-to-width-down/250?cb=20250910041810",
                 "duration": [
                     "September 12, 2025",
                     "September 29, 2025"
@@ -293,20 +225,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Fate_Foretold"
             },
             {
-                "event": "Wings of Companionship",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Wings_of_Companionship.jpg/revision/latest/scale-to-width-down/250?cb=20200929014824",
-                "duration": [
-                    "September 28, 2020"
-                ],
-                "type": [
-                    "In-Game",
-                    "Mail",
-                    "Indefinite"
-                ],
-                "status": "Permanent",
-                "page": "https://genshin-impact.fandom.com/wiki/Wings_of_Companionship_(Event)"
-            },
-            {
                 "event": "Spiral Abyss Event - People's Choice",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/People%27s_Choice.png/revision/latest/scale-to-width-down/250?cb=20231206081811",
                 "duration": [
@@ -319,6 +237,20 @@
                 ],
                 "status": "Permanent",
                 "page": "https://genshin-impact.fandom.com/wiki/People%27s_Choice"
+            },
+            {
+                "event": "Wings of Companionship",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Wings_of_Companionship.jpg/revision/latest/scale-to-width-down/250?cb=20200929014824",
+                "duration": [
+                    "September 28, 2020"
+                ],
+                "type": [
+                    "In-Game",
+                    "Mail",
+                    "Indefinite"
+                ],
+                "status": "Permanent",
+                "page": "https://genshin-impact.fandom.com/wiki/Wings_of_Companionship_(Event)"
             },
             {
                 "event": "Baptism of Song",
@@ -416,6 +348,20 @@
                 ],
                 "status": "Permanent",
                 "page": "https://genshin-impact.fandom.com/wiki/Turbo_Twirly!"
+            },
+            {
+                "event": "The Clink Clank Whiz-Kid!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/The_Clink_Clank_Whiz-Kid%21.png/revision/latest/scale-to-width-down/250?cb=20250908040557",
+                "duration": [
+                    "September 10, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest",
+                    "Indefinite"
+                ],
+                "status": "Permanent",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Clink_Clank_Whiz-Kid!"
             }
         ]
     },
