@@ -71,20 +71,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-09-10"
             },
             {
-                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Anniversary Standard 5-Star Character Selection"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
-            },
-            {
                 "event": "A Dance of Snowy Tides and Hoarfrost Groves",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
                 "duration": [
@@ -97,6 +83,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
+            },
+            {
+                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
+                "duration": [
+                    "September 10, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Anniversary Standard 5-Star Character Selection"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
             },
             {
                 "event": "To Temper Thyself and Journey Far",
