@@ -80,6 +80,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-09-02"
+            },
+            {
+                "event": "Garden of Plenty 2025-09-12",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "duration": [
+                    "September 12, 2025",
+                    "September 22, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2025-09-12"
             }
         ],
         "Upcoming": [
@@ -97,17 +110,16 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
             },
             {
-                "event": "Garden of Plenty 2025-09-12",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "event": "Pact of Permansor Terrae",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Event_Pact_of_Permansor_Terrae.png/revision/latest/scale-to-width-down/250?cb=20250912125631",
                 "duration": [
-                    "September 12, 2025",
-                    "September 22, 2025"
+                    "October 15, 2025"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2025-09-12"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Pact_of_Permansor_Terrae"
             }
         ],
         "Permanent": [
