@@ -82,19 +82,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-09-02"
             },
             {
-                "event": "Cyclical Extrapolation: Wandering Through Humanity",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Event_Cyclical_Extrapolation_Wandering_Through_Humanity.png/revision/latest/scale-to-width-down/250?cb=20250914200018",
-                "duration": [
-                    "September 08, 2025",
-                    "September 15, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-09-08"
-            },
-            {
                 "event": "Garden of Plenty 2025-09-12",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
                 "duration": [
@@ -106,6 +93,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2025-09-12"
+            },
+            {
+                "event": "Cyclical Extrapolation: Brief Peace",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Event_Cyclical_Extrapolation_Brief_Peace.png/revision/latest/scale-to-width-down/250?cb=20250914200017",
+                "duration": [
+                    "September 15, 2025",
+                    "September 22, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-09-15"
             }
         ],
         "Upcoming": [
@@ -121,19 +121,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
-            },
-            {
-                "event": "Cyclical Extrapolation: Brief Peace",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Event_Cyclical_Extrapolation_Brief_Peace.png/revision/latest/scale-to-width-down/250?cb=20250914200017",
-                "duration": [
-                    "September 15, 2025",
-                    "September 22, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-09-15"
             },
             {
                 "event": "Pact of Permansor Terrae",
