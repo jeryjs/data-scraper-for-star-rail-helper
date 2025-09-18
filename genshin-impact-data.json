@@ -29,6 +29,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/It_Starts_in_Nod-Krai"
             },
             {
+                "event": "Test Run - Lauma, Nahida, Kuki Shinobu, Kaveh",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Test_Run_2025-09-10.png/revision/latest/scale-to-width-down/250?cb=20250916152126",
+                "duration": [
+                    "September 10, 2025",
+                    "September 30, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-09-10"
+            },
+            {
                 "event": "Glacial Moon",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Battle_Pass_Glacial_Moon.png/revision/latest/scale-to-width-down/250?cb=20250908051249",
                 "duration": [
@@ -71,20 +85,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-09-10"
             },
             {
-                "event": "A Dance of Snowy Tides and Hoarfrost Groves",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
-            },
-            {
                 "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
                 "duration": [
@@ -97,6 +97,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
+            },
+            {
+                "event": "A Dance of Snowy Tides and Hoarfrost Groves",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
+                "duration": [
+                    "September 10, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
             },
             {
                 "event": "To Temper Thyself and Journey Far",
@@ -138,9 +152,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Clink_Clank_Clash"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Stygian Onslaught: Terrorshock Blitz",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
@@ -152,9 +164,11 @@
                     "In-Game",
                     "Stygian Onslaught"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-09-17"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Rainbow's End: Silvery Flux",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Rainbow%27s_End_Silvery_Flux.png/revision/latest/scale-to-width-down/250?cb=20250908040615",
