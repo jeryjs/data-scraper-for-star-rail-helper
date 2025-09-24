@@ -15,33 +15,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Novaflare"
             },
             {
-                "event": "Gift of Odyssey 2025-08-13",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/Event_Gift_of_Odyssey_2025-08-13.png/revision/latest/scale-to-width-down/250?cb=20250819034939",
-                "duration": [
-                    "August 13, 2025",
-                    "September 23, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-08-13"
-            },
-            {
-                "event": "Aptitude Showcase - Cerydra, Silver Wolf, Sampo, Qingque, Dan Heng",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Aptitude_Showcase_-_Cerydra%2C_Silver_Wolf%2C_Sampo%2C_Qingque%2C_Dan_Heng.png/revision/latest/scale-to-width-down/250?cb=20250903193933",
-                "duration": [
-                    "September 02, 2025",
-                    "September 23, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-09-02"
-            },
-            {
                 "event": "Cyclical Extrapolation: The Past Erased",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Event_Cyclical_Extrapolation_The_Past_Erased.png/revision/latest/scale-to-width-down/250?cb=20250921200017",
                 "duration": [
@@ -68,6 +41,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
+            },
+            {
+                "event": "Nice Weather for Dromases",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Nice_Weather_for_Dromases.png/revision/latest/scale-to-width-down/250?cb=20250923060202",
+                "duration": [
+                    "September 24, 2025",
+                    "November 03, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nice_Weather_for_Dromases"
             },
             {
                 "event": "Pact of Permansor Terrae",
