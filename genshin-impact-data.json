@@ -153,9 +153,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-09-17"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Heated Battle Mode: Tactical Formation",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Heated_Battle_Mode_Tactical_Formation_2025-09-27.png/revision/latest/scale-to-width-down/250?cb=20250925054936",
@@ -167,9 +165,11 @@
                     "In-Game",
                     "Heated Battle Mode"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-09-27"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Rainbow's End: Silvery Flux",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Rainbow%27s_End_Silvery_Flux.png/revision/latest/scale-to-width-down/250?cb=20250908040615",
@@ -187,7 +187,7 @@
             },
             {
                 "event": "Dodoco's Blow-Up-Erative Bomb-Nanza",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Dodoco%27s_Blow-Up-Erative_Bomb-Nanza.png/revision/latest/scale-to-width-down/250?cb=20250829160035",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Dodoco%27s_Blow-Up-Erative_Bomb-Nanza.png/revision/latest/scale-to-width-down/250?cb=20250927040823",
                 "duration": [
                     "September 29, 2025",
                     "October 13, 2025"
