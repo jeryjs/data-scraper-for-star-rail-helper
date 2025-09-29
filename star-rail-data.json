@@ -58,6 +58,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Poverty's Bane",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Event_Cyclical_Extrapolation_Poverty%27s_Bane.png/revision/latest/scale-to-width-down/250?cb=20250928200033",
+                "duration": [
+                    "September 29, 2025",
+                    "October 06, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-09-29"
+            },
+            {
                 "event": "Pact of Permansor Terrae",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Event_Pact_of_Permansor_Terrae.png/revision/latest/scale-to-width-down/250?cb=20250912125631",
                 "duration": [
