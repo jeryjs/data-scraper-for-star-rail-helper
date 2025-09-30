@@ -72,20 +72,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-09-10"
             },
             {
-                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Anniversary Standard 5-Star Character Selection"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
-            },
-            {
                 "event": "A Dance of Snowy Tides and Hoarfrost Groves",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
                 "duration": [
@@ -98,6 +84,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
+            },
+            {
+                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
+                "duration": [
+                    "September 10, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Anniversary Standard 5-Star Character Selection"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
             },
             {
                 "event": "To Temper Thyself and Journey Far",
@@ -155,8 +155,8 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-09-17"
             },
             {
-                "event": "Gifts of Encounter 2025-09-27",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Gifts_of_Encounter_2025-09-27.png/revision/latest/scale-to-width-down/250?cb=20250928014551",
+                "event": "Gifts of Encounter 2025-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Gifts_of_Encounter_2025-09-28.png/revision/latest/scale-to-width-down/250?cb=20250928035549",
                 "duration": [
                     "September 27, 2025",
                     "October 07, 2025"
@@ -166,7 +166,7 @@
                     "Login"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2025-09-27"
+                "page": "https://genshin-impact.fandom.com/wiki/Gifts_of_Encounter/2025-09-28"
             },
             {
                 "event": "Heated Battle Mode: Tactical Formation",
@@ -196,9 +196,21 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Rainbow%27s_End:_Silvery_Flux"
-            }
-        ],
-        "Upcoming": [
+            },
+            {
+                "event": "Tracing the Heart's Journey",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Tracing_the_Heart%27s_Journey.png/revision/latest/scale-to-width-down/250?cb=20250928041217",
+                "duration": [
+                    "September 28, 2025",
+                    "October 12, 2025"
+                ],
+                "type": [
+                    "Web",
+                    "Memory"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Tracing_the_Heart%27s_Journey"
+            },
             {
                 "event": "Dodoco's Blow-Up-Erative Bomb-Nanza",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Dodoco%27s_Blow-Up-Erative_Bomb-Nanza.png/revision/latest/scale-to-width-down/250?cb=20250927040823",
@@ -210,9 +222,11 @@
                     "In-Game",
                     "Co-Op"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Dodoco%27s_Blow-Up-Erative_Bomb-Nanza"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Overflowing Favor 2025-10-06",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250412222200",
