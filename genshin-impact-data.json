@@ -210,12 +210,10 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-09-30"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Overflowing Favor 2025-10-06",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Overflowing_Favor.png/revision/latest/scale-to-width-down/250?cb=20250412222200",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Overflowing_Favor_2025-10-06.png/revision/latest/scale-to-width-down/250?cb=20251005204800",
                 "duration": [
                     "October 06, 2025",
                     "October 13, 2025"
@@ -223,9 +221,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor/2025-10-06"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Lightgleaner's Journey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Lightgleaner%27s_Journey.png/revision/latest/scale-to-width-down/250?cb=20250829160037",

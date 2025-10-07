@@ -70,19 +70,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-09-24"
             },
             {
-                "event": "Cyclical Extrapolation: Poverty's Bane",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Event_Cyclical_Extrapolation_Poverty%27s_Bane.png/revision/latest/scale-to-width-down/250?cb=20250928200033",
-                "duration": [
-                    "September 29, 2025",
-                    "October 06, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-09-29"
-            },
-            {
                 "event": "Colorful Mayhem",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Event_Colorful_Mayhem.png/revision/latest/scale-to-width-down/250?cb=20250929042835",
                 "duration": [
@@ -94,6 +81,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Colorful_Mayhem"
+            },
+            {
+                "event": "Cyclical Extrapolation: Ordinary Game",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Event_Cyclical_Extrapolation_Ordinary_Game.png/revision/latest/scale-to-width-down/250?cb=20251005200015",
+                "duration": [
+                    "October 06, 2025",
+                    "October 13, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-06"
             }
         ],
         "Upcoming": [
