@@ -209,9 +209,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Favor/2025-10-06"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Lightgleaner's Journey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Lightgleaner%27s_Journey.png/revision/latest/scale-to-width-down/250?cb=20251008123802",
@@ -222,8 +220,64 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Lightgleaner%27s_Journey"
+            }
+        ],
+        "Upcoming": [
+            {
+                "event": "Saurian Sojourn",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Saurian_Sojourn.png/revision/latest/scale-to-width-down/250?cb=20251010125817",
+                "duration": [
+                    "October 24, 2025",
+                    "November 03, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Saurian_Sojourn"
+            },
+            {
+                "event": "Ruins Exploration: Fieldwise Center",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Ruins_Exploration_Fieldwise_Center.png/revision/latest/scale-to-width-down/250?cb=20251010125815",
+                "duration": [
+                    "November 07, 2025",
+                    "November 24, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ruins_Exploration:_Fieldwise_Center"
+            },
+            {
+                "event": "Dance Dance Dynamic Disco",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Dance_Dance_Dynamic_Disco.png/revision/latest/scale-to-width-down/250?cb=20251010125812",
+                "duration": [
+                    "November 17, 2025",
+                    "November 26, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Dance_Dance_Dynamic_Disco"
+            },
+            {
+                "event": "Overflowing Abundance 2025-11-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Overflowing_Abundance_2025-11-24.png/revision/latest/scale-to-width-down/250?cb=20251010130406",
+                "duration": [
+                    "November 24, 2025",
+                    "December 01, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance/2025-11-24"
             }
         ],
         "Permanent": [
