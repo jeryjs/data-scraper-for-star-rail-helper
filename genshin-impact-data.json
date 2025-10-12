@@ -222,6 +222,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Lightgleaner%27s_Journey"
+            },
+            {
+                "event": "Starbound Oath",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Starbound_Oath.png/revision/latest/scale-to-width-down/250?cb=20251010145114",
+                "duration": [
+                    "October 10, 2025",
+                    "October 21, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Starbound_Oath"
             }
         ],
         "Upcoming": [
