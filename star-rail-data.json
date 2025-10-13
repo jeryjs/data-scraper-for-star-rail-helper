@@ -111,6 +111,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Stub Continuation",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Event_Cyclical_Extrapolation_Stub_Continuation.png/revision/latest/scale-to-width-down/250?cb=20251012200011",
+                "duration": [
+                    "October 13, 2025",
+                    "October 20, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-13"
+            },
+            {
                 "event": "Pact of Permansor Terrae",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Event_Pact_of_Permansor_Terrae.png/revision/latest/scale-to-width-down/250?cb=20250912125631",
                 "duration": [
