@@ -16,17 +16,17 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
             },
             {
-                "event": "Aptitude Showcase - Evernight, The Herta, Misha, Guinaifen, Xueyi",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/Aptitude_Showcase_-_Evernight%2C_The_Herta%2C_Misha%2C_Guinaifen%2C_Xueyi.png/revision/latest/scale-to-width-down/250?cb=20250930050235",
+                "event": "Nice Weather for Dromases",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Nice_Weather_for_Dromases.png/revision/latest/scale-to-width-down/250?cb=20250923060202",
                 "duration": [
                     "September 24, 2025",
-                    "October 15, 2025"
+                    "November 03, 2025"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-09-24"
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nice_Weather_for_Dromases"
             },
             {
                 "event": "Nameless Honor 2025-09-24",
@@ -41,19 +41,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-09-24"
-            },
-            {
-                "event": "Nice Weather for Dromases",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Nice_Weather_for_Dromases.png/revision/latest/scale-to-width-down/250?cb=20250923060202",
-                "duration": [
-                    "September 24, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nice_Weather_for_Dromases"
             },
             {
                 "event": "Gift of Odyssey 2025-09-24",
@@ -107,6 +94,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-13"
+            },
+            {
+                "event": "Try-Not-to-Laugh Challenge",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Event_Try-Not-to-Laugh_Challenge.png/revision/latest/scale-to-width-down/250?cb=20251014202123",
+                "duration": [
+                    "October 15, 2025",
+                    "November 03, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Try-Not-to-Laugh_Challenge"
             }
         ],
         "Upcoming": [
