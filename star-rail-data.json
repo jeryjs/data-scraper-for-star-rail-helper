@@ -121,6 +121,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Pact_of_Permansor_Terrae"
+            },
+            {
+                "event": "Cyclical Extrapolation: Stellar Fractals",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Cyclical_Extrapolation_Stellar_Fractals.png/revision/latest/scale-to-width-down/250?cb=20251019200051",
+                "duration": [
+                    "October 20, 2025",
+                    "October 27, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-20"
             }
         ],
         "Permanent": [
