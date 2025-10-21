@@ -16,19 +16,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
             },
             {
-                "event": "Nice Weather for Dromases",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Nice_Weather_for_Dromases.png/revision/latest/scale-to-width-down/250?cb=20250923060202",
-                "duration": [
-                    "September 24, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nice_Weather_for_Dromases"
-            },
-            {
                 "event": "Nameless Honor 2025-09-24",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -41,6 +28,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-09-24"
+            },
+            {
+                "event": "Nice Weather for Dromases",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Nice_Weather_for_Dromases.png/revision/latest/scale-to-width-down/250?cb=20250923060202",
+                "duration": [
+                    "September 24, 2025",
+                    "November 03, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nice_Weather_for_Dromases"
             },
             {
                 "event": "Gift of Odyssey 2025-09-24",
@@ -70,32 +70,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Colorful_Mayhem"
             },
             {
-                "event": "Planar Fissure 2025-10-08",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
-                "duration": [
-                    "October 08, 2025",
-                    "October 20, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-10-08"
-            },
-            {
-                "event": "Cyclical Extrapolation: Stub Continuation",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Event_Cyclical_Extrapolation_Stub_Continuation.png/revision/latest/scale-to-width-down/250?cb=20251012200011",
-                "duration": [
-                    "October 13, 2025",
-                    "October 20, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-13"
-            },
-            {
                 "event": "Try-Not-to-Laugh Challenge",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Event_Try-Not-to-Laugh_Challenge.png/revision/latest/scale-to-width-down/250?cb=20251014202123",
                 "duration": [
@@ -107,6 +81,19 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Try-Not-to-Laugh_Challenge"
+            },
+            {
+                "event": "Cyclical Extrapolation: Stellar Fractals",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Cyclical_Extrapolation_Stellar_Fractals.png/revision/latest/scale-to-width-down/250?cb=20251019200051",
+                "duration": [
+                    "October 20, 2025",
+                    "October 27, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-20"
             }
         ],
         "Upcoming": [
@@ -121,19 +108,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Pact_of_Permansor_Terrae"
-            },
-            {
-                "event": "Cyclical Extrapolation: Stellar Fractals",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_Cyclical_Extrapolation_Stellar_Fractals.png/revision/latest/scale-to-width-down/250?cb=20251019200051",
-                "duration": [
-                    "October 20, 2025",
-                    "October 27, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Upcoming",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-20"
             }
         ],
         "Permanent": [

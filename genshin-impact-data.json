@@ -83,7 +83,7 @@
                     "Anniversary Standard 5-Star Character Selection"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance"
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-09-10"
             },
             {
                 "event": "To Temper Thyself and Journey Far",
@@ -184,6 +184,61 @@
         ],
         "Upcoming": [
             {
+                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance_2025-10-22.png/revision/latest/scale-to-width-down/250?cb=20251020041225",
+                "duration": [
+                    "October 22, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Anniversary Standard 5-Star Character Selection"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
+            },
+            {
+                "event": "Ruins Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Battle_Pass_Ruins_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251020041228",
+                "duration": [
+                    "October 22, 2025",
+                    "December 01, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Ruins_Chronicle"
+            },
+            {
+                "event": "An Elegy for Faded Moonlight",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/An_Elegy_for_Faded_Moonlight_Event.png/revision/latest/scale-to-width-down/250?cb=20251020041223",
+                "duration": [
+                    "October 22, 2025",
+                    "December 02, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/An_Elegy_for_Faded_Moonlight_(Event)"
+            },
+            {
+                "event": "The Forge Realm's Temper: Endless Swarm",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/The_Forge_Realm%27s_Temper_Endless_Swarm_2025-06-18.png/revision/latest/scale-to-width-down/250?cb=20250616041104",
+                "duration": [
+                    "October 22, 2025",
+                    "December 03, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-10-22"
+            },
+            {
                 "event": "Saurian Sojourn",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Saurian_Sojourn.png/revision/latest/scale-to-width-down/250?cb=20251010125817",
                 "duration": [
@@ -195,6 +250,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Saurian_Sojourn"
+            },
+            {
+                "event": "Stygian Onslaught",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
+                "duration": [
+                    "October 29, 2025",
+                    "December 02, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Stygian Onslaught"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-10-29"
             },
             {
                 "event": "Ruins Exploration: Fieldwise Center",
