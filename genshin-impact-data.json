@@ -16,20 +16,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer!"
             },
             {
-                "event": "Glacial Moon",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Battle_Pass_Glacial_Moon.png/revision/latest/scale-to-width-down/250?cb=20250908051249",
-                "duration": [
-                    "September 10, 2025",
-                    "October 20, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Glacial_Moon"
-            },
-            {
                 "event": "Encounter: Memories of a Boundless Journey",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Encounter_Memories_of_a_Boundless_Journey.png/revision/latest/scale-to-width-down/250?cb=20250908044923",
                 "duration": [
@@ -44,18 +30,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Encounter:_Memories_of_a_Boundless_Journey_(Event)"
             },
             {
-                "event": "The Forge Realm's Temper: Clever Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/The_Forge_Realm%27s_Temper_Clever_Stratagems_2025-09-10.png/revision/latest/scale-to-width-down/250?cb=20250908040627",
+                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
                 "duration": [
                     "September 10, 2025",
                     "October 21, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "The Forge Realm's Temper"
+                    "Anniversary Standard 5-Star Character Selection"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-09-10"
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-09-10"
             },
             {
                 "event": "A Dance of Snowy Tides and Hoarfrost Groves",
@@ -70,20 +56,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
-            },
-            {
-                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Anniversary Standard 5-Star Character Selection"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-09-10"
             },
             {
                 "event": "To Temper Thyself and Journey Far",
