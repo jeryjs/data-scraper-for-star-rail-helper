@@ -2,62 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer%21.png/revision/latest/scale-to-width-down/250?cb=20250727041135",
-                "duration": [
-                    "July 30, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Exploration Mission"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/An_Easy-Breezy_Natlan_in_an_Easy-Breezy_Summer!"
-            },
-            {
-                "event": "Encounter: Memories of a Boundless Journey",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Encounter_Memories_of_a_Boundless_Journey.png/revision/latest/scale-to-width-down/250?cb=20250908044923",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Repertoire of Myriad Melodies Update"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Encounter:_Memories_of_a_Boundless_Journey_(Event)"
-            },
-            {
-                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance.png/revision/latest/scale-to-width-down/250?cb=20250908040602",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Anniversary Standard 5-Star Character Selection"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-09-10"
-            },
-            {
-                "event": "A Dance of Snowy Tides and Hoarfrost Groves",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_Event.png/revision/latest/scale-to-width-down/250?cb=20250908040545",
-                "duration": [
-                    "September 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Archon Quest"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Event)"
-            },
-            {
                 "event": "To Temper Thyself and Journey Far",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250908040629",
                 "duration": [
@@ -83,90 +27,22 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Isle_of_Cold_Moonlight"
-            },
-            {
-                "event": "Stygian Onslaught: Terrorshock Blitz",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest/scale-to-width-down/250?cb=20250623040614",
-                "duration": [
-                    "September 17, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Stygian Onslaught"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-09-17"
-            },
-            {
-                "event": "Rainbow's End: Silvery Flux",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Rainbow%27s_End_Silvery_Flux.png/revision/latest/scale-to-width-down/250?cb=20250908040615",
-                "duration": [
-                    "September 28, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login",
-                    "Mail"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Rainbow%27s_End:_Silvery_Flux"
-            },
-            {
-                "event": "Test Run - Flins, Yelan, Aino, Sucrose, Dori",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Test_Run_2025-09-30.png/revision/latest/scale-to-width-down/250?cb=20250930220249",
-                "duration": [
-                    "September 30, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Test Run"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-09-30"
-            },
-            {
-                "event": "Lightgleaner's Journey",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Lightgleaner%27s_Journey.png/revision/latest/scale-to-width-down/250?cb=20251008123802",
-                "duration": [
-                    "October 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Lightgleaner%27s_Journey"
-            },
-            {
-                "event": "Starbound Oath",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Starbound_Oath.png/revision/latest/scale-to-width-down/250?cb=20251010145114",
-                "duration": [
-                    "October 10, 2025",
-                    "October 21, 2025"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Starbound_Oath"
             }
         ],
         "Upcoming": [
             {
-                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance_2025-10-22.png/revision/latest/scale-to-width-down/250?cb=20251020041225",
+                "event": "Awakening Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Awakening_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251021130756",
                 "duration": [
-                    "October 22, 2025"
+                    "October 22, 2025",
+                    "December 01, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Anniversary Standard 5-Star Character Selection"
+                    "Miliastra Pass"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
+                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-10-22"
             },
             {
                 "event": "Ruins Chronicle",
@@ -211,8 +87,35 @@
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-10-22"
             },
             {
+                "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance_2025-10-22.png/revision/latest/scale-to-width-down/250?cb=20251020041225",
+                "duration": [
+                    "October 22, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Anniversary Standard 5-Star Character Selection"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
+            },
+            {
+                "event": "Invitation to Wonderland: A Curious Awakening",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Invitation_to_Wonderland_A_Curious_Awakening.png/revision/latest/scale-to-width-down/250?cb=20251021130758",
+                "duration": [
+                    "October 22, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Wonderland",
+                    "Indefinite"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Invitation_to_Wonderland:_A_Curious_Awakening"
+            },
+            {
                 "event": "Saurian Sojourn",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Saurian_Sojourn.png/revision/latest/scale-to-width-down/250?cb=20251010125817",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Saurian_Sojourn.png/revision/latest/scale-to-width-down/250?cb=20251022041906",
                 "duration": [
                     "October 24, 2025",
                     "November 03, 2025"
