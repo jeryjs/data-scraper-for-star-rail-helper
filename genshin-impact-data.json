@@ -27,9 +27,7 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Isle_of_Cold_Moonlight"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Awakening Chronicle",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Awakening_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251021130756",
@@ -41,7 +39,7 @@
                     "In-Game",
                     "Miliastra Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-10-22"
             },
             {
@@ -55,7 +53,7 @@
                     "In-Game",
                     "Battle Pass"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Ruins_Chronicle"
             },
             {
@@ -69,7 +67,7 @@
                     "In-Game",
                     "Archon Quest"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/An_Elegy_for_Faded_Moonlight_(Event)"
             },
             {
@@ -83,9 +81,11 @@
                     "In-Game",
                     "The Forge Realm's Temper"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-10-22"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Uncover Lunar Realms, Hone the Eventide Radiance",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Uncover_Lunar_Realms%2C_Hone_the_Eventide_Radiance_2025-10-22.png/revision/latest/scale-to-width-down/250?cb=20251020041225",
@@ -98,20 +98,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Invitation to Wonderland: A Curious Awakening",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Invitation_to_Wonderland_A_Curious_Awakening.png/revision/latest/scale-to-width-down/250?cb=20251021130758",
-                "duration": [
-                    "October 22, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Wonderland",
-                    "Indefinite"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Invitation_to_Wonderland:_A_Curious_Awakening"
             },
             {
                 "event": "Saurian Sojourn",
@@ -334,6 +320,20 @@
                 ],
                 "status": "Permanent",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Clink_Clank_Whiz-Kid!"
+            },
+            {
+                "event": "Invitation to Wonderland: A Curious Awakening",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Invitation_to_Wonderland_A_Curious_Awakening.png/revision/latest/scale-to-width-down/250?cb=20251021130758",
+                "duration": [
+                    "October 22, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Wonderland",
+                    "Indefinite"
+                ],
+                "status": "Permanent",
+                "page": "https://genshin-impact.fandom.com/wiki/Invitation_to_Wonderland:_A_Curious_Awakening"
             }
         ]
     },
