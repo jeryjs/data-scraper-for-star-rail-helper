@@ -83,6 +83,32 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-10-22"
+            },
+            {
+                "event": "Artful Odyssey",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Artful_Odyssey.png/revision/latest/scale-to-width-down/250?cb=20251024054658",
+                "duration": [
+                    "October 22, 2025",
+                    "December 03, 2025"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Artful_Odyssey"
+            },
+            {
+                "event": "Saurian Sojourn",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Saurian_Sojourn.png/revision/latest/scale-to-width-down/250?cb=20251022041906",
+                "duration": [
+                    "October 24, 2025",
+                    "November 03, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Saurian_Sojourn"
             }
         ],
         "Upcoming": [
@@ -98,19 +124,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Saurian Sojourn",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Saurian_Sojourn.png/revision/latest/scale-to-width-down/250?cb=20251022041906",
-                "duration": [
-                    "October 24, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Saurian_Sojourn"
             },
             {
                 "event": "Stygian Onslaught",
