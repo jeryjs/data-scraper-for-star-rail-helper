@@ -109,6 +109,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Saurian_Sojourn"
+            },
+            {
+                "event": "Stygian Onslaught: Sweeping Assault",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
+                "duration": [
+                    "October 29, 2025",
+                    "December 02, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Stygian Onslaught"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-10-29"
             }
         ],
         "Upcoming": [
@@ -124,20 +138,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Stygian Onslaught",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
-                "duration": [
-                    "October 29, 2025",
-                    "December 02, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Stygian Onslaught"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-10-29"
             },
             {
                 "event": "Ruins Exploration: Fieldwise Center",
