@@ -137,6 +137,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Cyclical Extrapolation: Sportsmanship",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Event_Cyclical_Extrapolation_Sportsmanship.png/revision/latest/scale-to-width-down/250?cb=20251102200021",
+                "duration": [
+                    "November 03, 2025",
+                    "November 10, 2025"
+                ],
+                "type": [
+                    "Cyclical Extrapolation"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-11-03"
+            },
+            {
                 "event": "Nameless Honor 2025-11-05",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
