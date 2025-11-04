@@ -16,33 +16,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
             },
             {
-                "event": "Nice Weather for Dromases",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Event_Nice_Weather_for_Dromases.png/revision/latest/scale-to-width-down/250?cb=20250923060202",
-                "duration": [
-                    "September 24, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nice_Weather_for_Dromases"
-            },
-            {
-                "event": "Nameless Honor 2025-09-24",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
-                "duration": [
-                    "September 24, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Nameless Honor"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-09-24"
-            },
-            {
                 "event": "Gift of Odyssey 2025-09-24",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Event_Gift_of_Odyssey_2025-09-24.png/revision/latest/scale-to-width-down/250?cb=20250930044014",
                 "duration": [
@@ -55,32 +28,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-09-24"
-            },
-            {
-                "event": "Colorful Mayhem",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Event_Colorful_Mayhem.png/revision/latest/scale-to-width-down/250?cb=20250929042835",
-                "duration": [
-                    "September 30, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Colorful_Mayhem"
-            },
-            {
-                "event": "Try-Not-to-Laugh Challenge",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Event_Try-Not-to-Laugh_Challenge.png/revision/latest/scale-to-width-down/250?cb=20251014202123",
-                "duration": [
-                    "October 15, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Try-Not-to-Laugh_Challenge"
             },
             {
                 "event": "Aptitude Showcase - Dan Heng \u2022 Permansor Terrae, Anaxa, Sushang, Hanya, Serval",
@@ -109,34 +56,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Pact_of_Permansor_Terrae"
             },
             {
-                "event": "Realm of the Strange 2025-10-24",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20250509000613",
-                "duration": [
-                    "October 24, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2025-10-24"
-            },
-            {
-                "event": "Cyclical Extrapolation: Viscous Thoughts",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Event_Cyclical_Extrapolation_Viscous_Thoughts.png/revision/latest/scale-to-width-down/250?cb=20251026200018",
-                "duration": [
-                    "October 27, 2025",
-                    "November 03, 2025"
-                ],
-                "type": [
-                    "Cyclical Extrapolation"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-10-27"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Cyclical Extrapolation: Sportsmanship",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Event_Cyclical_Extrapolation_Sportsmanship.png/revision/latest/scale-to-width-down/250?cb=20251102200021",
                 "duration": [
@@ -146,9 +65,11 @@
                 "type": [
                     "Cyclical Extrapolation"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-11-03"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Nameless Honor 2025-11-05",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
