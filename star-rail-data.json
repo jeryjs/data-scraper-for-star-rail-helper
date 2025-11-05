@@ -2,47 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "Fate Contract",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Event_Fate_Contract.png/revision/latest/scale-to-width-down/250?cb=20250711123159",
-                "duration": [
-                    "July 11, 2025",
-                    "November 05, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Collaboration"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Fate_Contract"
-            },
-            {
-                "event": "Gift of Odyssey 2025-09-24",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Event_Gift_of_Odyssey_2025-09-24.png/revision/latest/scale-to-width-down/250?cb=20250930044014",
-                "duration": [
-                    "September 24, 2025",
-                    "November 04, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-09-24"
-            },
-            {
-                "event": "Aptitude Showcase - Dan Heng \u2022 Permansor Terrae, Anaxa, Sushang, Hanya, Serval",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Aptitude_Showcase_-_Dan_Heng_%E2%80%A2_Permansor_Terrae%2C_Anaxa%2C_Sushang%2C_Hanya%2C_Serval.png/revision/latest/scale-to-width-down/250?cb=20251023221345",
-                "duration": [
-                    "October 15, 2025",
-                    "November 04, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-10-15"
-            },
-            {
                 "event": "Pact of Permansor Terrae",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Event_Pact_of_Permansor_Terrae.png/revision/latest/scale-to-width-down/250?cb=20250912125631",
                 "duration": [
