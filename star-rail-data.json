@@ -26,9 +26,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Divergent_Universe/Cyclical_Extrapolation/2025-11-03"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Nameless Honor 2025-11-05",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
@@ -40,9 +38,25 @@
                     "In-Game",
                     "Nameless Honor"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-11-05"
             },
+            {
+                "event": "Gift of Odyssey 2025-11-05",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/Event_Gift_of_Odyssey_2025-11-05.png/revision/latest/scale-to-width-down/250?cb=20251105032638",
+                "duration": [
+                    "November 05, 2025",
+                    "December 16, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-11-05"
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 2025-11-17",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
