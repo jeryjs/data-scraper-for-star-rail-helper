@@ -110,6 +110,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-10-29"
+            },
+            {
+                "event": "Ruins Exploration: Fieldwise Center",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Ruins_Exploration_Fieldwise_Center.png/revision/latest/scale-to-width-down/250?cb=20251105040102",
+                "duration": [
+                    "November 07, 2025",
+                    "November 24, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Ruins_Exploration:_Fieldwise_Center"
             }
         ],
         "Upcoming": [
@@ -127,18 +141,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
             },
             {
-                "event": "Ruins Exploration: Fieldwise Center",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Ruins_Exploration_Fieldwise_Center.png/revision/latest/scale-to-width-down/250?cb=20251105040102",
+                "event": "Heated Battle Mode: Automatic Artistry",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Heated_Battle_Mode_Automatic_Artistry_2025-11-08.png/revision/latest/scale-to-width-down/250?cb=20251106040234",
                 "duration": [
-                    "November 07, 2025",
+                    "November 08, 2025",
                     "November 24, 2025"
                 ],
                 "type": [
                     "In-Game",
-                    "Flagship"
+                    "Heated Battle Mode"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Ruins_Exploration:_Fieldwise_Center"
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-11-08"
             },
             {
                 "event": "Dance Dance Dynamic Disco",
