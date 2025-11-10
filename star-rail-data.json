@@ -151,18 +151,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Daily_Check-in"
             },
             {
-                "event": "Trailblazing Will",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Event_Trailblazing_Will.png/revision/latest/scale-to-width-down/250?cb=20230528143248",
-                "duration": [
-                    "April 26, 2023"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Permanent",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Trailblazing_Will"
-            },
-            {
                 "event": "Starkissed Synchrony",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Event_Starkissed_Synchrony.png/revision/latest/scale-to-width-down/250?cb=20230720143547",
                 "duration": [
@@ -173,6 +161,18 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Starkissed_Synchrony"
+            },
+            {
+                "event": "Trailblazing Will",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Event_Trailblazing_Will.png/revision/latest/scale-to-width-down/250?cb=20230528143248",
+                "duration": [
+                    "April 26, 2023"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Trailblazing_Will"
             },
             {
                 "event": "Turquoise's Reverie",
@@ -199,18 +199,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Starlit_Homecoming"
             },
             {
-                "event": "Joint Forces",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Event_Joint_Forces.png/revision/latest/scale-to-width-down/250?cb=20240619093317",
-                "duration": [
-                    "July 19, 2023"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Permanent",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Joint_Forces"
-            },
-            {
                 "event": "To Retire Upon the Perch",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Event_To_Retire_Upon_the_Perch.png/revision/latest/scale-to-width-down/250?cb=20230720155159",
                 "duration": [
@@ -221,6 +209,18 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/To_Retire_Upon_the_Perch"
+            },
+            {
+                "event": "Joint Forces",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Event_Joint_Forces.png/revision/latest/scale-to-width-down/250?cb=20240619093317",
+                "duration": [
+                    "July 19, 2023"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Joint_Forces"
             },
             {
                 "event": "Simulated Universe: Swarm Disaster",
@@ -334,6 +334,19 @@
                 ],
                 "status": "Permanent",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Along_With_Heroic_Spirits"
+            },
+            {
+                "event": "Currency Wars: Zero-Sum Game",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Event_Currency_Wars_Zero-Sum_Game.png/revision/latest/scale-to-width-down/250?cb=20251109092914",
+                "duration": [
+                    "November 05, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Currency Wars"
+                ],
+                "status": "Permanent",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Currency_Wars:_Zero-Sum_Game"
             }
         ]
     },
