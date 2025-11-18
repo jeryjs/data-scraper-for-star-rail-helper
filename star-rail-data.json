@@ -28,6 +28,19 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-11-05"
             },
             {
+                "event": "Snack Dash",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Event_Snack_Dash.png/revision/latest/scale-to-width-down/250?cb=20251105025219",
+                "duration": [
+                    "November 05, 2025",
+                    "December 15, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Snack_Dash"
+            },
+            {
                 "event": "Nameless Honor 2025-11-05",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
                 "duration": [
@@ -40,19 +53,6 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-11-05"
-            },
-            {
-                "event": "Snack Dash",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Event_Snack_Dash.png/revision/latest/scale-to-width-down/250?cb=20251105025219",
-                "duration": [
-                    "November 05, 2025",
-                    "December 15, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Snack_Dash"
             },
             {
                 "event": "Gift of Odyssey 2025-11-05",
@@ -106,9 +106,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/A_Letter_from_the_Past"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Planar Fissure 2025-11-17",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
@@ -119,9 +117,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-11-17"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Garden of Plenty 2025-12-05",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
