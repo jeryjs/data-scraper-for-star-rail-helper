@@ -180,6 +180,60 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance/2025-11-24"
+            },
+            {
+                "event": "Bing-Bang Finchball 2025-12-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Bing-Bang_Finchball_2025-12-05.png/revision/latest/scale-to-width-down/250?cb=20251121130014",
+                "duration": [
+                    "December 05, 2025",
+                    "December 15, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2025-12-05"
+            },
+            {
+                "event": "Soulblazers' Snowbound Journey",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Soulblazers%27_Snowbound_Journey.png/revision/latest/scale-to-width-down/250?cb=20251121130011",
+                "duration": [
+                    "December 19, 2025",
+                    "January 31, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Soulblazers%27_Snowbound_Journey"
+            },
+            {
+                "event": "Heroic Clash: Saurian Brawl",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Heroic_Clash_Saurian_Brawl.png/revision/latest/scale-to-width-down/250?cb=20251121130016",
+                "duration": [
+                    "December 29, 2025",
+                    "January 07, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Heroic_Clash:_Saurian_Brawl"
+            },
+            {
+                "event": "Marvelous Merchandise 2026-01-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Marvelous_Merchandise_2026-01-05.png/revision/latest/scale-to-width-down/250?cb=20251121130019",
+                "duration": [
+                    "January 05, 2026",
+                    "January 12, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2026-01-05"
             }
         ],
         "Permanent": [
