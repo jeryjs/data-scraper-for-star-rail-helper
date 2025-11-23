@@ -2,7 +2,7 @@
     "Events": {
         "Current": [
             {
-                "event": "To Temper Thyself and Journey Far",
+                "event": "To Temper Thyself and Journey Far 2025-09-10",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250908040629",
                 "duration": [
                     "September 10, 2025",
@@ -12,7 +12,7 @@
                     "In-Game"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far"
+                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-09-10"
             },
             {
                 "event": "The Isle of Cold Moonlight",
@@ -170,7 +170,7 @@
             },
             {
                 "event": "Overflowing Abundance 2025-11-24",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Overflowing_Abundance_2025-11-24.png/revision/latest/scale-to-width-down/250?cb=20251010130406",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Overflowing_Abundance_2025-11-24.png/revision/latest/scale-to-width-down/250?cb=20251122044909",
                 "duration": [
                     "November 24, 2025",
                     "December 01, 2025"
@@ -180,6 +180,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance/2025-11-24"
+            },
+            {
+                "event": "To Temper Thyself and Journey Far 2025-12-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250908040629",
+                "duration": [
+                    "December 01, 2025",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
                 "event": "Bing-Bang Finchball 2025-12-05",
