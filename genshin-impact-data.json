@@ -2,19 +2,6 @@
     "Events": {
         "Current": [
             {
-                "event": "To Temper Thyself and Journey Far 2025-09-10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250908040629",
-                "duration": [
-                    "September 10, 2025",
-                    "December 01, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-09-10"
-            },
-            {
                 "event": "The Isle of Cold Moonlight",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/The_Isle_of_Cold_Moonlight.png/revision/latest/scale-to-width-down/250?cb=20250908040547",
                 "duration": [
@@ -27,34 +14,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Isle_of_Cold_Moonlight"
-            },
-            {
-                "event": "Ruins Chronicle",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Battle_Pass_Ruins_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251020041228",
-                "duration": [
-                    "October 22, 2025",
-                    "December 01, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Ruins_Chronicle"
-            },
-            {
-                "event": "Awakening Chronicle",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Awakening_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251021130756",
-                "duration": [
-                    "October 22, 2025",
-                    "December 01, 2025"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-10-22"
             },
             {
                 "event": "An Elegy for Faded Moonlight",
@@ -112,17 +71,17 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-10-29"
             },
             {
-                "event": "Overflowing Abundance 2025-11-24",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Overflowing_Abundance_2025-11-24.png/revision/latest/scale-to-width-down/250?cb=20251122044909",
+                "event": "To Temper Thyself and Journey Far 2025-12-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250908040629",
                 "duration": [
-                    "November 24, 2025",
-                    "December 01, 2025"
+                    "December 01, 2025",
+                    "February 23, 2026"
                 ],
                 "type": [
                     "In-Game"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Overflowing_Abundance/2025-11-24"
+                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             }
         ],
         "Upcoming": [
@@ -140,17 +99,87 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
             },
             {
-                "event": "To Temper Thyself and Journey Far 2025-12-01",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/To_Temper_Thyself_and_Journey_Far.png/revision/latest/scale-to-width-down/250?cb=20250908040629",
+                "event": "Snowblaze",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Battle_Pass_Snowblaze.png/revision/latest/scale-to-width-down/250?cb=20251201040738",
                 "duration": [
-                    "December 01, 2025",
-                    "February 23, 2026"
+                    "December 03, 2025",
+                    "January 12, 2026"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Battle Pass"
                 ],
                 "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Snowblaze"
+            },
+            {
+                "event": "Snowveil Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Snowveil_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251201040747",
+                "duration": [
+                    "December 03, 2025",
+                    "January 12, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-12-03"
+            },
+            {
+                "event": "The Forge Realm's Temper: Game of Wits",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-12-03.png/revision/latest/scale-to-width-down/250?cb=20251201040727",
+                "duration": [
+                    "December 03, 2025",
+                    "January 13, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-12-03"
+            },
+            {
+                "event": "Draco Rubedo Chapter",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Draco_Rubedo_Chapter_Event.png/revision/latest/scale-to-width-down/250?cb=20251201040731",
+                "duration": [
+                    "December 03, 2025",
+                    "January 13, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Story Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Draco_Rubedo_Chapter_(Event)"
+            },
+            {
+                "event": "Witch's Homework",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Witch%27s_Homework_Event.png/revision/latest/scale-to-width-down/250?cb=20251201042442",
+                "duration": [
+                    "December 03, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Indefinite"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Witch%27s_Homework_(Event)"
+            },
+            {
+                "event": "Invitation to Wonderland: In Search of Inspiration",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Invitation_to_Wonderland_In_Search_of_Inspiration.png/revision/latest/scale-to-width-down/250?cb=20251201040742",
+                "duration": [
+                    "December 03, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Wonderland",
+                    "Indefinite"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Invitation_to_Wonderland/2025-12-03"
             },
             {
                 "event": "Bing-Bang Finchball 2025-12-05",
@@ -164,6 +193,34 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2025-12-05"
+            },
+            {
+                "event": "Stygian Onslaught",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
+                "duration": [
+                    "December 10, 2025",
+                    "January 13, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Stygian Onslaught"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-12-10"
+            },
+            {
+                "event": "A Nocturne of the Far North",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/A_Nocturne_of_the_Far_North_Event.png/revision/latest/scale-to-width-down/250?cb=20251201040729",
+                "duration": [
+                    "December 13, 2025",
+                    "January 13, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Nocturne_of_the_Far_North_(Event)"
             },
             {
                 "event": "Soulblazers' Snowbound Journey",
