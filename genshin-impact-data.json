@@ -43,6 +43,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Snowblaze"
             },
             {
+                "event": "Mili 'Snow' Resort, Party in Wonderland!",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Mili_%27Snow%27_Resort%2C_Party_in_Wonderland%21.png/revision/latest/scale-to-width-down/250?cb=20251205011905",
+                "duration": [
+                    "December 03, 2025",
+                    "January 13, 2026"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Mili_%27Snow%27_Resort,_Party_in_Wonderland!"
+            },
+            {
                 "event": "The Forge Realm's Temper: Game of Wits",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-12-03.png/revision/latest/scale-to-width-down/250?cb=20251201040727",
                 "duration": [
@@ -83,6 +96,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Draco_Rubedo_Chapter_(Event)"
+            },
+            {
+                "event": "Bing-Bang Finchball 2025-12-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Bing-Bang_Finchball_2025-12-05.png/revision/latest/scale-to-width-down/250?cb=20251203042847",
+                "duration": [
+                    "December 05, 2025",
+                    "December 15, 2025"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2025-12-05"
             }
         ],
         "Upcoming": [
@@ -98,19 +124,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Bing-Bang Finchball 2025-12-05",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Bing-Bang_Finchball_2025-12-05.png/revision/latest/scale-to-width-down/250?cb=20251203042847",
-                "duration": [
-                    "December 05, 2025",
-                    "December 15, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2025-12-05"
             },
             {
                 "event": "Stygian Onslaught",
