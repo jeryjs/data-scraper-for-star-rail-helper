@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Snowveil Chronicle",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Snowveil_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251201040747",
-                "duration": [
-                    "December 03, 2025",
-                    "January 12, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-12-03"
-            },
-            {
                 "event": "Snowblaze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Battle_Pass_Snowblaze.png/revision/latest/scale-to-width-down/250?cb=20251201040738",
                 "duration": [
@@ -43,6 +29,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Snowblaze"
             },
             {
+                "event": "Snowveil Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Snowveil_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251201040747",
+                "duration": [
+                    "December 03, 2025",
+                    "January 12, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-12-03"
+            },
+            {
                 "event": "Mili 'Snow' Resort, Party in Wonderland!",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Mili_%27Snow%27_Resort%2C_Party_in_Wonderland%21.png/revision/latest/scale-to-width-down/250?cb=20251205011905",
                 "duration": [
@@ -54,20 +54,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Mili_%27Snow%27_Resort,_Party_in_Wonderland!"
-            },
-            {
-                "event": "The Forge Realm's Temper: Game of Wits",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-12-03.png/revision/latest/scale-to-width-down/250?cb=20251201040727",
-                "duration": [
-                    "December 03, 2025",
-                    "January 13, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "The Forge Realm's Temper"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-12-03"
             },
             {
                 "event": "A Nocturne of the Far North",
@@ -96,6 +82,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Draco_Rubedo_Chapter_(Event)"
+            },
+            {
+                "event": "The Forge Realm's Temper: Game of Wits",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/The_Forge_Realm%27s_Temper_Game_of_Wits_2025-12-03.png/revision/latest/scale-to-width-down/250?cb=20251201040727",
+                "duration": [
+                    "December 03, 2025",
+                    "January 14, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-12-03"
             },
             {
                 "event": "Bing-Bang Finchball 2025-12-05",
