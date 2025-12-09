@@ -109,6 +109,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Bing-Bang_Finchball/2025-12-05"
+            },
+            {
+                "event": "Genshin Impact \u00d7 Duolingo",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Genshin_Impact_%C3%97_Duolingo.png/revision/latest/scale-to-width-down/250?cb=20240712062312",
+                "duration": [
+                    "December 08, 2025",
+                    "December 27, 2025"
+                ],
+                "type": [
+                    "Collaboration"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_%C3%97_Duolingo/2025-12-08"
             }
         ],
         "Upcoming": [
@@ -124,19 +137,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Genshin Impact \u00d7 Duolingo",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Genshin_Impact_%C3%97_Duolingo.png/revision/latest/scale-to-width-down/250?cb=20240712062312",
-                "duration": [
-                    "December 08, 2025",
-                    "December 27, 2025"
-                ],
-                "type": [
-                    "Collaboration"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_%C3%97_Duolingo/2025-12-08"
             },
             {
                 "event": "Stygian Onslaught",
