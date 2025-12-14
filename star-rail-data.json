@@ -136,6 +136,20 @@
         ],
         "Upcoming": [
             {
+                "event": "Nameless Honor 2025-12-17",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Event_Nameless_Honor.png/revision/latest/scale-to-width-down/250?cb=20240325033859",
+                "duration": [
+                    "December 17, 2025",
+                    "February 09, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Nameless Honor"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-12-17"
+            },
+            {
                 "event": "Gift of Odyssey 2025-12-17",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Event_Gift_of_Odyssey_2025-12-17.png/revision/latest/scale-to-width-down/250?cb=20251205153021",
                 "duration": [
@@ -148,6 +162,45 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-12-17"
+            },
+            {
+                "event": "Planar Fissure 2025-12-29",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
+                "duration": [
+                    "December 29, 2025",
+                    "January 12, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-12-29"
+            },
+            {
+                "event": "Realm of the Strange 2026-01-16",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20250509000613",
+                "duration": [
+                    "January 16, 2026",
+                    "February 12, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Realm_of_the_Strange/2026-01-16"
+            },
+            {
+                "event": "Garden of Plenty 2026-01-28",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Event_Garden_of_Plenty.png/revision/latest/scale-to-width-down/250?cb=20230720105834",
+                "duration": [
+                    "January 28, 2026",
+                    "February 12, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Garden_of_Plenty/2026-01-28"
             }
         ],
         "Permanent": [

@@ -15,6 +15,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
+                "event": "Test Run - Durin, Venti, Jahoda, Bennett, Faruzan",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Test_Run_2025-12-03.png/revision/latest/scale-to-width-down/250?cb=20251213125755",
+                "duration": [
+                    "December 03, 2025",
+                    "December 23, 2025"
+                ],
+                "type": [
+                    "In-Game",
+                    "Test Run"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-12-03"
+            },
+            {
                 "event": "Snowblaze",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Battle_Pass_Snowblaze.png/revision/latest/scale-to-width-down/250?cb=20251201040738",
                 "duration": [
@@ -124,7 +138,7 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_%C3%97_Duolingo/2025-12-08"
             },
             {
-                "event": "Stygian Onslaught",
+                "event": "Stygian Onslaught: Tremorfall Trial",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
                 "duration": [
                     "December 10, 2025",
