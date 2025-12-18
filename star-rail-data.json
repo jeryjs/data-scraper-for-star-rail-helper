@@ -15,19 +15,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Pact_of_Permansor_Terrae"
             },
             {
-                "event": "Cherished Recollection 2025-11-05",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Event_Cherished_Recollection_2025-11-05.png/revision/latest/scale-to-width-down/250?cb=20251105033033",
-                "duration": [
-                    "November 05, 2025",
-                    "December 16, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Cherished_Recollection/2025-11-05"
-            },
-            {
                 "event": "Stellar Companions 2025-11-05",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Event_Stellar_Companions_2025-11-05.png/revision/latest/scale-to-width-down/250?cb=20251105025224",
                 "duration": [
@@ -41,34 +28,6 @@
                 "page": "https://honkai-star-rail.fandom.com/wiki/Stellar_Companions/2025-11-05"
             },
             {
-                "event": "A Letter from the Past",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Event_A_Letter_from_the_Past.png/revision/latest/scale-to-width-down/250?cb=20251105174841",
-                "duration": [
-                    "November 05, 2025",
-                    "December 17, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/A_Letter_from_the_Past"
-            },
-            {
-                "event": "Aptitude Showcase - Cyrene, Phainon, Cipher, Mydei, Moze, Lynx, Pela",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Aptitude_Showcase_-_Cyrene%2C_Phainon%2C_Cipher%2C_Mydei%2C_Moze%2C_Lynx%2C_Pela.png/revision/latest/scale-to-width-down/250?cb=20251126183914",
-                "duration": [
-                    "November 26, 2025",
-                    "December 16, 2025"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://honkai-star-rail.fandom.com/wiki/Aptitude_Showcase/2025-11-26"
-            }
-        ],
-        "Upcoming": [
-            {
                 "event": "Chrysos Awoo Championship",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Event_Chrysos_Awoo_Championship.png/revision/latest/scale-to-width-down/250?cb=20251215122526",
                 "duration": [
@@ -78,7 +37,7 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Chrysos_Awoo_Championship"
             },
             {
@@ -92,7 +51,7 @@
                     "In-Game",
                     "Nameless Honor"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Nameless_Honor/2025-12-17"
             },
             {
@@ -106,9 +65,11 @@
                     "In-Game",
                     "Login"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-12-17"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Planar Fissure 2025-12-29",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
