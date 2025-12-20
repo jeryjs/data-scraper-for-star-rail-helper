@@ -137,6 +137,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-12-10"
+            },
+            {
+                "event": "Soulblazers' Snowbound Journey",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Soulblazers%27_Snowbound_Journey.png/revision/latest/scale-to-width-down/250?cb=20251217040423",
+                "duration": [
+                    "December 19, 2025",
+                    "January 05, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Soulblazers%27_Snowbound_Journey"
             }
         ],
         "Upcoming": [
@@ -152,20 +166,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Soulblazers' Snowbound Journey",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Soulblazers%27_Snowbound_Journey.png/revision/latest/scale-to-width-down/250?cb=20251217040423",
-                "duration": [
-                    "December 19, 2025",
-                    "January 05, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Flagship"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Soulblazers%27_Snowbound_Journey"
             },
             {
                 "event": "Heated Battle Mode: Sprinting Stratagems",
