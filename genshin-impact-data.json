@@ -151,6 +151,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Soulblazers%27_Snowbound_Journey"
+            },
+            {
+                "event": "Heated Battle Mode: Sprinting Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Heated_Battle_Mode_Sprinting_Stratagems_2025-12-20.png/revision/latest/scale-to-width-down/250?cb=20251218040337",
+                "duration": [
+                    "December 20, 2025",
+                    "January 05, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Heated Battle Mode"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-12-20"
             }
         ],
         "Upcoming": [
@@ -166,20 +180,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Heated Battle Mode: Sprinting Stratagems",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Heated_Battle_Mode_Sprinting_Stratagems_2025-12-20.png/revision/latest/scale-to-width-down/250?cb=20251218040337",
-                "duration": [
-                    "December 20, 2025",
-                    "January 05, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Heated Battle Mode"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-12-20"
             },
             {
                 "event": "Heroic Clash: Saurian Brawl",
