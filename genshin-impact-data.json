@@ -15,18 +15,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Test Run - Durin, Venti, Jahoda, Bennett, Faruzan",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Test_Run_2025-12-03.png/revision/latest/scale-to-width-down/250?cb=20251213125755",
+                "event": "Snowveil Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Snowveil_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251201040747",
                 "duration": [
                     "December 03, 2025",
-                    "December 23, 2025"
+                    "January 12, 2026"
                 ],
                 "type": [
                     "In-Game",
-                    "Test Run"
+                    "Miliastra Pass"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Test_Run_-_Character_Trial_Event/2025-12-03"
+                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-12-03"
             },
             {
                 "event": "Snowblaze",
@@ -43,21 +43,7 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Snowblaze"
             },
             {
-                "event": "Snowveil Chronicle",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Snowveil_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251201040747",
-                "duration": [
-                    "December 03, 2025",
-                    "January 12, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-12-03"
-            },
-            {
-                "event": "Mili 'Snow' Resort, Party in Wonderland!",
+                "event": "Mili \"Snow\" Resort, Party in Wonderland!",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Mili_%27Snow%27_Resort%2C_Party_in_Wonderland%21.png/revision/latest/scale-to-width-down/250?cb=20251221040117",
                 "duration": [
                     "December 03, 2025",
@@ -67,7 +53,7 @@
                     "Web"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Mili_%27Snow%27_Resort,_Party_in_Wonderland!"
+                "page": "https://genshin-impact.fandom.com/wiki/Mili_%22Snow%22_Resort,_Party_in_Wonderland!"
             },
             {
                 "event": "A Nocturne of the Far North",
