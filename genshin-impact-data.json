@@ -138,6 +138,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heated_Battle_Mode/2025-12-20"
+            },
+            {
+                "event": "Heroic Clash: Saurian Brawl",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Heroic_Clash_Saurian_Brawl.png/revision/latest/scale-to-width-down/250?cb=20251227043757",
+                "duration": [
+                    "December 29, 2025",
+                    "January 07, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Co-Op"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Heroic_Clash:_Saurian_Brawl"
             }
         ],
         "Upcoming": [
@@ -153,20 +167,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Heroic Clash: Saurian Brawl",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Heroic_Clash_Saurian_Brawl.png/revision/latest/scale-to-width-down/250?cb=20251227043757",
-                "duration": [
-                    "December 29, 2025",
-                    "January 07, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Co-Op"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Heroic_Clash:_Saurian_Brawl"
             },
             {
                 "event": "Marvelous Merchandise 2026-01-05",

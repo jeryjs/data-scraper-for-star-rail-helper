@@ -80,9 +80,7 @@
                 ],
                 "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Gift_of_Odyssey/2025-12-17"
-            }
-        ],
-        "Upcoming": [
+            },
             {
                 "event": "Planar Fissure 2025-12-29",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Event_Planar_Fissure.png/revision/latest/scale-to-width-down/250?cb=20250509000528",
@@ -93,9 +91,11 @@
                 "type": [
                     "In-Game"
                 ],
-                "status": "Upcoming",
+                "status": "Current",
                 "page": "https://honkai-star-rail.fandom.com/wiki/Planar_Fissure/2025-12-29"
-            },
+            }
+        ],
+        "Upcoming": [
             {
                 "event": "Realm of the Strange 2026-01-16",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20250509000613",
