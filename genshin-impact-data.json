@@ -152,6 +152,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Heroic_Clash:_Saurian_Brawl"
+            },
+            {
+                "event": "New Year's Advice from Teyvat",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/New_Year%27s_Advice_from_Teyvat.png/revision/latest/scale-to-width-down/250?cb=20251230040152",
+                "duration": [
+                    "December 30, 2025",
+                    "January 03, 2026"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/New_Year%27s_Advice_from_Teyvat"
             }
         ],
         "Upcoming": [
