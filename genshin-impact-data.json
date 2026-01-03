@@ -206,6 +206,88 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2026-01-05"
+            },
+            {
+                "event": "May Fortune Find You: Spring's Premonition",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/May_Fortune_Find_You_Spring%27s_Premonition_2026-01-16.png/revision/latest/scale-to-width-down/250?cb=20260102082832",
+                "duration": [
+                    "January 16, 2026",
+                    "February 24, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2026-01-16"
+            },
+            {
+                "event": "Shutterflash Memory Hunt",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Shutterflash_Memory_Hunt.png/revision/latest/scale-to-width-down/250?cb=20260102081456",
+                "duration": [
+                    "January 16, 2026",
+                    "January 26, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Shutterflash_Memory_Hunt"
+            },
+            {
+                "event": "Stygian Onslaught",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
+                "duration": [
+                    "January 21, 2026",
+                    "February 24, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Stygian Onslaught"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2026-01-21"
+            },
+            {
+                "event": "A Lanternlit Ode to the Silver Moon",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/A_Lanternlit_Ode_to_the_Silver_Moon_Event.png/revision/latest/scale-to-width-down/250?cb=20260102081452",
+                "duration": [
+                    "January 30, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Flagship"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Lanternlit_Ode_to_the_Silver_Moon_(Event)"
+            },
+            {
+                "event": "Moonlit Patrol Exercise",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Moonlit_Patrol_Exercise.png/revision/latest/scale-to-width-down/250?cb=20260102081454",
+                "duration": [
+                    "February 09, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Moonlit_Patrol_Exercise"
+            },
+            {
+                "event": "Ley Line Overflow 2026-02-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest/scale-to-width-down/250?cb=20220703201328",
+                "duration": [
+                    "February 16, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Ley_Line_Overflow/2026-02-16"
             }
         ],
         "Permanent": [
