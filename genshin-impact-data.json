@@ -165,6 +165,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_of_the_Moon"
+            },
+            {
+                "event": "Marvelous Merchandise 2026-01-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Marvelous_Merchandise_2024-01-22.png/revision/latest/scale-to-width-down/250?cb=20260103231818",
+                "duration": [
+                    "January 05, 2026",
+                    "January 12, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2026-01-05"
             }
         ],
         "Upcoming": [
@@ -180,19 +193,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "Marvelous Merchandise 2026-01-05",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Marvelous_Merchandise_2024-01-22.png/revision/latest/scale-to-width-down/250?cb=20260103231818",
-                "duration": [
-                    "January 05, 2026",
-                    "January 12, 2026"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2026-01-05"
             },
             {
                 "event": "May Fortune Find You: Spring's Premonition",
