@@ -97,6 +97,19 @@
         ],
         "Upcoming": [
             {
+                "event": "Remnants of Twilight",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Event_Remnants_of_Twilight.png/revision/latest/scale-to-width-down/250?cb=20260106041748",
+                "duration": [
+                    "January 07, 2026",
+                    "February 09, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://honkai-star-rail.fandom.com/wiki/Remnants_of_Twilight"
+            },
+            {
                 "event": "Realm of the Strange 2026-01-16",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Event_Realm_of_the_Strange.png/revision/latest/scale-to-width-down/250?cb=20250509000613",
                 "duration": [
