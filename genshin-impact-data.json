@@ -15,34 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Snowveil Chronicle",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Snowveil_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20251201040747",
-                "duration": [
-                    "December 03, 2025",
-                    "January 12, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2025-12-03"
-            },
-            {
-                "event": "Snowblaze",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Battle_Pass_Snowblaze.png/revision/latest/scale-to-width-down/250?cb=20251201040738",
-                "duration": [
-                    "December 03, 2025",
-                    "January 12, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Battle Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Snowblaze"
-            },
-            {
                 "event": "Mili \"Snow\" Resort, Party in Wonderland!",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Mili_%27Snow%27_Resort%2C_Party_in_Wonderland%21.png/revision/latest/scale-to-width-down/250?cb=20251221040117",
                 "duration": [
@@ -123,19 +95,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Memories_of_the_Moon"
-            },
-            {
-                "event": "Marvelous Merchandise 2026-01-05",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Marvelous_Merchandise_2024-01-22.png/revision/latest/scale-to-width-down/250?cb=20260103231818",
-                "duration": [
-                    "January 05, 2026",
-                    "January 12, 2026"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Marvelous_Merchandise/2026-01-05"
             }
         ],
         "Upcoming": [
@@ -151,6 +110,104 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
+            },
+            {
+                "event": "Melusent Gift Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Melusent_Gift_Discount.png/revision/latest/scale-to-width-down/250?cb=20260112041822",
+                "duration": [
+                    "January 14, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Melusent_Gift_Discount"
+            },
+            {
+                "event": "Lanternlit Ode",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Battle_Pass_Lanternlit_Ode.png/revision/latest/scale-to-width-down/250?cb=20260112041828",
+                "duration": [
+                    "January 14, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Battle Pass"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Lanternlit_Ode"
+            },
+            {
+                "event": "Raiment Collection: Moonlit Hour",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Raiment_Collection_Moonlit_Hour.png/revision/latest/scale-to-width-down/250?cb=20260112041834",
+                "duration": [
+                    "January 14, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Wonderland"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Raiment_Collection:_Moonlit_Hour"
+            },
+            {
+                "event": "The Forge Realm's Temper: Clever Stratagems",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/The_Forge_Realm%27s_Temper_Clever_Stratagems_2026-01-14.png/revision/latest/scale-to-width-down/250?cb=20260112041824",
+                "duration": [
+                    "January 14, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "The Forge Realm's Temper"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2026-01-14"
+            },
+            {
+                "event": "New Year's Gift",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/New_Year%27s_Gift.png/revision/latest/scale-to-width-down/250?cb=20260112041830",
+                "duration": [
+                    "January 14, 2026",
+                    "February 24, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Mail"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/New_Year%27s_Gift"
+            },
+            {
+                "event": "A Traveler on a Winter's Night",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/A_Traveler_on_a_Winter%27s_Night_Event.png/revision/latest/scale-to-width-down/250?cb=20260112041820",
+                "duration": [
+                    "January 14, 2026",
+                    "February 24, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Archon Quest"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/A_Traveler_on_a_Winter%27s_Night_(Event)"
+            },
+            {
+                "event": "The Lament of the Cliff-Shadowed Hollow",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/The_Lament_of_the_Cliff-Shadowed_Hollow.png/revision/latest/scale-to-width-down/250?cb=20260112041818",
+                "duration": [
+                    "January 14, 2026",
+                    "April 07, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Exploration Mission"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/The_Lament_of_the_Cliff-Shadowed_Hollow"
             },
             {
                 "event": "May Fortune Find You: Spring's Premonition",
