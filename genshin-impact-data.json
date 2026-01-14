@@ -15,19 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Mili \"Snow\" Resort, Party in Wonderland!",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Mili_%27Snow%27_Resort%2C_Party_in_Wonderland%21.png/revision/latest/scale-to-width-down/250?cb=20251221040117",
-                "duration": [
-                    "December 03, 2025",
-                    "January 13, 2026"
-                ],
-                "type": [
-                    "Web"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Mili_%22Snow%22_Resort,_Party_in_Wonderland!"
-            },
-            {
                 "event": "A Nocturne of the Far North",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/A_Nocturne_of_the_Far_North_Event.png/revision/latest/scale-to-width-down/250?cb=20251201040729",
                 "duration": [
@@ -68,20 +55,6 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Forge_Realm%27s_Temper/2025-12-03"
-            },
-            {
-                "event": "Stygian Onslaught: Tremorfall Trial",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
-                "duration": [
-                    "December 10, 2025",
-                    "January 13, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Stygian Onslaught"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2025-12-10"
             },
             {
                 "event": "Memories of the Moon",
@@ -264,6 +237,20 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/A_Lanternlit_Ode_to_the_Silver_Moon_(Event)"
+            },
+            {
+                "event": "Startlight Voyage: Departure",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Startlight_Voyage_Departure.png/revision/latest/scale-to-width-down/250?cb=20260113134204",
+                "duration": [
+                    "February 09, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Wonderland"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Starlight_Voyage:_Departure"
             },
             {
                 "event": "Moonlit Patrol Exercise",
