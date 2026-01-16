@@ -111,6 +111,19 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/The_Lament_of_the_Cliff-Shadowed_Hollow"
+            },
+            {
+                "event": "Where the Moon Returns",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Where_the_Moon_Returns.png/revision/latest/scale-to-width-down/250?cb=20260114040901",
+                "duration": [
+                    "January 14, 2026",
+                    "January 28, 2026"
+                ],
+                "type": [
+                    "Web"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Where_the_Moon_Returns"
             }
         ],
         "Upcoming": [
