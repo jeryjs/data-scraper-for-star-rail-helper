@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Raiment Collection: Moonlit Hour",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Raiment_Collection_Moonlit_Hour.png/revision/latest/scale-to-width-down/250?cb=20260112041834",
-                "duration": [
-                    "January 14, 2026",
-                    "February 23, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Wonderland"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Raiment_Collection:_Moonlit_Hour"
-            },
-            {
                 "event": "Melusent Gift Discount",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Melusent_Gift_Discount.png/revision/latest/scale-to-width-down/250?cb=20260112041822",
                 "duration": [
@@ -99,6 +85,20 @@
                 "page": "https://genshin-impact.fandom.com/wiki/A_Traveler_on_a_Winter%27s_Night_(Event)"
             },
             {
+                "event": "Raiment Collection: Moonlit Hour",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Raiment_Collection_Moonlit_Hour.png/revision/latest/scale-to-width-down/250?cb=20260112041834",
+                "duration": [
+                    "January 14, 2026",
+                    "February 25, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Wonderland"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Raiment_Collection:_Moonlit_Hour"
+            },
+            {
                 "event": "The Lament of the Cliff-Shadowed Hollow",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/The_Lament_of_the_Cliff-Shadowed_Hollow.png/revision/latest/scale-to-width-down/250?cb=20260112041818",
                 "duration": [
@@ -124,6 +124,34 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Where_the_Moon_Returns"
+            },
+            {
+                "event": "May Fortune Find You: Spring's Premonition",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/May_Fortune_Find_You_Spring%27s_Premonition_2026-01-16.png/revision/latest/scale-to-width-down/250?cb=20260114040433",
+                "duration": [
+                    "January 16, 2026",
+                    "February 24, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Login",
+                    "Mail"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2026-01-16"
+            },
+            {
+                "event": "Shutterflash Memory Hunt",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Shutterflash_Memory_Hunt.png/revision/latest/scale-to-width-down/250?cb=20260114040424",
+                "duration": [
+                    "January 16, 2026",
+                    "January 26, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Shutterflash_Memory_Hunt"
             }
         ],
         "Upcoming": [
@@ -139,34 +167,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
-            },
-            {
-                "event": "May Fortune Find You: Spring's Premonition",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/May_Fortune_Find_You_Spring%27s_Premonition_2026-01-16.png/revision/latest/scale-to-width-down/250?cb=20260114040433",
-                "duration": [
-                    "January 16, 2026",
-                    "February 24, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Login",
-                    "Mail"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/May_Fortune_Find_You/2026-01-16"
-            },
-            {
-                "event": "Shutterflash Memory Hunt",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Shutterflash_Memory_Hunt.png/revision/latest/scale-to-width-down/250?cb=20260114040424",
-                "duration": [
-                    "January 16, 2026",
-                    "January 26, 2026"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Shutterflash_Memory_Hunt"
             },
             {
                 "event": "Stygian Onslaught",
@@ -197,6 +197,19 @@
                 "page": "https://genshin-impact.fandom.com/wiki/A_Lanternlit_Ode_to_the_Silver_Moon_(Event)"
             },
             {
+                "event": "Moonlit Patrol Exercise",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Moonlit_Patrol_Exercise.png/revision/latest/scale-to-width-down/250?cb=20260102081454",
+                "duration": [
+                    "February 09, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Moonlit_Patrol_Exercise"
+            },
+            {
                 "event": "Startlight Voyage: Departure",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Startlight_Voyage_Departure.png/revision/latest/scale-to-width-down/250?cb=20260113134204",
                 "duration": [
@@ -209,19 +222,6 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Starlight_Voyage:_Departure"
-            },
-            {
-                "event": "Moonlit Patrol Exercise",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Moonlit_Patrol_Exercise.png/revision/latest/scale-to-width-down/250?cb=20260102081454",
-                "duration": [
-                    "February 09, 2026",
-                    "February 23, 2026"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Moonlit_Patrol_Exercise"
             },
             {
                 "event": "Ley Line Overflow 2026-02-16",
