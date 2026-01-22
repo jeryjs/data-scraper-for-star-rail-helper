@@ -15,18 +15,18 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Melusent Gift Discount",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Melusent_Gift_Discount.png/revision/latest/scale-to-width-down/250?cb=20260112041822",
+                "event": "Auspicious Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Auspicious_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20260121042113",
                 "duration": [
                     "January 14, 2026",
                     "February 23, 2026"
                 ],
                 "type": [
                     "In-Game",
-                    "Discount"
+                    "Miliastra Pass"
                 ],
                 "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Melusent_Gift_Discount"
+                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2026-01-14"
             },
             {
                 "event": "Lanternlit Ode",
@@ -41,6 +41,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Lanternlit_Ode"
+            },
+            {
+                "event": "Melusent Gift Discount",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Melusent_Gift_Discount.png/revision/latest/scale-to-width-down/250?cb=20260112041822",
+                "duration": [
+                    "January 14, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Discount"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Melusent_Gift_Discount"
             },
             {
                 "event": "The Forge Realm's Temper: Clever Stratagems",
@@ -152,6 +166,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Shutterflash_Memory_Hunt"
+            },
+            {
+                "event": "Stygian Onslaught: Blightpurge Battle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
+                "duration": [
+                    "January 21, 2026",
+                    "February 24, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Stygian Onslaught"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2026-01-21"
             }
         ],
         "Upcoming": [
@@ -169,20 +197,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/Uncover_Lunar_Realms,_Hone_the_Eventide_Radiance/2025-10-22"
             },
             {
-                "event": "Stygian Onslaught",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Stygian_Onslaught_2025-10-29.png/revision/latest/scale-to-width-down/250?cb=20251027040639",
-                "duration": [
-                    "January 21, 2026",
-                    "February 24, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Stygian Onslaught"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Stygian_Onslaught/2026-01-21"
-            },
-            {
                 "event": "A Lanternlit Ode to the Silver Moon",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/A_Lanternlit_Ode_to_the_Silver_Moon_Event.png/revision/latest/scale-to-width-down/250?cb=20260102081452",
                 "duration": [
@@ -197,19 +211,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/A_Lanternlit_Ode_to_the_Silver_Moon_(Event)"
             },
             {
-                "event": "Moonlit Patrol Exercise",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Moonlit_Patrol_Exercise.png/revision/latest/scale-to-width-down/250?cb=20260102081454",
-                "duration": [
-                    "February 09, 2026",
-                    "February 23, 2026"
-                ],
-                "type": [
-                    "In-Game"
-                ],
-                "status": "Upcoming",
-                "page": "https://genshin-impact.fandom.com/wiki/Moonlit_Patrol_Exercise"
-            },
-            {
                 "event": "Startlight Voyage: Departure",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Startlight_Voyage_Departure.png/revision/latest/scale-to-width-down/250?cb=20260113134204",
                 "duration": [
@@ -222,6 +223,19 @@
                 ],
                 "status": "Upcoming",
                 "page": "https://genshin-impact.fandom.com/wiki/Starlight_Voyage:_Departure"
+            },
+            {
+                "event": "Moonlit Patrol Exercise",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Moonlit_Patrol_Exercise.png/revision/latest/scale-to-width-down/250?cb=20260102081454",
+                "duration": [
+                    "February 09, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game"
+                ],
+                "status": "Upcoming",
+                "page": "https://genshin-impact.fandom.com/wiki/Moonlit_Patrol_Exercise"
             },
             {
                 "event": "Ley Line Overflow 2026-02-16",
