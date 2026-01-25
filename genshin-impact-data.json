@@ -15,20 +15,6 @@
                 "page": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2025-12-01"
             },
             {
-                "event": "Auspicious Chronicle",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Auspicious_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20260121042113",
-                "duration": [
-                    "January 14, 2026",
-                    "February 23, 2026"
-                ],
-                "type": [
-                    "In-Game",
-                    "Miliastra Pass"
-                ],
-                "status": "Current",
-                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2026-01-14"
-            },
-            {
                 "event": "Lanternlit Ode",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Battle_Pass_Lanternlit_Ode.png/revision/latest/scale-to-width-down/250?cb=20260112041828",
                 "duration": [
@@ -41,6 +27,20 @@
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Battle_Pass/Lanternlit_Ode"
+            },
+            {
+                "event": "Auspicious Chronicle",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Auspicious_Chronicle.png/revision/latest/scale-to-width-down/250?cb=20260121042113",
+                "duration": [
+                    "January 14, 2026",
+                    "February 23, 2026"
+                ],
+                "type": [
+                    "In-Game",
+                    "Miliastra Pass"
+                ],
+                "status": "Current",
+                "page": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2026-01-14"
             },
             {
                 "event": "Melusent Gift Discount",
@@ -162,7 +162,8 @@
                     "January 26, 2026"
                 ],
                 "type": [
-                    "In-Game"
+                    "In-Game",
+                    "Kamera"
                 ],
                 "status": "Current",
                 "page": "https://genshin-impact.fandom.com/wiki/Shutterflash_Memory_Hunt"
